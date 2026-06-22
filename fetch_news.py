@@ -3,32 +3,30 @@ import json
 import os
 from datetime import datetime, timezone
 
-# Daftar RSS feed berita Kepri
 RSS_FEEDS = [
     {
         "name": "Antara Kepri",
-        "url": "https://kepri.antaranews.com/rss/",
+        "url": "https://kepri.antaranews.com/rss/terkini.xml",
         "color": "#e63946"
     },
     {
-        "name": "Batamnews",
-        "url": "https://batamnews.co.id/feed",
-        "color": "#2a9d8f"
+        "name": "Antara Kepri Top News",
+        "url": "https://kepri.antaranews.com/rss/top-news.xml",
+        "color": "#c1121f"
     },
     {
         "name": "Tribun Batam",
-        "url": "https://batam.tribunnews.com/rss",
+        "url": "https://batam.tribunnews.com/feed",
         "color": "#e76f51"
     },
     {
-        "name": "Antara Batam (English)",
-        "url": "https://en.antaranews.com/rss/nusantara-batam.xml",
+        "name": "Antara Nasional",
+        "url": "https://www.antaranews.com/rss/terkini.xml",
         "color": "#457b9d"
     },
 ]
 
 def parse_date(entry):
-    """Ambil tanggal dari entry RSS, fallback ke sekarang jika gagal."""
     for attr in ("published_parsed", "updated_parsed"):
         t = getattr(entry, attr, None)
         if t:
@@ -45,7 +43,8 @@ def fetch_all():
         print(f"Mengambil dari {feed_info['name']}...")
         try:
             feed = feedparser.parse(feed_info["url"])
-            for entry in feed.entries[:15]:  # Ambil 15 artikel per sumber
+            count = 0
+            for entry in feed.entries[:15]:
                 articles.append({
                     "title": entry.get("title", "").strip(),
                     "link": entry.get("link", ""),
@@ -54,11 +53,11 @@ def fetch_all():
                     "source": feed_info["name"],
                     "color": feed_info["color"],
                 })
-            print(f"  ✓ {len(feed.entries[:15])} artikel")
+                count += 1
+            print(f"  ✓ {count} artikel")
         except Exception as e:
             print(f"  ✗ Gagal: {e}")
 
-    # Urutkan dari terbaru
     articles.sort(key=lambda x: x["published"], reverse=True)
 
     output = {
