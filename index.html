@@ -218,12 +218,11 @@
 </header>
 
 <div class="controls">
-  <input type="text" id="search" placeholder="Cari berita..." />
   <button class="filter-btn active" data-source="semua">Semua</button>
   <button class="filter-btn" data-source="Antara Kepri">Antara Kepri</button>
-  <button class="filter-btn" data-source="Batamnews">Batamnews</button>
+  <button class="filter-btn" data-source="Antara Kepri Top News">Top News</button>
   <button class="filter-btn" data-source="Tribun Batam">Tribun Batam</button>
-  <button class="filter-btn" data-source="Antara Batam (English)">Antara EN</button>
+  <button class="filter-btn" data-source="Antara Nasional">Antara Nasional</button>
 </div>
 
 <div class="stats">
@@ -319,6 +318,7 @@
     .then(data => {
       allArticles = data.articles;
       document.getElementById("stat-total").textContent = data.total;
+      document.getElementById("stat-sources").textContent = [...new Set(data.articles.map(a => a.source))].length;
       document.getElementById("stat-today").textContent = data.articles.filter(a => isToday(a.published)).length;
       document.getElementById("last-updated").textContent = "Diperbarui: " + formatDate(data.last_updated);
       render();
