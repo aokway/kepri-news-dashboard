@@ -3,134 +3,287 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Dashboard Berita Kepri</title>
+  <title>Berita Kepri - Portal Berita Kepulauan Riau</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700;800&family=Source+Serif+4:wght@400;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
 
-    body {
-      font-family: 'Segoe UI', system-ui, sans-serif;
-      background: #f4f6f8;
-      color: #1a1a2e;
-      min-height: 100vh;
+    :root {
+      --hijau: #1b4332;
+      --hijau2: #2d6a4f;
+      --emas: #b8972a;
+      --emas-terang: #d4af37;
+      --krem: #faf7f0;
+      --krem2: #f0ebe0;
+      --gelap: #1a1a1a;
+      --abu: #666;
+      --border: #e0d8c8;
     }
 
+    body {
+      font-family: 'Inter', sans-serif;
+      background: var(--krem);
+      color: var(--gelap);
+    }
+
+    /* ── HEADER ── */
     header {
-      background: #1a1a2e;
-      color: white;
-      padding: 1.5rem 2rem;
+      background: var(--hijau);
+      border-bottom: 3px solid var(--emas);
+    }
+
+    .header-ticker {
+      background: var(--emas);
+      padding: 0.35rem 2rem;
+      font-size: 0.7rem;
+      font-weight: 600;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--hijau);
       display: flex;
       justify-content: space-between;
+    }
+
+    .header-main {
+      padding: 1.25rem 2rem 1.1rem;
+      display: flex;
       align-items: center;
-      flex-wrap: wrap;
-      gap: 1rem;
+      gap: 1.5rem;
     }
 
-    header h1 {
-      font-size: 1.4rem;
-      font-weight: 600;
-      letter-spacing: 0.01em;
+    .header-divider {
+      width: 2px;
+      height: 52px;
+      background: var(--emas);
+      opacity: 0.5;
     }
 
-    header h1 span {
-      color: #4cc9f0;
+    .site-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 2.2rem;
+      font-weight: 800;
+      color: white;
+      letter-spacing: -0.01em;
+      line-height: 1;
+    }
+
+    .site-title span { color: var(--emas-terang); }
+
+    .site-sub {
+      font-size: 0.65rem;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: rgba(212,175,55,0.7);
+      margin-top: 0.35rem;
+    }
+
+    .header-right {
+      margin-left: auto;
+      text-align: right;
     }
 
     #last-updated {
-      font-size: 0.8rem;
-      color: #a0aec0;
+      font-size: 0.72rem;
+      color: rgba(212,175,55,0.65);
     }
 
-    .controls {
+    /* ── ORNAMEN GARIS ── */
+    .ornament {
+      height: 2px;
+      background: linear-gradient(90deg, transparent, var(--emas), var(--emas-terang), var(--emas), transparent);
+    }
+
+    /* ── NAVIGASI ── */
+    .nav-wrap {
       background: white;
-      padding: 1rem 2rem;
-      border-bottom: 1px solid #e2e8f0;
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: 0 1px 8px rgba(0,0,0,0.06);
+    }
+
+    .nav-bar {
       display: flex;
-      gap: 0.75rem;
-      align-items: center;
-      flex-wrap: wrap;
+      overflow-x: auto;
+      scrollbar-width: none;
+      padding: 0 1.5rem;
     }
 
-    .controls input {
-      flex: 1;
-      min-width: 200px;
-      padding: 0.5rem 0.9rem;
-      border: 1px solid #cbd5e0;
-      border-radius: 8px;
-      font-size: 0.9rem;
-      outline: none;
-      transition: border-color 0.2s;
-    }
+    .nav-bar::-webkit-scrollbar { display: none; }
 
-    .controls input:focus { border-color: #4cc9f0; }
-
-    .filter-btn {
-      padding: 0.45rem 1rem;
-      border: 1px solid #cbd5e0;
-      border-radius: 8px;
-      background: white;
-      font-size: 0.82rem;
+    .nav-btn {
+      padding: 0.9rem 1rem;
+      border: none;
+      background: transparent;
+      font-family: 'Inter', sans-serif;
+      font-size: 0.78rem;
+      font-weight: 500;
+      color: var(--abu);
       cursor: pointer;
-      transition: all 0.2s;
-      color: #4a5568;
+      border-bottom: 2px solid transparent;
+      margin-bottom: -1px;
+      white-space: nowrap;
+      letter-spacing: 0.01em;
+      transition: all 0.15s;
     }
 
-    .filter-btn:hover, .filter-btn.active {
-      background: #1a1a2e;
+    .nav-btn:hover { color: var(--hijau); }
+
+    .nav-btn.active {
+      color: var(--hijau);
+      border-bottom-color: var(--emas);
+      font-weight: 600;
+    }
+
+    /* ── SEARCH ── */
+    .search-wrap {
+      background: var(--hijau);
+      padding: 0.65rem 2rem;
+    }
+
+    .search-inner {
+      max-width: 480px;
+      position: relative;
+    }
+
+    .search-inner input {
+      width: 100%;
+      padding: 0.55rem 1rem 0.55rem 2.4rem;
+      border: 1px solid rgba(212,175,55,0.35);
+      border-radius: 2px;
+      background: rgba(255,255,255,0.08);
       color: white;
-      border-color: #1a1a2e;
+      font-family: 'Inter', sans-serif;
+      font-size: 0.82rem;
+      outline: none;
+      transition: border-color 0.2s, background 0.2s;
     }
 
-    .stats {
+    .search-inner input::placeholder { color: rgba(255,255,255,0.4); }
+    .search-inner input:focus { border-color: var(--emas); background: rgba(255,255,255,0.13); }
+
+    .search-icon {
+      position: absolute;
+      left: 0.75rem;
+      top: 50%;
+      transform: translateY(-50%);
+      color: rgba(212,175,55,0.6);
+      font-size: 0.85rem;
+      pointer-events: none;
+    }
+
+    /* ── STATS ── */
+    .stats-bar {
+      background: var(--krem2);
+      border-bottom: 1px solid var(--border);
+      padding: 0.6rem 2rem;
       display: flex;
-      gap: 1rem;
-      padding: 1.25rem 2rem;
-      flex-wrap: wrap;
+      gap: 2rem;
+      align-items: center;
     }
 
-    .stat-card {
-      background: white;
-      border-radius: 10px;
-      padding: 0.9rem 1.25rem;
-      border: 1px solid #e2e8f0;
-      min-width: 130px;
+    .stat-item { display: flex; align-items: baseline; gap: 0.35rem; }
+    .stat-num { font-size: 1.15rem; font-weight: 700; color: var(--hijau); font-family: 'Playfair Display', serif; }
+    .stat-lbl { font-size: 0.72rem; color: var(--abu); }
+    .stat-sep { width: 1px; height: 18px; background: var(--border); }
+
+    /* ── KONTEN ── */
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 1.75rem 2rem 4rem;
     }
 
-    .stat-card .num {
-      font-size: 1.6rem;
-      font-weight: 700;
-      color: #1a1a2e;
+    .section-head {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      margin-bottom: 1.25rem;
     }
 
-    .stat-card .lbl {
+    .section-head-line {
+      flex: 1;
+      height: 1px;
+      background: var(--border);
+    }
+
+    .section-head-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 0.9rem;
+      font-weight: 600;
+      color: var(--emas);
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      white-space: nowrap;
+    }
+
+    #count-label {
       font-size: 0.75rem;
-      color: #718096;
-      margin-top: 2px;
+      color: var(--abu);
+      margin-bottom: 1rem;
     }
 
-    .grid {
+    .news-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-      gap: 1rem;
-      padding: 0 2rem 2rem;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 1.25rem;
     }
 
+    /* ── KARTU ── */
     .card {
       background: white;
-      border-radius: 12px;
-      border: 1px solid #e2e8f0;
-      overflow: hidden;
-      transition: transform 0.15s, box-shadow 0.15s;
+      border: 1px solid var(--border);
+      border-top: 3px solid var(--hijau);
       display: flex;
       flex-direction: column;
+      transition: transform 0.18s, box-shadow 0.18s;
     }
 
     .card:hover {
       transform: translateY(-2px);
-      box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+      box-shadow: 0 6px 20px rgba(27,67,50,0.1);
     }
 
-    .card-accent {
-      height: 4px;
+    .card-img-wrap {
+      width: 100%;
+      height: 175px;
+      overflow: hidden;
+      background: var(--krem2);
+      position: relative;
+    }
+
+    .card-img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform 0.3s;
+    }
+
+    .card:hover .card-img { transform: scale(1.03); }
+
+    .card-img-placeholder {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(135deg, var(--hijau) 0%, var(--hijau2) 100%);
+    }
+
+    .placeholder-pattern {
+      width: 48px;
+      height: 48px;
+      border: 2px solid rgba(212,175,55,0.4);
+      transform: rotate(45deg);
+      position: relative;
+    }
+
+    .placeholder-pattern::before {
+      content: '';
+      position: absolute;
+      inset: 6px;
+      border: 1px solid rgba(212,175,55,0.3);
     }
 
     .card-body {
@@ -140,192 +293,284 @@
       flex-direction: column;
     }
 
-    .card-source {
-      font-size: 0.72rem;
-      font-weight: 600;
-      text-transform: uppercase;
-      letter-spacing: 0.05em;
-      margin-bottom: 0.5rem;
-    }
-
-    .card-title {
-      font-size: 0.95rem;
-      font-weight: 600;
-      line-height: 1.45;
-      margin-bottom: 0.6rem;
-      color: #1a1a2e;
-    }
-
-    .card-summary {
-      font-size: 0.82rem;
-      color: #718096;
-      line-height: 1.6;
-      flex: 1;
-    }
-
-    .card-footer {
-      padding: 0.7rem 1.1rem;
-      border-top: 1px solid #f0f0f0;
+    .card-meta {
       display: flex;
       justify-content: space-between;
       align-items: center;
+      margin-bottom: 0.6rem;
+    }
+
+    .card-source {
+      font-size: 0.65rem;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      padding: 0.18rem 0.55rem;
+      border-left: 2px solid;
     }
 
     .card-date {
-      font-size: 0.75rem;
-      color: #a0aec0;
+      font-size: 0.68rem;
+      color: var(--abu);
+    }
+
+    .card-title {
+      font-family: 'Source Serif 4', serif;
+      font-size: 1rem;
+      font-weight: 600;
+      line-height: 1.5;
+      color: var(--gelap);
+      margin-bottom: 0.6rem;
+      flex: 1;
+    }
+
+    .card-summary {
+      font-size: 0.78rem;
+      color: #777;
+      line-height: 1.65;
+      margin-bottom: 0.85rem;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .card-footer {
+      border-top: 1px solid var(--krem2);
+      padding-top: 0.7rem;
+      display: flex;
+      justify-content: flex-end;
     }
 
     .read-btn {
-      font-size: 0.75rem;
-      padding: 0.3rem 0.75rem;
-      background: #1a1a2e;
+      font-size: 0.72rem;
+      font-weight: 600;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      padding: 0.4rem 0.9rem;
+      background: var(--hijau);
       color: white;
-      border-radius: 6px;
       text-decoration: none;
       transition: background 0.2s;
     }
 
-    .read-btn:hover { background: #2d3748; }
-
-    #count-label {
-      font-size: 0.82rem;
-      color: #718096;
-      padding: 0 2rem 0.5rem;
-    }
+    .read-btn:hover { background: var(--hijau2); }
 
     .empty {
       grid-column: 1/-1;
       text-align: center;
-      padding: 3rem;
-      color: #a0aec0;
-      font-size: 0.95rem;
+      padding: 5rem 2rem;
+      color: var(--abu);
+      font-family: 'Playfair Display', serif;
+      font-size: 1.1rem;
     }
 
-    @media (max-width: 600px) {
-      header { padding: 1rem; }
-      .stats { padding: 1rem; }
-      .grid { padding: 0 1rem 1rem; grid-template-columns: 1fr; }
-      .controls { padding: 0.75rem 1rem; }
+    /* ── FOOTER ── */
+    footer {
+      background: var(--hijau);
+      border-top: 2px solid var(--emas);
+      color: rgba(255,255,255,0.5);
+      text-align: center;
+      padding: 1.5rem;
+      font-size: 0.75rem;
+      letter-spacing: 0.03em;
+    }
+
+    footer strong { color: var(--emas-terang); }
+
+    @media (max-width: 640px) {
+      .header-main { padding: 1rem; }
+      .site-title { font-size: 1.6rem; }
+      .container { padding: 1rem 1rem 3rem; }
+      .stats-bar { gap: 1rem; padding: 0.6rem 1rem; }
+      .search-wrap { padding: 0.65rem 1rem; }
     }
   </style>
 </head>
 <body>
 
 <header>
-  <h1>📰 Berita <span>Kepri</span> Dashboard</h1>
-  <div id="last-updated">Memuat...</div>
+  <div class="header-ticker">
+    <span>Portal Berita Kepulauan Riau</span>
+    <span id="last-updated">Memuat...</span>
+  </div>
+  <div class="header-main">
+    <div>
+      <div class="site-title">Berita <span>Kepri</span></div>
+      <div class="site-sub">Batam &bull; Tanjungpinang &bull; Bintan &bull; Karimun &bull; Natuna &bull; Lingga &bull; Anambas</div>
+    </div>
+    <div class="header-right">
+      <div id="last-updated-2" style="font-size:0.72rem;color:rgba(212,175,55,0.6);"></div>
+    </div>
+  </div>
 </header>
 
-<div class="controls">
-  <input type="text" id="search" placeholder="Cari berita..." />
-  <button class="filter-btn active" data-source="semua">Semua</button>
-  <button class="filter-btn" data-source="Antara Kepri">Antara Kepri</button>
-  <button class="filter-btn" data-source="Antara Kepri Top News">Top News</button>
-  <button class="filter-btn" data-source="Tribun Batam">Tribun Batam</button>
-  <button class="filter-btn" data-source="Antara Nasional">Antara Nasional</button>
+<div class="ornament"></div>
+
+<div class="nav-wrap">
+  <nav class="nav-bar">
+    <button class="nav-btn active" data-source="semua">Semua Berita</button>
+    <button class="nav-btn" data-source="Antara Kepri">Antara Kepri</button>
+    <button class="nav-btn" data-source="Antara Kepri Top News">Top News</button>
+    <button class="nav-btn" data-source="Antara Kepri Ekonomi & FTZ">Ekonomi & FTZ</button>
+    <button class="nav-btn" data-source="Antara Kepri Hukum">Hukum</button>
+    <button class="nav-btn" data-source="Antara Kepri Politik">Politik</button>
+    <button class="nav-btn" data-source="Antara Kepri Kesra">Kesra</button>
+    <button class="nav-btn" data-source="Antara Kepri Olahraga">Olahraga</button>
+    <button class="nav-btn" data-source="Antara Kepri Wisata">Wisata</button>
+    <button class="nav-btn" data-source="Tribun Batam">Tribun Batam</button>
+    <button class="nav-btn" data-source="Antara Nasional">Nasional</button>
+  </nav>
 </div>
 
-<div class="stats">
-  <div class="stat-card">
-    <div class="num" id="stat-total">-</div>
-    <div class="lbl">Total Artikel</div>
-  </div>
-  <div class="stat-card">
-    <div class="num" id="stat-sources">4</div>
-    <div class="lbl">Sumber Berita</div>
-  </div>
-  <div class="stat-card">
-    <div class="num" id="stat-today">-</div>
-    <div class="lbl">Artikel Hari Ini</div>
+<div class="search-wrap">
+  <div class="search-inner">
+    <span class="search-icon">&#9906;</span>
+    <input type="text" id="search" placeholder="Cari berita..." />
   </div>
 </div>
 
-<p id="count-label"></p>
-<div class="grid" id="news-grid"></div>
+<div class="stats-bar">
+  <div class="stat-item">
+    <span class="stat-num" id="stat-total">-</span>
+    <span class="stat-lbl">Artikel</span>
+  </div>
+  <div class="stat-sep"></div>
+  <div class="stat-item">
+    <span class="stat-num" id="stat-sources">-</span>
+    <span class="stat-lbl">Sumber</span>
+  </div>
+  <div class="stat-sep"></div>
+  <div class="stat-item">
+    <span class="stat-num" id="stat-today">-</span>
+    <span class="stat-lbl">Hari Ini</span>
+  </div>
+</div>
+
+<div class="container">
+  <div class="section-head">
+    <div class="section-head-line"></div>
+    <div class="section-head-title">Berita Terkini</div>
+    <div class="section-head-line"></div>
+  </div>
+  <p id="count-label"></p>
+  <div class="news-grid" id="news-grid"></div>
+</div>
+
+<footer>
+  <strong>Berita Kepri</strong> &mdash; Portal Berita Kepulauan Riau &nbsp;&bull;&nbsp;
+  Diperbarui otomatis setiap hari pukul 07.00 WIB &nbsp;&bull;&nbsp;
+  Sumber: Antara Kepri &amp; Tribun Batam
+</footer>
 
 <script>
   let allArticles = [];
   let activeSource = "semua";
   let searchQuery = "";
 
+  const SOURCE_COLORS = {
+    "Antara Kepri":              "#1b4332",
+    "Antara Kepri Top News":     "#7b2d00",
+    "Antara Kepri Ekonomi & FTZ":"#7c5c00",
+    "Antara Kepri Hukum":        "#4a0072",
+    "Antara Kepri Politik":      "#003580",
+    "Antara Kepri Kesra":        "#1a5276",
+    "Antara Kepri Olahraga":     "#7d4e00",
+    "Antara Kepri Wisata":       "#006a8e",
+    "Tribun Batam":              "#7b0000",
+    "Antara Nasional":           "#2c3e50",
+  };
+
   function formatDate(iso) {
     try {
-      const d = new Date(iso);
-      return d.toLocaleDateString("id-ID", { day: "numeric", month: "short", year: "numeric", hour: "2-digit", minute: "2-digit" });
+      return new Date(iso).toLocaleDateString("id-ID", {
+        day: "numeric", month: "short", year: "numeric",
+        hour: "2-digit", minute: "2-digit"
+      });
     } catch { return iso; }
   }
 
   function isToday(iso) {
-    const d = new Date(iso);
-    const now = new Date();
-    return d.getDate() === now.getDate() && d.getMonth() === now.getMonth() && d.getFullYear() === now.getFullYear();
+    const d = new Date(iso), n = new Date();
+    return d.getDate()===n.getDate() && d.getMonth()===n.getMonth() && d.getFullYear()===n.getFullYear();
   }
 
   function stripHtml(html) {
-    return html.replace(/<[^>]*>/g, "").replace(/&nbsp;/g, " ").replace(/&amp;/g, "&").trim();
+    return html.replace(/<[^>]*>/g,"").replace(/&nbsp;/g," ").replace(/&amp;/g,"&").trim();
+  }
+
+  function extractImg(summary) {
+    const m = summary.match(/src="([^"]+)"/);
+    return m ? m[1] : null;
   }
 
   function render() {
     const grid = document.getElementById("news-grid");
     const filtered = allArticles.filter(a => {
-      const matchSource = activeSource === "semua" || a.source === activeSource;
-      const matchSearch = !searchQuery || a.title.toLowerCase().includes(searchQuery) || a.summary.toLowerCase().includes(searchQuery);
-      return matchSource && matchSearch;
+      const ms = activeSource==="semua" || a.source===activeSource;
+      const mq = !searchQuery || a.title.toLowerCase().includes(searchQuery) || stripHtml(a.summary).toLowerCase().includes(searchQuery);
+      return ms && mq;
     });
 
     document.getElementById("count-label").textContent = `Menampilkan ${filtered.length} artikel`;
 
-    if (filtered.length === 0) {
-      grid.innerHTML = '<div class="empty">Tidak ada artikel ditemukan.</div>';
+    if (!filtered.length) {
+      grid.innerHTML = '<div class="empty">Tidak ada berita ditemukan.</div>';
       return;
     }
 
-    grid.innerHTML = filtered.map(a => `
-      <div class="card">
-        <div class="card-accent" style="background:${a.color}"></div>
+    grid.innerHTML = filtered.map(a => {
+      const img = extractImg(a.summary);
+      const color = SOURCE_COLORS[a.source] || "#1b4332";
+      const imgPart = img
+        ? `<div class="card-img-wrap"><img class="card-img" src="${img}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='<div class=card-img-placeholder><div class=placeholder-pattern></div></div>'"></div>`
+        : `<div class="card-img-wrap"><div class="card-img-placeholder"><div class="placeholder-pattern"></div></div></div>`;
+
+      return `<div class="card">
+        ${imgPart}
         <div class="card-body">
-          <div class="card-source" style="color:${a.color}">${a.source}</div>
+          <div class="card-meta">
+            <span class="card-source" style="color:${color};border-color:${color};background:${color}12">${a.source}</span>
+            <span class="card-date">${formatDate(a.published)}</span>
+          </div>
           <div class="card-title">${a.title}</div>
           <div class="card-summary">${stripHtml(a.summary) || "Klik untuk membaca selengkapnya."}</div>
+          <div class="card-footer">
+            <a class="read-btn" href="${a.link}" target="_blank" rel="noopener">Baca Selengkapnya</a>
+          </div>
         </div>
-        <div class="card-footer">
-          <span class="card-date">🕐 ${formatDate(a.published)}</span>
-          <a class="read-btn" href="${a.link}" target="_blank" rel="noopener">Baca →</a>
-        </div>
-      </div>
-    `).join("");
+      </div>`;
+    }).join("");
   }
 
-  // Filter buttons
-  document.querySelectorAll(".filter-btn").forEach(btn => {
+  document.querySelectorAll(".nav-btn").forEach(btn => {
     btn.addEventListener("click", () => {
-      document.querySelectorAll(".filter-btn").forEach(b => b.classList.remove("active"));
+      document.querySelectorAll(".nav-btn").forEach(b => b.classList.remove("active"));
       btn.classList.add("active");
       activeSource = btn.dataset.source;
       render();
     });
   });
 
-  // Search
   document.getElementById("search").addEventListener("input", e => {
     searchQuery = e.target.value.toLowerCase().trim();
     render();
   });
 
-  // Load data
   fetch("data/news.json")
     .then(r => r.json())
     .then(data => {
       allArticles = data.articles;
       document.getElementById("stat-total").textContent = data.total;
-      document.getElementById("stat-sources").textContent = [...new Set(data.articles.map(a => a.source))].length;
-      document.getElementById("stat-today").textContent = data.articles.filter(a => isToday(a.published)).length;
-      document.getElementById("last-updated").textContent = "Diperbarui: " + formatDate(data.last_updated);
+      document.getElementById("stat-sources").textContent = [...new Set(data.articles.map(a=>a.source))].length;
+      document.getElementById("stat-today").textContent = data.articles.filter(a=>isToday(a.published)).length;
+      const upd = "Diperbarui: " + formatDate(data.last_updated);
+      document.getElementById("last-updated").textContent = upd;
+      document.getElementById("last-updated-2").textContent = upd;
       render();
     })
     .catch(() => {
-      document.getElementById("news-grid").innerHTML = '<div class="empty">⚠️ Gagal memuat data. Jalankan <code>python fetch_news.py</code> terlebih dahulu.</div>';
+      document.getElementById("news-grid").innerHTML = '<div class="empty">Gagal memuat data berita.</div>';
     });
 </script>
 </body>

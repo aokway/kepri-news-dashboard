@@ -4,6 +4,7 @@ import os
 from datetime import datetime, timezone
 
 RSS_FEEDS = [
+    # Antara Kepri - berbagai kategori (cover seluruh wilayah Kepri)
     {
         "name": "Antara Kepri",
         "url": "https://kepri.antaranews.com/rss/terkini.xml",
@@ -15,10 +16,42 @@ RSS_FEEDS = [
         "color": "#c1121f"
     },
     {
+        "name": "Antara Kepri Ekonomi & FTZ",
+        "url": "https://kepri.antaranews.com/rss/ekonomi-ftz.xml",
+        "color": "#e85d04"
+    },
+    {
+        "name": "Antara Kepri Hukum",
+        "url": "https://kepri.antaranews.com/rss/hukum.xml",
+        "color": "#6a0572"
+    },
+    {
+        "name": "Antara Kepri Politik",
+        "url": "https://kepri.antaranews.com/rss/politik.xml",
+        "color": "#023e8a"
+    },
+    {
+        "name": "Antara Kepri Kesra",
+        "url": "https://kepri.antaranews.com/rss/kesra.xml",
+        "color": "#2d6a4f"
+    },
+    {
+        "name": "Antara Kepri Olahraga",
+        "url": "https://kepri.antaranews.com/rss/olahraga.xml",
+        "color": "#f77f00"
+    },
+    {
+        "name": "Antara Kepri Wisata",
+        "url": "https://kepri.antaranews.com/rss/wisata.xml",
+        "color": "#0096c7"
+    },
+    # Tribun Batam
+    {
         "name": "Tribun Batam",
         "url": "https://batam.tribunnews.com/feed",
         "color": "#e76f51"
     },
+    # Antara Nasional
     {
         "name": "Antara Nasional",
         "url": "https://www.antaranews.com/rss/terkini.xml",
