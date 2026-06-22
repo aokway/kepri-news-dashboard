@@ -61,5 +61,12 @@ python -m http.server 8000
 ```
 
 ---
-
 ## ⚙️ Cara Kerja
+
+1. **GitHub Actions** berjalan otomatis setiap hari pukul 07:00 WIB
+2. **fetch_news.py** mengambil berita dari 4 RSS feed media Kepri
+3. Data disimpan ke **data/news.json**
+4. Bot melakukan **auto-commit** ke repo
+5. **GitHub Pages** serve dashboard ke publik
+6. Berita tampil di browser secara otomatis
+```
