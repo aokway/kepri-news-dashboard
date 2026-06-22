@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dashboard Berita Kepri</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Segoe UI', system-ui, sans-serif;
+      background: #f4f6f8;
+      color: #1a1a2e;
+      min-height: 100vh;
+    }
+
+    header {
+      background: #1a1a2e;
+      color: white;
+      padding: 1.5rem 2rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1rem;
+    }
+
+    header h1 {
+      font-size: 1.4rem;
+      font-weight: 600;
+      letter-spacing: 0.01em;
+    }
+
+    header h1 span {
+      color: #4cc9f0;
+    }
+
+    #last-updated {
+      font-size: 0.8rem;
+      color: #a0aec0;
+    }
+
+    .controls {
+      background: white;
+      padding: 1rem 2rem;
+      border-bottom: 1px solid #e2e8f0;
+      display: flex;
+      gap: 0.75rem;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+
+    .controls input {
+      flex: 1;
+      min-width: 200px;
+      padding: 0.5rem 0.9rem;
+      border: 1px solid #cbd5e0;
+      border-radius: 8px;
+      font-size: 0.9rem;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+
+    .controls input:focus { border-color: #4cc9f0; }
+
+    .filter-btn {
+      padding: 0.45rem 1rem;
+      border: 1px solid #cbd5e0;
+      border-radius: 8px;
+      background: white;
+      font-size: 0.82rem;
+      cursor: pointer;
+      transition: all 0.2s;
+      color: #4a5568;
+    }
+
+    .filter-btn:hover, .filter-btn.active {
+      background: #1a1a2e;
+      color: white;
+      border-color: #1a1a2e;
+    }
+
+    .stats {
+      display: flex;
+      gap: 1rem;
+      padding: 1.25rem 2rem;
+      flex-wrap: wrap;
+    }
+
+    .stat-card {
+      background: white;
+      border-radius: 10px;
+      padding: 0.9rem 1.25rem;
+      border: 1px solid #e2e8f0;
+      min-width: 130px;
+    }
+
+    .stat-card .num {
+      font-size: 1.6rem;
+      font-weight: 700;
+      color: #1a1a2e;
+    }
+
+    .stat-card .lbl {
+      font-size: 0.75rem;
+      color: #718096;
+      margin-top: 2px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 1rem;
+      padding: 0 2rem 2rem;
+    }
+
+    .card {
+      background: white;
+      border-radius: 12px;
+      border: 1px solid #e2e8f0;
+      overflow: hidden;
+      transition: transform 0.15s, box-shadow 0.15s;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+    }
+
+    .card-accent {
+      height: 4px;
+    }
+
+    .card-body {
+      padding: 1rem 1.1rem;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .card-source {
+      font-size: 0.72rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      margin-bottom: 0.5rem;
+    }
+
+    .card-title {
+      font-size: 0.95rem;
+      font-weight: 600;
+      line-height: 1.45;
+      margin-bottom: 0.6rem;
+      color: #1a1a2e;
+    }
+
+    .card-summary {
+      font-size: 0.82rem;
+      color: #718096;
+      line-height: 1.6;
+      flex: 1;
+    }
+
+    .card-footer {
+      padding: 0.7rem 1.1rem;
+      border-top: 1px solid #f0f0f0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .card-date {
+      font-size: 0.75rem;
+      color: #a0aec0;
+    }
+
+    .read-btn {
+      font-size: 0.75rem;
+      padding: 0.3rem 0.75rem;
+      background: #1a1a2e;
+      color: white;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.2s;
+    }
+
+    .read-btn:hover { background: #2d3748; }
+
+    #count-label {
+      font-size: 0.82rem;
+      color: #718096;
+      padding: 0 2rem 0.5rem;
+    }
+
+    .empty {
+      grid-column: 1/-1;
+      text-align: center;
+      padding: 3rem;
+      color: #a0aec0;
+      font-size: 0.95rem;
+    }
+
+    @media (max-width: 600px) {
+      header { padding: 1rem; }
+      .stats { padding: 1rem; }
+      .grid { padding: 0 1rem 1rem; grid-template-columns: 1fr; }
+      .controls { padding: 0.75rem 1rem; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>📰 Berita <span>Kepri</span> Dashboard</h1>
+  <div id="last-updated">Memuat...</div>
+</header>
+
+<div class="controls">
+  <input type="text" id="search" placeholder="Cari berita..." />
+  <button class="filter-btn active" data-source="semua">Semua</button>
+  <button class="filter-btn" data-source="Antara Kepri">Antara Kepri</button>
+  <button class="filter-btn" data-source="Batamnews">Batamnews</button>
+  <button class="filter-btn" data-source="Tribun Batam">Tribun Batam</button>
+  <button class="filter-btn" data-source="Antara Batam (English)">Antara EN</button>
+</div>
+
+<div class="stats">
+  <div class="stat-card">
+    <div class="num" id="stat-total">-</div>
+    <div class="lbl">Total Artikel</div>
+  </div>
+  <div class="stat-card">
+    <div class="num" id="stat-sources">4</div>
+    <div class="lbl">Sumber Berita</div>
+  </div>
+  <div class="stat-card">
+    <div class="num" id="stat-today">-</div>
+    <div class="lbl">Artikel Hari Ini</div>
+  </div>
+</div>
+
+<p id="count-label"></p>
+<div class="grid" id="news-grid"></div>
+
+<script>
+  let allArticles = [];
+  let activeSource = "semua";
+  let searchQuery = "";
+
+  function formatDate(iso) {
+    try {
+      const d = new Date(iso);
+      return d.toLocaleDateString("id-ID", { day: "numeric", month: "short", year: "numeric", hour: "2-digit", minute: "2-digit" });
+    } catch { return iso; }
+  }
+
+  function isToday(iso) {
+    const d = new Date(iso);
+    const now = new Date();
+    return d.getDate() === now.getDate() && d.getMonth() === now.getMonth() && d.getFullYear() === now.getFullYear();
+  }
+
+  function stripHtml(html) {
+    return html.replace(/<[^>]*>/g, "").replace(/&nbsp;/g, " ").replace(/&amp;/g, "&").trim();
+  }
+
+  function render() {
+    const grid = document.getElementById("news-grid");
+    const filtered = allArticles.filter(a => {
+      const matchSource = activeSource === "semua" || a.source === activeSource;
+      const matchSearch = !searchQuery || a.title.toLowerCase().includes(searchQuery) || a.summary.toLowerCase().includes(searchQuery);
+      return matchSource && matchSearch;
+    });
+
+    document.getElementById("count-label").textContent = `Menampilkan ${filtered.length} artikel`;
+
+    if (filtered.length === 0) {
+      grid.innerHTML = '<div class="empty">Tidak ada artikel ditemukan.</div>';
+      return;
+    }
+
+    grid.innerHTML = filtered.map(a => `
+      <div class="card">
+        <div class="card-accent" style="background:${a.color}"></div>
+        <div class="card-body">
+          <div class="card-source" style="color:${a.color}">${a.source}</div>
+          <div class="card-title">${a.title}</div>
+          <div class="card-summary">${stripHtml(a.summary) || "Klik untuk membaca selengkapnya."}</div>
+        </div>
+        <div class="card-footer">
+          <span class="card-date">🕐 ${formatDate(a.published)}</span>
+          <a class="read-btn" href="${a.link}" target="_blank" rel="noopener">Baca →</a>
+        </div>
+      </div>
+    `).join("");
+  }
+
+  // Filter buttons
+  document.querySelectorAll(".filter-btn").forEach(btn => {
+    btn.addEventListener("click", () => {
+      document.querySelectorAll(".filter-btn").forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+      activeSource = btn.dataset.source;
+      render();
+    });
+  });
+
+  // Search
+  document.getElementById("search").addEventListener("input", e => {
+    searchQuery = e.target.value.toLowerCase().trim();
+    render();
+  });
+
+  // Load data
+  fetch("data/news.json")
+    .then(r => r.json())
+    .then(data => {
+      allArticles = data.articles;
+      document.getElementById("stat-total").textContent = data.total;
+      document.getElementById("stat-today").textContent = data.articles.filter(a => isToday(a.published)).length;
+      document.getElementById("last-updated").textContent = "Diperbarui: " + formatDate(data.last_updated);
+      render();
+    })
+    .catch(() => {
+      document.getElementById("news-grid").innerHTML = '<div class="empty">⚠️ Gagal memuat data. Jalankan <code>python fetch_news.py</code> terlebih dahulu.</div>';
+    });
+</script>
+</body>
+</html>
