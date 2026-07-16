@@ -1,46 +1,630 @@
 {
-  "last_updated": "2026-07-15T01:13:54.625932+00:00",
+  "last_updated": "2026-07-16T01:22:53.724663+00:00",
   "total": 135,
   "articles": [
     {
-      "title": "Iran dan AS baku tembak di Selat Hormuz",
-      "link": "https://kepri.antaranews.com/berita/262585/iran-dan-as-baku-tembak-di-selat-hormuz",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/14/1001014481.png\" />Angkatan Laut Korps Garda Revolusi Iran (IRGC) dilaporkan baku tembak dengan pasukan Amerika Serikat di Selat Hormuz, menurut televisi pemerintah Iran pada Rabu.Kantor berita semi resmi Iran Tasni",
-      "published": "2026-07-15T01:09:18+00:00",
-      "source": "Antara Kepri",
-      "color": "#e63946"
-    },
-    {
-      "title": "Iran dan AS baku tembak di Selat Hormuz",
-      "link": "https://kepri.antaranews.com/berita/262585/iran-dan-as-baku-tembak-di-selat-hormuz",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/14/1001014481.png\" />Angkatan Laut Korps Garda Revolusi Iran (IRGC) dilaporkan baku tembak dengan pasukan Amerika Serikat di Selat Hormuz, menurut televisi pemerintah Iran pada Rabu.Kantor berita semi resmi Iran Tasni",
-      "published": "2026-07-15T01:09:18+00:00",
-      "source": "Antara Kepri Top News",
-      "color": "#c1121f"
-    },
-    {
-      "title": "Mantan juara dunia Andy Ruiz bersiap untuk tugas pertama hadapi Knyba",
-      "link": "https://www.antaranews.com/berita/5649767/mantan-juara-dunia-andy-ruiz-bersiap-untuk-tugas-pertama-hadapi-knyba",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/339e67a6-a68c-41f7-8e46-6db4cc46ce1d.jpeg\" />Mantan juara dunia kelas berat (minimum 90,7kg) Andy Ruiz bersiap untuk tugas pertama bersama promotor Matchroom Boxing ...",
-      "published": "2026-07-15T00:49:31+00:00",
+      "title": "Ahli biologi kelautan asal AS tewas ditembak di Filipina",
+      "link": "https://www.antaranews.com/berita/5651553/ahli-biologi-kelautan-asal-as-tewas-ditembak-di-filipina",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/16/CjkinzN000029_20260715_CBMFN0A001.jpg\" />Seorang ahli biologi kelautan asal Amerika Serikat (AS), Kent Carpenter (73), tewas ditembak setelah tiga pria tak ...",
+      "published": "2026-07-16T01:21:08+00:00",
       "source": "Antara Nasional",
       "color": "#457b9d"
     },
     {
-      "title": "Spanyol vs Prancis: De la Fuente puji mentalitas Matador",
-      "link": "https://kepri.antaranews.com/berita/262583/spanyol-vs-prancis-de-la-fuente-puji-mentalitas-matador",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/Spanyol-vs-Prancis-15072026-1.jpg\" />Pelatih tim nasional Spanyol, Luis de la Fuente, memuji&nbsp;performa anak-anak asuhnya yang tampil luar biasa saat menumbangkan Prancis pada babak semifinal Piala Dunia 2026 ya",
-      "published": "2026-07-15T00:37:12+00:00",
+      "title": "Pogacar pertahankan jersi kuning meski nyaris terjatuh di etape ke-11",
+      "link": "https://www.antaranews.com/berita/5651552/pogacar-pertahankan-jersi-kuning-meski-nyaris-terjatuh-di-etape-ke-11",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/16/IMG_0047.jpeg\" />Pembalap UAE Emirates XRG&nbsp;Tadej Pogacar berhasil mempertahankan jersi kuning pemimpin klasemen umum Tour de France ...",
+      "published": "2026-07-16T01:17:06+00:00",
+      "source": "Antara Nasional",
+      "color": "#457b9d"
+    },
+    {
+      "title": "PBB: 48 juta jiwa di Afrika Timur butuh bantuan kemanusiaan mendesak",
+      "link": "https://www.antaranews.com/berita/5651551/pbb-48-juta-jiwa-di-afrika-timur-butuh-bantuan-kemanusiaan-mendesak",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/16/CjkinzN000001_20260716_CBMFN0A001.jpg\" />&nbsp;Badan bantuan Perserikatan Bangsa-Bangsa (PBB) pada Rabu (15/7) memperingatkan bahwa Afrika Timur masih menjadi ...",
+      "published": "2026-07-16T01:16:58+00:00",
+      "source": "Antara Nasional",
+      "color": "#457b9d"
+    },
+    {
+      "title": "ASML naikkan proyeksi penjualan berkat kuatnya permintaan cip AI",
+      "link": "https://www.antaranews.com/berita/5651548/asml-naikkan-proyeksi-penjualan-berkat-kuatnya-permintaan-cip-ai",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/16/CjkinzN000034_20260715_CBMFN0A001.jpg\" />Produsen peralatan semikonduktor asal Belanda ASML pada Rabu (15/7) menaikkan proyeksi penjualannya untuk 2026, dengan ...",
+      "published": "2026-07-16T01:15:33+00:00",
+      "source": "Antara Nasional",
+      "color": "#457b9d"
+    },
+    {
+      "title": "Permintaan melemah, HPE dan HR emas kembali turun",
+      "link": "https://www.antaranews.com/berita/5651544/permintaan-melemah-hpe-dan-hr-emas-kembali-turun",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/16/IMG_9634.jpeg\" />Kementerian Perdagangan (Kemendag) menyebut penurunan harga patokan ekspor (HPE) dan harga referensi (HR) komoditas ...",
+      "published": "2026-07-16T01:13:41+00:00",
+      "source": "Antara Nasional",
+      "color": "#457b9d"
+    },
+    {
+      "title": "Harga cabai rawit Rp58.150/kg, telur ayam Rp29.000/kg per Kamis pagi",
+      "link": "https://www.antaranews.com/berita/5651543/harga-cabai-rawit-rp58150-kg-telur-ayam-rp29000-kg-per-kamis-pagi",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/16/2550BFE3-0D59-461E-966C-00FB0E24CAE5.jpeg\" />Pusat Informasi Harga Pangan Strategis (PIHPS) Nasional, yang dikelola Bank Indonesia, mencatat harga komoditas cabai ...",
+      "published": "2026-07-16T01:04:36+00:00",
+      "source": "Antara Nasional",
+      "color": "#457b9d"
+    },
+    {
+      "title": "Pemerintah bangun 9 Sekolah Rakyat di Sulsel senilai Rp2,2 triliun",
+      "link": "https://www.antaranews.com/berita/5651540/pemerintah-bangun-9-sekolah-rakyat-di-sulsel-senilai-rp22-triliun",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/16/IMG_20260716_085123.jpg\" />Gubernur Sulawesi Selatan (Sulsel) Andi Sudirman Sulaiman mengatakan kehadiran Sekolah Rakyat merupakan wujud komitmen ...",
+      "published": "2026-07-16T01:03:47+00:00",
+      "source": "Antara Nasional",
+      "color": "#457b9d"
+    },
+    {
+      "title": "Belasungkawa Prabowo untuk ayah Emir Qatar hingga usulan Jampidsus",
+      "link": "https://www.antaranews.com/berita/5651537/belasungkawa-prabowo-untuk-ayah-emir-qatar-hingga-usulan-jampidsus",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/1000032696.jpg\" />Sejumlah peristiwa penting dalam dinamika politik nasional pada Rabu (15/7) yang masih menarik untuk disimak kembali, ...",
+      "published": "2026-07-16T00:55:33+00:00",
+      "source": "Antara Nasional",
+      "color": "#457b9d"
+    },
+    {
+      "title": "Inggris kalah dari Argentina, Kane sesali taktik bertahan",
+      "link": "https://kepri.antaranews.com/berita/262687/inggris-kalah-dari-argentina-kane-sesali-taktik-bertahan",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/16/XxjpseE000750_20260716_PEPFN0A001.jpg\" />Kapten Timnas Inggris, Harry Kane, blak-blakan mengungkap penyebab utama kegagalan timnya melangkah ke final Piala Dunia 2026. Penyerang Bayern Muenchen tersebut menilai The",
+      "published": "2026-07-16T00:50:26+00:00",
       "source": "Antara Kepri",
       "color": "#e63946"
     },
     {
-      "title": "Spanyol vs Prancis: De la Fuente puji mentalitas Matador",
-      "link": "https://kepri.antaranews.com/berita/262583/spanyol-vs-prancis-de-la-fuente-puji-mentalitas-matador",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/Spanyol-vs-Prancis-15072026-1.jpg\" />Pelatih tim nasional Spanyol, Luis de la Fuente, memuji&nbsp;performa anak-anak asuhnya yang tampil luar biasa saat menumbangkan Prancis pada babak semifinal Piala Dunia 2026 ya",
-      "published": "2026-07-15T00:37:12+00:00",
+      "title": "Inggris kalah dari Argentina, Kane sesali taktik bertahan",
+      "link": "https://kepri.antaranews.com/berita/262687/inggris-kalah-dari-argentina-kane-sesali-taktik-bertahan",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/16/XxjpseE000750_20260716_PEPFN0A001.jpg\" />Kapten Timnas Inggris, Harry Kane, blak-blakan mengungkap penyebab utama kegagalan timnya melangkah ke final Piala Dunia 2026. Penyerang Bayern Muenchen tersebut menilai The",
+      "published": "2026-07-16T00:50:26+00:00",
       "source": "Antara Kepri Top News",
       "color": "#c1121f"
+    },
+    {
+      "title": "Inggris kalah dari Argentina, Kane sesali taktik bertahan",
+      "link": "https://kepri.antaranews.com/berita/262687/inggris-kalah-dari-argentina-kane-sesali-taktik-bertahan",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/16/XxjpseE000750_20260716_PEPFN0A001.jpg\" />Kapten Timnas Inggris, Harry Kane, blak-blakan mengungkap penyebab utama kegagalan timnya melangkah ke final Piala Dunia 2026. Penyerang Bayern Muenchen tersebut menilai The",
+      "published": "2026-07-16T00:50:26+00:00",
+      "source": "Antara Kepri Olahraga",
+      "color": "#f77f00"
+    },
+    {
+      "title": "Dinkes: 398 korban ISPA akibat kebakaran TPA Jatiwaringin telah pulih",
+      "link": "https://www.antaranews.com/berita/5651533/dinkes-398-korban-ispa-akibat-kebakaran-tpa-jatiwaringin-telah-pulih",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/1000415243.jpg\" />Dinas Kesehatan (Dinkes) Kabupaten Tangerang, Provinsi Banten, menyebut 398 jiwa korban yang mengidap Infeksi Saluran ...",
+      "published": "2026-07-16T00:47:24+00:00",
+      "source": "Antara Nasional",
+      "color": "#457b9d"
+    },
+    {
+      "title": "Waerenskjold rebut kemenangan perdana di etape ke-11 Tour de France",
+      "link": "https://www.antaranews.com/berita/5651531/waerenskjold-rebut-kemenangan-perdana-di-etape-ke-11-tour-de-france",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/16/IMG_0046.jpeg\" />Pembalap Uno-X Mobility Soren Waerenskjold merebut kemenangan etape pertamanya di Tour de France setelah memenangi ...",
+      "published": "2026-07-16T00:44:07+00:00",
+      "source": "Antara Nasional",
+      "color": "#457b9d"
+    },
+    {
+      "title": "Leandro Trossard tinggalkan Arsenal demi Besiktas",
+      "link": "https://kepri.antaranews.com/berita/262684/leandro-trossard-tinggalkan-arsenal-demi-besiktas",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2025/10/08/1000019673.jpg\" />Penyerang Timnas Belgia, Leandro Trossard, resmi menyudahi perjalanannya bersama juara Liga Inggris, Arsenal, setelah memutuskan hijrah ke klub &nbsp;Turki, Besiktas, pada bursa transfer musim pan",
+      "published": "2026-07-16T00:38:44+00:00",
+      "source": "Antara Kepri",
+      "color": "#e63946"
+    },
+    {
+      "title": "Leandro Trossard tinggalkan Arsenal demi Besiktas",
+      "link": "https://kepri.antaranews.com/berita/262684/leandro-trossard-tinggalkan-arsenal-demi-besiktas",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2025/10/08/1000019673.jpg\" />Penyerang Timnas Belgia, Leandro Trossard, resmi menyudahi perjalanannya bersama juara Liga Inggris, Arsenal, setelah memutuskan hijrah ke klub &nbsp;Turki, Besiktas, pada bursa transfer musim pan",
+      "published": "2026-07-16T00:38:44+00:00",
+      "source": "Antara Kepri Top News",
+      "color": "#c1121f"
+    },
+    {
+      "title": "Leandro Trossard tinggalkan Arsenal demi Besiktas",
+      "link": "https://kepri.antaranews.com/berita/262684/leandro-trossard-tinggalkan-arsenal-demi-besiktas",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2025/10/08/1000019673.jpg\" />Penyerang Timnas Belgia, Leandro Trossard, resmi menyudahi perjalanannya bersama juara Liga Inggris, Arsenal, setelah memutuskan hijrah ke klub &nbsp;Turki, Besiktas, pada bursa transfer musim pan",
+      "published": "2026-07-16T00:38:44+00:00",
+      "source": "Antara Kepri Olahraga",
+      "color": "#f77f00"
+    },
+    {
+      "title": "Harry Kane nilai timnas Inggris kalah karena main terlalu bertahan",
+      "link": "https://www.antaranews.com/berita/5651527/harry-kane-nilai-timnas-inggris-kalah-karena-main-terlalu-bertahan",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/16/XxjpseE000750_20260716_PEPFN0A001.jpg\" />Kapten timnas Inggris Harry Kane menilai timnya kalah karena memilih bermain terlalu bertahan setelah unggul lebih dulu ...",
+      "published": "2026-07-16T00:30:50+00:00",
+      "source": "Antara Nasional",
+      "color": "#457b9d"
+    },
+    {
+      "title": "Sekda: Warga Jatim sangat ingin KH Yusuf Hasyim jadi pahlawan nasional",
+      "link": "https://www.antaranews.com/berita/5651523/sekda-warga-jatim-sangat-ingin-kh-yusuf-hasyim-jadi-pahlawan-nasional",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/1251464.jpg\" />Pemerintah Provinsi (Pemprov) Jawa Timur (Jatim) mendorong penetapan KH Muhammad Yusuf Hasyim atau Pak Ud sebagai ...",
+      "published": "2026-07-16T00:26:01+00:00",
+      "source": "Antara Nasional",
+      "color": "#457b9d"
+    },
+    {
+      "title": "Pemkot Batam pulangkan 55 orang telantar ke daerah asal",
+      "link": "https://kepri.antaranews.com/berita/262683/pemkot-batam-pulangkan-55-orang-telantar-ke-daerah-asal",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/IMG_5526.jpeg\" />Dinas Sosial dan Pemberdayaan Masyarakat (Dinsos PM) Kota Batam, Kepulauan Riau (Kepri) telah memulangkan 55 orang telantar ke daerah asalnya sepanjang Januari hingga pertengahan Juli 2026, berkat",
+      "published": "2026-07-16T00:18:56+00:00",
+      "source": "Antara Kepri",
+      "color": "#e63946"
+    },
+    {
+      "title": "Pemkot Batam pulangkan 55 orang telantar ke daerah asal",
+      "link": "https://kepri.antaranews.com/berita/262683/pemkot-batam-pulangkan-55-orang-telantar-ke-daerah-asal",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/IMG_5526.jpeg\" />Dinas Sosial dan Pemberdayaan Masyarakat (Dinsos PM) Kota Batam, Kepulauan Riau (Kepri) telah memulangkan 55 orang telantar ke daerah asalnya sepanjang Januari hingga pertengahan Juli 2026, berkat",
+      "published": "2026-07-16T00:18:56+00:00",
+      "source": "Antara Kepri Top News",
+      "color": "#c1121f"
+    },
+    {
+      "title": "Pemkot Batam pulangkan 55 orang telantar ke daerah asal",
+      "link": "https://kepri.antaranews.com/berita/262683/pemkot-batam-pulangkan-55-orang-telantar-ke-daerah-asal",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/IMG_5526.jpeg\" />Dinas Sosial dan Pemberdayaan Masyarakat (Dinsos PM) Kota Batam, Kepulauan Riau (Kepri) telah memulangkan 55 orang telantar ke daerah asalnya sepanjang Januari hingga pertengahan Juli 2026, berkat",
+      "published": "2026-07-16T00:18:56+00:00",
+      "source": "Antara Kepri Kesra",
+      "color": "#2d6a4f"
+    },
+    {
+      "title": "Gulkarmat Jaktim tangani kebakaran rumah di Cipayung",
+      "link": "https://www.antaranews.com/berita/5651520/gulkarmat-jaktim-tangani-kebakaran-rumah-di-cipayung",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/16/InShot_20260716_070237437.jpg\" />Suku Dinas Penanggulangan Kebakaran dan Penyelamatan (Gulkarmat) Jakarta Timur&nbsp;menangani kebakaran sebuah rumah ...",
+      "published": "2026-07-16T00:14:12+00:00",
+      "source": "Antara Nasional",
+      "color": "#457b9d"
+    },
+    {
+      "title": "Warga luar Jakarta bisa manfaatkan mobil klinik hewan keliling",
+      "link": "https://www.antaranews.com/berita/5651517/warga-luar-jakarta-bisa-manfaatkan-mobil-klinik-hewan-keliling",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/16/1000304298.jpg\" />Dinas Ketahanan Pangan, Kelautan dan Pertanian (KPKP) DKI Jakarta mengemukakan bahwa warga luar Jakarta bisa ...",
+      "published": "2026-07-16T00:01:36+00:00",
+      "source": "Antara Nasional",
+      "color": "#457b9d"
+    },
+    {
+      "title": "KSP dorong penguatan BPJS Kesehatan menuju Indonesia Emas 2045",
+      "link": "https://www.antaranews.com/berita/5651513/ksp-dorong-penguatan-bpjs-kesehatan-menuju-indonesia-emas-2045",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/16/1000385585.jpg\" />Kepala Staf Kepresidenan Dudung Abdurachman mendorong penguatan BPJS Kesehatan melalui berbagai dukungan sebagai ...",
+      "published": "2026-07-15T23:58:53+00:00",
+      "source": "Antara Nasional",
+      "color": "#457b9d"
+    },
+    {
+      "title": "BMKG prakirakan cuaca Kepri berawan dengan potensi hujan Lokal",
+      "link": "https://kepri.antaranews.com/berita/262679/bmkg-prakirakan-cuaca-kepri-berawan-dengan-potensi-hujan-lokal",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/01/24/IMG_6554.jpeg\" />Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) Stasiun Meteorologi Kelas I Hang Nadim Batam memprakirakan kondisi cuaca di wilayah Kepulauan Riau (Kepri) secara umum akan didominasi oleh kond",
+      "published": "2026-07-15T23:56:47+00:00",
+      "source": "Antara Kepri",
+      "color": "#e63946"
+    },
+    {
+      "title": "BMKG prakirakan cuaca Kepri berawan dengan potensi hujan Lokal",
+      "link": "https://kepri.antaranews.com/berita/262679/bmkg-prakirakan-cuaca-kepri-berawan-dengan-potensi-hujan-lokal",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/01/24/IMG_6554.jpeg\" />Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) Stasiun Meteorologi Kelas I Hang Nadim Batam memprakirakan kondisi cuaca di wilayah Kepulauan Riau (Kepri) secara umum akan didominasi oleh kond",
+      "published": "2026-07-15T23:56:47+00:00",
+      "source": "Antara Kepri Top News",
+      "color": "#c1121f"
+    },
+    {
+      "title": "BMKG prakirakan cuaca Kepri berawan dengan potensi hujan Lokal",
+      "link": "https://kepri.antaranews.com/berita/262679/bmkg-prakirakan-cuaca-kepri-berawan-dengan-potensi-hujan-lokal",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/01/24/IMG_6554.jpeg\" />Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) Stasiun Meteorologi Kelas I Hang Nadim Batam memprakirakan kondisi cuaca di wilayah Kepulauan Riau (Kepri) secara umum akan didominasi oleh kond",
+      "published": "2026-07-15T23:56:47+00:00",
+      "source": "Antara Kepri Kesra",
+      "color": "#2d6a4f"
+    },
+    {
+      "title": "Argentina vs Inggris: Kisah Lautaro yang memimpikan golnya",
+      "link": "https://kepri.antaranews.com/berita/262676/argentina-vs-inggris-kisah-lautaro-yang-memimpikan-golnya",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/1000493941.jpg\" />Penyerang Timnas Argentina, Lautaro Martinez, membeberkan rahasia di balik gol dramatisnya ke gawang Inggris pada laga semifinal Piala Dunia 2026. Bomber Inter Milan ini mengaku sudah memiliki fir",
+      "published": "2026-07-15T23:36:35+00:00",
+      "source": "Antara Kepri",
+      "color": "#e63946"
+    },
+    {
+      "title": "Argentina vs Inggris: Kisah Lautaro yang memimpikan golnya",
+      "link": "https://kepri.antaranews.com/berita/262676/argentina-vs-inggris-kisah-lautaro-yang-memimpikan-golnya",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/1000493941.jpg\" />Penyerang Timnas Argentina, Lautaro Martinez, membeberkan rahasia di balik gol dramatisnya ke gawang Inggris pada laga semifinal Piala Dunia 2026. Bomber Inter Milan ini mengaku sudah memiliki fir",
+      "published": "2026-07-15T23:36:35+00:00",
+      "source": "Antara Kepri Top News",
+      "color": "#c1121f"
+    },
+    {
+      "title": "Argentina vs Inggris: Kisah Lautaro yang memimpikan golnya",
+      "link": "https://kepri.antaranews.com/berita/262676/argentina-vs-inggris-kisah-lautaro-yang-memimpikan-golnya",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/1000493941.jpg\" />Penyerang Timnas Argentina, Lautaro Martinez, membeberkan rahasia di balik gol dramatisnya ke gawang Inggris pada laga semifinal Piala Dunia 2026. Bomber Inter Milan ini mengaku sudah memiliki fir",
+      "published": "2026-07-15T23:36:35+00:00",
+      "source": "Antara Kepri Olahraga",
+      "color": "#f77f00"
+    },
+    {
+      "title": "Argentina vs Inggris 2-1: Messi cs tembus final lagi",
+      "link": "https://kepri.antaranews.com/berita/262672/argentina-vs-inggris-2-1-messi-cs-tembus-final-lagi",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/1000493941.jpg\" />Tim nasional Argentina sukses melangkah ke babak final Piala Dunia 2026 secara dramatis setelah menundukkan Inggris dengan skor 2-1 pada laga semifinal di Stadion Mercedes-Benz, Atlanta, Amerika S",
+      "published": "2026-07-15T22:29:43+00:00",
+      "source": "Antara Kepri",
+      "color": "#e63946"
+    },
+    {
+      "title": "Argentina vs Inggris 2-1: Messi cs tembus final lagi",
+      "link": "https://kepri.antaranews.com/berita/262672/argentina-vs-inggris-2-1-messi-cs-tembus-final-lagi",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/1000493941.jpg\" />Tim nasional Argentina sukses melangkah ke babak final Piala Dunia 2026 secara dramatis setelah menundukkan Inggris dengan skor 2-1 pada laga semifinal di Stadion Mercedes-Benz, Atlanta, Amerika S",
+      "published": "2026-07-15T22:29:43+00:00",
+      "source": "Antara Kepri Top News",
+      "color": "#c1121f"
+    },
+    {
+      "title": "Argentina vs Inggris 2-1: Messi cs tembus final lagi",
+      "link": "https://kepri.antaranews.com/berita/262672/argentina-vs-inggris-2-1-messi-cs-tembus-final-lagi",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/1000493941.jpg\" />Tim nasional Argentina sukses melangkah ke babak final Piala Dunia 2026 secara dramatis setelah menundukkan Inggris dengan skor 2-1 pada laga semifinal di Stadion Mercedes-Benz, Atlanta, Amerika S",
+      "published": "2026-07-15T22:29:43+00:00",
+      "source": "Antara Kepri Olahraga",
+      "color": "#f77f00"
+    },
+    {
+      "title": "Pemprov Kepri fasilitasi pemulangan dua nelayan Bintan dari Malaysia",
+      "link": "https://kepri.antaranews.com/berita/262668/pemprov-kepri-fasilitasi-pemulangan-dua-nelayan-bintan-dari-malaysia",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/inbound4635706867432954679.jpg\" />Pemerintah Provinsi Kepulauan Riau (Pemprov Kepri) memfasilitasi kepulangan dua nelayan asal Kabupaten Bintan yang telah menyelesaikan proses hukum di Malaysia akibat melanggar bat",
+      "published": "2026-07-15T15:18:35+00:00",
+      "source": "Antara Kepri",
+      "color": "#e63946"
+    },
+    {
+      "title": "Pemprov Kepri fasilitasi pemulangan dua nelayan Bintan dari Malaysia",
+      "link": "https://kepri.antaranews.com/berita/262668/pemprov-kepri-fasilitasi-pemulangan-dua-nelayan-bintan-dari-malaysia",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/inbound4635706867432954679.jpg\" />Pemerintah Provinsi Kepulauan Riau (Pemprov Kepri) memfasilitasi kepulangan dua nelayan asal Kabupaten Bintan yang telah menyelesaikan proses hukum di Malaysia akibat melanggar bat",
+      "published": "2026-07-15T15:18:35+00:00",
+      "source": "Antara Kepri Top News",
+      "color": "#c1121f"
+    },
+    {
+      "title": "Pemprov Kepri fasilitasi pemulangan dua nelayan Bintan dari Malaysia",
+      "link": "https://kepri.antaranews.com/berita/262668/pemprov-kepri-fasilitasi-pemulangan-dua-nelayan-bintan-dari-malaysia",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/inbound4635706867432954679.jpg\" />Pemerintah Provinsi Kepulauan Riau (Pemprov Kepri) memfasilitasi kepulangan dua nelayan asal Kabupaten Bintan yang telah menyelesaikan proses hukum di Malaysia akibat melanggar bat",
+      "published": "2026-07-15T15:18:35+00:00",
+      "source": "Antara Kepri Kesra",
+      "color": "#2d6a4f"
+    },
+    {
+      "title": "Natuna dapat Rp16,5 miliar untuk revitalisasi sekolah",
+      "link": "https://kepri.antaranews.com/berita/262667/natuna-dapat-rp165-miliar-untuk-revitalisasi-sekolah",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/WhatsApp-Image-2026-07-15-at-20.14.39.jpeg\" />Pemerintah Kabupaten (Pemkab) Natuna, Provinsi Kepulauan Riau, memperoleh alokasi anggaran sebesar Rp16,5 miliar dari pemerintah pusat untuk merevitalisasi sejumlah sek",
+      "published": "2026-07-15T14:12:15+00:00",
+      "source": "Antara Kepri",
+      "color": "#e63946"
+    },
+    {
+      "title": "Natuna dapat Rp16,5 miliar untuk revitalisasi sekolah",
+      "link": "https://kepri.antaranews.com/berita/262667/natuna-dapat-rp165-miliar-untuk-revitalisasi-sekolah",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/WhatsApp-Image-2026-07-15-at-20.14.39.jpeg\" />Pemerintah Kabupaten (Pemkab) Natuna, Provinsi Kepulauan Riau, memperoleh alokasi anggaran sebesar Rp16,5 miliar dari pemerintah pusat untuk merevitalisasi sejumlah sek",
+      "published": "2026-07-15T14:12:15+00:00",
+      "source": "Antara Kepri Top News",
+      "color": "#c1121f"
+    },
+    {
+      "title": "Natuna dapat Rp16,5 miliar untuk revitalisasi sekolah",
+      "link": "https://kepri.antaranews.com/berita/262667/natuna-dapat-rp165-miliar-untuk-revitalisasi-sekolah",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/WhatsApp-Image-2026-07-15-at-20.14.39.jpeg\" />Pemerintah Kabupaten (Pemkab) Natuna, Provinsi Kepulauan Riau, memperoleh alokasi anggaran sebesar Rp16,5 miliar dari pemerintah pusat untuk merevitalisasi sejumlah sek",
+      "published": "2026-07-15T14:12:15+00:00",
+      "source": "Antara Kepri Kesra",
+      "color": "#2d6a4f"
+    },
+    {
+      "title": "STY fokus tingkatkan fisik pemain Persija Jakarta",
+      "link": "https://kepri.antaranews.com/berita/262664/sty-fokus-tingkatkan-fisik-pemain-persija-jakarta",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/06/08/Shin-Tae-yong.jpg\" />Pelatih klub Persija Jakarta Shin Tae-yong (STY) kini fokus meningkatkan fisik pemain-pemain asuhannya pada awal pramusim kompetisi musim 2026/2027.Dikutip dari laman resmi I.League, Rabu, STY",
+      "published": "2026-07-15T13:33:18+00:00",
+      "source": "Antara Kepri",
+      "color": "#e63946"
+    },
+    {
+      "title": "STY fokus tingkatkan fisik pemain Persija Jakarta",
+      "link": "https://kepri.antaranews.com/berita/262664/sty-fokus-tingkatkan-fisik-pemain-persija-jakarta",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/06/08/Shin-Tae-yong.jpg\" />Pelatih klub Persija Jakarta Shin Tae-yong (STY) kini fokus meningkatkan fisik pemain-pemain asuhannya pada awal pramusim kompetisi musim 2026/2027.Dikutip dari laman resmi I.League, Rabu, STY",
+      "published": "2026-07-15T13:33:18+00:00",
+      "source": "Antara Kepri Top News",
+      "color": "#c1121f"
+    },
+    {
+      "title": "STY fokus tingkatkan fisik pemain Persija Jakarta",
+      "link": "https://kepri.antaranews.com/berita/262664/sty-fokus-tingkatkan-fisik-pemain-persija-jakarta",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/06/08/Shin-Tae-yong.jpg\" />Pelatih klub Persija Jakarta Shin Tae-yong (STY) kini fokus meningkatkan fisik pemain-pemain asuhannya pada awal pramusim kompetisi musim 2026/2027.Dikutip dari laman resmi I.League, Rabu, STY",
+      "published": "2026-07-15T13:33:18+00:00",
+      "source": "Antara Kepri Olahraga",
+      "color": "#f77f00"
+    },
+    {
+      "title": "Kemendikdasmen sediakan beasiswa S1 untuk guru di Kabupaten Natuna",
+      "link": "https://kepri.antaranews.com/berita/262663/kemendikdasmen-sediakan-beasiswa-s1-untuk-guru-di-kabupaten-natuna",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/WhatsApp-Image-2026-07-15-at-18.02.40.jpeg\" />Kementerian Pendidikan Dasar dan Menengah (Kemendikdasmen) Republik Indonesia menyediakan beasiswa bagi guru di Kabupaten Natuna, Provinsi Kepulauan Riau, untuk melanju",
+      "published": "2026-07-15T12:27:43+00:00",
+      "source": "Antara Kepri",
+      "color": "#e63946"
+    },
+    {
+      "title": "Kemendikdasmen sediakan beasiswa S1 untuk guru di Kabupaten Natuna",
+      "link": "https://kepri.antaranews.com/berita/262663/kemendikdasmen-sediakan-beasiswa-s1-untuk-guru-di-kabupaten-natuna",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/WhatsApp-Image-2026-07-15-at-18.02.40.jpeg\" />Kementerian Pendidikan Dasar dan Menengah (Kemendikdasmen) Republik Indonesia menyediakan beasiswa bagi guru di Kabupaten Natuna, Provinsi Kepulauan Riau, untuk melanju",
+      "published": "2026-07-15T12:27:43+00:00",
+      "source": "Antara Kepri Top News",
+      "color": "#c1121f"
+    },
+    {
+      "title": "Kemendikdasmen sediakan beasiswa S1 untuk guru di Kabupaten Natuna",
+      "link": "https://kepri.antaranews.com/berita/262663/kemendikdasmen-sediakan-beasiswa-s1-untuk-guru-di-kabupaten-natuna",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/WhatsApp-Image-2026-07-15-at-18.02.40.jpeg\" />Kementerian Pendidikan Dasar dan Menengah (Kemendikdasmen) Republik Indonesia menyediakan beasiswa bagi guru di Kabupaten Natuna, Provinsi Kepulauan Riau, untuk melanju",
+      "published": "2026-07-15T12:27:43+00:00",
+      "source": "Antara Kepri Kesra",
+      "color": "#2d6a4f"
+    },
+    {
+      "title": "DJP Kepri: PP 20 tahun 2026 pastikan fasilitas PPh UMKM lebih tepat sasaran",
+      "link": "https://kepri.antaranews.com/berita/262659/djp-kepri-pp-20-tahun-2026-pastikan-fasilitas-pph-umkm-lebih-tepat-sasaran",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/IMG_0285.jpeg\" />Kantor Wilayah Direktorat Jenderal Pajak (DJP) Kementerian Keuangan&nbsp;Kepulauan Riau menyatakan Peraturan Pemerintah (PP) Nomor 20 Tahun 2026 diterbitkan untuk memastikan fasilitas Pajak Penghas",
+      "published": "2026-07-15T11:43:12+00:00",
+      "source": "Antara Kepri",
+      "color": "#e63946"
+    },
+    {
+      "title": "DJP Kepri: PP 20 tahun 2026 pastikan fasilitas PPh UMKM lebih tepat sasaran",
+      "link": "https://kepri.antaranews.com/berita/262659/djp-kepri-pp-20-tahun-2026-pastikan-fasilitas-pph-umkm-lebih-tepat-sasaran",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/IMG_0285.jpeg\" />Kantor Wilayah Direktorat Jenderal Pajak (DJP) Kementerian Keuangan&nbsp;Kepulauan Riau menyatakan Peraturan Pemerintah (PP) Nomor 20 Tahun 2026 diterbitkan untuk memastikan fasilitas Pajak Penghas",
+      "published": "2026-07-15T11:43:12+00:00",
+      "source": "Antara Kepri Top News",
+      "color": "#c1121f"
+    },
+    {
+      "title": "DJP Kepri: PP 20 tahun 2026 pastikan fasilitas PPh UMKM lebih tepat sasaran",
+      "link": "https://kepri.antaranews.com/berita/262659/djp-kepri-pp-20-tahun-2026-pastikan-fasilitas-pph-umkm-lebih-tepat-sasaran",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/IMG_0285.jpeg\" />Kantor Wilayah Direktorat Jenderal Pajak (DJP) Kementerian Keuangan&nbsp;Kepulauan Riau menyatakan Peraturan Pemerintah (PP) Nomor 20 Tahun 2026 diterbitkan untuk memastikan fasilitas Pajak Penghas",
+      "published": "2026-07-15T11:43:12+00:00",
+      "source": "Antara Kepri Ekonomi & FTZ",
+      "color": "#e85d04"
+    },
+    {
+      "title": "TMMD Ke-129 di Bintan fokus bangun jalan hingga drainase",
+      "link": "https://kepri.antaranews.com/berita/262657/tmmd-ke-129-di-bintan-fokus-bangun-jalan-hingga-drainase",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/inbound6275041306048041826.jpg\" />Komandan Kodim (Dandim) 0315/Tanjungpinang Kolonel Inf Abdul Hamid menyebut program Tentara Manunggal Membangun Desa (TMMD) Ke-129 di Kabupaten Bintan, Kepulauan Riau (Kepri), foku",
+      "published": "2026-07-15T10:52:44+00:00",
+      "source": "Antara Kepri",
+      "color": "#e63946"
+    },
+    {
+      "title": "TMMD Ke-129 di Bintan fokus bangun jalan hingga drainase",
+      "link": "https://kepri.antaranews.com/berita/262657/tmmd-ke-129-di-bintan-fokus-bangun-jalan-hingga-drainase",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/inbound6275041306048041826.jpg\" />Komandan Kodim (Dandim) 0315/Tanjungpinang Kolonel Inf Abdul Hamid menyebut program Tentara Manunggal Membangun Desa (TMMD) Ke-129 di Kabupaten Bintan, Kepulauan Riau (Kepri), foku",
+      "published": "2026-07-15T10:52:44+00:00",
+      "source": "Antara Kepri Top News",
+      "color": "#c1121f"
+    },
+    {
+      "title": "TMMD Ke-129 di Bintan fokus bangun jalan hingga drainase",
+      "link": "https://kepri.antaranews.com/berita/262657/tmmd-ke-129-di-bintan-fokus-bangun-jalan-hingga-drainase",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/inbound6275041306048041826.jpg\" />Komandan Kodim (Dandim) 0315/Tanjungpinang Kolonel Inf Abdul Hamid menyebut program Tentara Manunggal Membangun Desa (TMMD) Ke-129 di Kabupaten Bintan, Kepulauan Riau (Kepri), foku",
+      "published": "2026-07-15T10:52:44+00:00",
+      "source": "Antara Kepri Kesra",
+      "color": "#2d6a4f"
+    },
+    {
+      "title": "Malaysia tegaskan usir warga Israel yang masuk ke wilayahnya",
+      "link": "https://kepri.antaranews.com/berita/262655/malaysia-tegaskan-usir-warga-israel-yang-masuk-ke-wilayahnya",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/09/1001008053.jpg\" />Perdana Menteri Anwar Ibrahim menegaskan Malaysia tidak akan berkompromi dan akan mendeportasi&nbsp;atau mengusir setiap warga negara Israel yang terdeteksi memasuki wilayah Negeri Jiran, karena M",
+      "published": "2026-07-15T10:08:35+00:00",
+      "source": "Antara Kepri",
+      "color": "#e63946"
+    },
+    {
+      "title": "Malaysia tegaskan usir warga Israel yang masuk ke wilayahnya",
+      "link": "https://kepri.antaranews.com/berita/262655/malaysia-tegaskan-usir-warga-israel-yang-masuk-ke-wilayahnya",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/09/1001008053.jpg\" />Perdana Menteri Anwar Ibrahim menegaskan Malaysia tidak akan berkompromi dan akan mendeportasi&nbsp;atau mengusir setiap warga negara Israel yang terdeteksi memasuki wilayah Negeri Jiran, karena M",
+      "published": "2026-07-15T10:08:35+00:00",
+      "source": "Antara Kepri Top News",
+      "color": "#c1121f"
+    },
+    {
+      "title": "Zulhas: Kopdes beda dengan supermarket",
+      "link": "https://kepri.antaranews.com/berita/262652/zulhas-kopdes-beda-dengan-supermarket",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/IMG_0175.jpeg\" />Menteri Koordinator Bidang Pangan (Menko Pangan) Zulkifli Hasan (Zulhas) menegaskan bahwa Koperasi Desa/Kelurahan Merah Putih (Kopdes) berbeda dengan toko ritel modern atau supermarket.&quot;Bukan",
+      "published": "2026-07-15T09:59:48+00:00",
+      "source": "Antara Kepri",
+      "color": "#e63946"
+    },
+    {
+      "title": "Zulhas: Kopdes beda dengan supermarket",
+      "link": "https://kepri.antaranews.com/berita/262652/zulhas-kopdes-beda-dengan-supermarket",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/IMG_0175.jpeg\" />Menteri Koordinator Bidang Pangan (Menko Pangan) Zulkifli Hasan (Zulhas) menegaskan bahwa Koperasi Desa/Kelurahan Merah Putih (Kopdes) berbeda dengan toko ritel modern atau supermarket.&quot;Bukan",
+      "published": "2026-07-15T09:59:48+00:00",
+      "source": "Antara Kepri Top News",
+      "color": "#c1121f"
+    },
+    {
+      "title": "Zulhas: Kopdes beda dengan supermarket",
+      "link": "https://kepri.antaranews.com/berita/262652/zulhas-kopdes-beda-dengan-supermarket",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/IMG_0175.jpeg\" />Menteri Koordinator Bidang Pangan (Menko Pangan) Zulkifli Hasan (Zulhas) menegaskan bahwa Koperasi Desa/Kelurahan Merah Putih (Kopdes) berbeda dengan toko ritel modern atau supermarket.&quot;Bukan",
+      "published": "2026-07-15T09:59:48+00:00",
+      "source": "Antara Kepri Ekonomi & FTZ",
+      "color": "#e85d04"
+    },
+    {
+      "title": "Pemkab Natuna usulkan 11 titik sub penyalur BBM perluas akses energi bagi warga",
+      "link": "https://kepri.antaranews.com/berita/262649/pemkab-natuna-usulkan-11-titik-sub-penyalur-bbm-perluas-akses-energi-bagi-warga",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/WhatsApp-Image-2026-07-15-at-15.58.51.jpeg\" />Pemerintah Kabupaten (Pemkab) Natuna, Provinsi Kepulauan Riau, mengusulkan 11 titik sub penyalur bahan bakar minyak (BBM) Subsidi ke BPH Migas, sebagai upaya memperluas",
+      "published": "2026-07-15T09:40:57+00:00",
+      "source": "Antara Kepri",
+      "color": "#e63946"
+    },
+    {
+      "title": "Pemkab Natuna usulkan 11 titik sub penyalur BBM perluas akses energi bagi warga",
+      "link": "https://kepri.antaranews.com/berita/262649/pemkab-natuna-usulkan-11-titik-sub-penyalur-bbm-perluas-akses-energi-bagi-warga",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/WhatsApp-Image-2026-07-15-at-15.58.51.jpeg\" />Pemerintah Kabupaten (Pemkab) Natuna, Provinsi Kepulauan Riau, mengusulkan 11 titik sub penyalur bahan bakar minyak (BBM) Subsidi ke BPH Migas, sebagai upaya memperluas",
+      "published": "2026-07-15T09:40:57+00:00",
+      "source": "Antara Kepri Top News",
+      "color": "#c1121f"
+    },
+    {
+      "title": "Pemkab Natuna usulkan 11 titik sub penyalur BBM perluas akses energi bagi warga",
+      "link": "https://kepri.antaranews.com/berita/262649/pemkab-natuna-usulkan-11-titik-sub-penyalur-bbm-perluas-akses-energi-bagi-warga",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/WhatsApp-Image-2026-07-15-at-15.58.51.jpeg\" />Pemerintah Kabupaten (Pemkab) Natuna, Provinsi Kepulauan Riau, mengusulkan 11 titik sub penyalur bahan bakar minyak (BBM) Subsidi ke BPH Migas, sebagai upaya memperluas",
+      "published": "2026-07-15T09:40:57+00:00",
+      "source": "Antara Kepri Kesra",
+      "color": "#2d6a4f"
+    },
+    {
+      "title": "Kepri dan Palestina komitmen perkuat hubungan persahabatan",
+      "link": "https://kepri.antaranews.com/berita/262648/kepri-dan-palestina-komitmen-perkuat-hubungan-persahabatan",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/20260715_154823.jpg\" />Pemerintah Provinsi Kepulauan Riau dan Pemerintah Palestina berkomitmen memperkuat hubungan persahabatan melalui pertemuan Gubernur Kepri Ansar Ahmad dengan Duta Besar Palestina untuk Indones",
+      "published": "2026-07-15T09:25:32+00:00",
+      "source": "Antara Kepri Politik",
+      "color": "#023e8a"
+    },
+    {
+      "title": "Kejagung terbitkan surat perintah penyidikan 3 kasus korupsi yang seret eks Jampidsus",
+      "link": "https://kepri.antaranews.com/berita/262645/kejagung-terbitkan-surat-perintah-penyidikan-3-kasus-korupsi-yang-seret-eks-jampidsus",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/1000085575.jpg\" />Kejaksaan Agung (Kejagung) menerbitkan surat perintah penyidikan (sprindik) untuk tiga kasus dugaan korupsi yang menyeret nama eks Jaksa Agung Muda Bidang Tindak Pidana Khusus (Jampidsus) berinisi",
+      "published": "2026-07-15T09:17:31+00:00",
+      "source": "Antara Kepri Hukum",
+      "color": "#6a0572"
+    },
+    {
+      "title": "Peneror bom SDN Srengseng Sawah terjerat pinjol",
+      "link": "https://kepri.antaranews.com/berita/262641/peneror-bom-sdn-srengseng-sawah-terjerat-pinjol",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/14/1000979017.jpg\" />Pria berinisial MY (34), tersangka teror bom di SDN Srengseng Sawah 15 Pagi, diketahui tidak memiliki pekerjaan tetap dan terlilit utang dari pinjaman online (pinjol), koperasi, hingga bank kelili",
+      "published": "2026-07-15T09:14:37+00:00",
+      "source": "Antara Kepri Hukum",
+      "color": "#6a0572"
+    },
+    {
+      "title": "Anggie Chalik raih emas di Asian Boxing U19 dan U23",
+      "link": "https://kepri.antaranews.com/berita/262637/anggie-chalik-raih-emas-di-asian-boxing-u19-dan-u23",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/WhatsApp-Image-2026-07-15-at-15.33.48.jpeg\" />Petinju Anggie Intania Chalik merebut medali emas untuk tim nasional tinju Indonesia setelah mengalahkan wakil India Gunjan pada final Asian Boxing U19 dan U23 2026 di",
+      "published": "2026-07-15T08:57:15+00:00",
+      "source": "Antara Kepri Olahraga",
+      "color": "#f77f00"
+    },
+    {
+      "title": "Polresta Banyumas naikkan dugaan TPPU mantan pegawai Bank Mandiri Taspen ke penyidikan",
+      "link": "https://kepri.antaranews.com/berita/262635/polresta-banyumas-naikkan-dugaan-tppu-mantan-pegawai-bank-mandiri-taspen-ke-penyidikan",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/14/1000828556.jpg\" />Kepolisian Resor Kota Banyumas menaikkan penanganan dugaan tindak pidana pencucian uang (TPPU) yang berkaitan dengan kasus mantan karyawan Bank Mandiri Taspen berinisial D ke tahap penyidikan seba",
+      "published": "2026-07-15T08:43:13+00:00",
+      "source": "Antara Kepri Hukum",
+      "color": "#6a0572"
+    },
+    {
+      "title": "Hadiah HUT RI, KJRI Johor biayai pemulangan 90 WNI dan PMI ke Batam",
+      "link": "https://kepri.antaranews.com/berita/262631/hadiah-hut-ri-kjri-johor-biayai-pemulangan-90-wni-dan-pmi-ke-batam",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/1001015850.jpg\" />Konsulat Jenderal Republik Indonesia (KJRI) Johor Bahru memfasilitasi pemulangan 90 warga negara Indonesia dan pekerja migran Indonesia (WNI/PMI) dari Malaysia ke Indonesia. Seluruh rombongan dibe",
+      "published": "2026-07-15T08:40:37+00:00",
+      "source": "Antara Kepri Politik",
+      "color": "#023e8a"
+    },
+    {
+      "title": "Sabar/Reza melaju di Japan Open meski cedera",
+      "link": "https://kepri.antaranews.com/berita/262627/sabarreza-melaju-di-japan-open-meski-cedera",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/sabar-reza.jpeg\" />Ganda putra Indonesia Sabar Karyaman Gutama/Moh Reza Pahlevi Isfahani tetap melaju ke babak kedua Japan Open 2026 meski Reza harus berjuang dalam kondisi cedera punggung yang kembali kambuh.Sabar",
+      "published": "2026-07-15T08:11:21+00:00",
+      "source": "Antara Kepri Olahraga",
+      "color": "#f77f00"
+    },
+    {
+      "title": "Pemprov Kepri usulkan percepatan pemerataan infrastruktur digital ke BNPP",
+      "link": "https://kepri.antaranews.com/berita/262624/pemprov-kepri-usulkan-percepatan-pemerataan-infrastruktur-digital-ke-bnpp",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/65efa1cc-309f-4170-ad47-e361a6542eaa.jpeg\" />Pemerintah Provinsi Kepulauan Riau (Pemprov Kepri) mengusulkan percepatan pemerataan infrastruktur digital kepada Badan Nasional Pengelola Perbatasan (BNPP) RI untuk men",
+      "published": "2026-07-15T07:45:38+00:00",
+      "source": "Antara Kepri Kesra",
+      "color": "#2d6a4f"
+    },
+    {
+      "title": "Istana terima surat usulan Jaksa Agung soal pengganti Jampidsus",
+      "link": "https://kepri.antaranews.com/berita/262620/istana-terima-surat-usulan-jaksa-agung-soal-pengganti-jampidsus",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/11/Konferensi-pers-Jampidsus-100726-Ada-2.jpg\" />Menteri Sekretaris Negara Prasetyo Hadi mengatakan Istana telah menerima surat dari Jaksa Agung ST Burhanuddin yang berisi usulan nama Jaksa Agung Muda Tindak Pidana Kh",
+      "published": "2026-07-15T07:28:35+00:00",
+      "source": "Antara Kepri Hukum",
+      "color": "#6a0572"
+    },
+    {
+      "title": "Indonesia perkuat kerja sama pertahanan dengan Singapura",
+      "link": "https://kepri.antaranews.com/berita/262617/indonesia-perkuat-kerja-sama-pertahanan-dengan-singapura",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/1001514423.jpg\" />Kementerian Pertahanan (Kemhan) RI memperkuat kerja sama pertahanan dengan Singapura melalui pertemuan Menteri Pertahanan Sjafrie Sjamsoeddin dan Menteri Pertahanan Singapura Chan Chun Sing di Jak",
+      "published": "2026-07-15T07:04:11+00:00",
+      "source": "Antara Kepri Hukum",
+      "color": "#6a0572"
+    },
+    {
+      "title": "Inggris vs Argentina: Ujian berat Tuchel redam Messi",
+      "link": "https://kepri.antaranews.com/berita/262615/inggris-vs-argentina-ujian-berat-tuchel-redam-messi",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/14/20260715-grafik-piala-dunia-2026-semifinal-inggris-vs-argentina-01.jpg\" />Duel akbar antara Timnas Inggris melawan Argentina pada babak semifinal Piala Dunia 2026 di Stadion Atlanta, Amerika Serikat, Kamis (16/7),",
+      "published": "2026-07-15T06:44:38+00:00",
+      "source": "Antara Kepri Olahraga",
+      "color": "#f77f00"
+    },
+    {
+      "title": "Kapolres Natuna perkuat sinergi dengan Kejari wujudkan penegakan hukum",
+      "link": "https://kepri.antaranews.com/berita/262609/kapolres-natuna-perkuat-sinergi-dengan-kejari-wujudkan-penegakan-hukum",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/WhatsApp-Image-2026-07-15-at-11.41.56.jpeg\" />Kepala Kepolisian Resor Natuna AKBP Novyan Aries Effendie memperkuat sinergi dengan Kejaksaan Negeri Natuna melalui pertemuan antarlembaga guna mewujudkan penegakan huk",
+      "published": "2026-07-15T06:26:54+00:00",
+      "source": "Antara Kepri Hukum",
+      "color": "#6a0572"
+    },
+    {
+      "title": "SPPG Batam salurkan MBG lagi mulai 20 Juli",
+      "link": "https://kepri.antaranews.com/berita/262605/sppg-batam-salurkan-mbg-lagi-mulai-20-juli",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/IMG_7187.jpeg\" />Koordinator Wilayah Satuan Pelayanan Pemenuhan Gizi (SPPG) Kota Batam, Kepulauan Riau (Kepri) menyebut bahwa Program Makan Bergizi Gratis (MBG) di kota itu akan kembali mulai 20 Juli 2026 setelah m",
+      "published": "2026-07-15T05:41:13+00:00",
+      "source": "Antara Kepri Kesra",
+      "color": "#2d6a4f"
+    },
+    {
+      "title": "KPK panggil asisten pribadi Bupati Tulungagung nonaktif Gatut Sunu Wibowo",
+      "link": "https://kepri.antaranews.com/berita/262604/kpk-panggil-asisten-pribadi-bupati-tulungagung-nonaktif-gatut-sunu-wibowo",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/09/pemeriksaan-tersangka-gatut-sunu-wibowo-2819143.jpg\" />Komisi Pemberantasan Korupsi (KPK) memanggil asisten pribadi Bupati Tulungagung nonaktif Gatut Sunu Wibowo sebagai saksi dalam penyidikan kasus dugaan korupsi",
+      "published": "2026-07-15T05:25:53+00:00",
+      "source": "Antara Kepri Hukum",
+      "color": "#6a0572"
+    },
+    {
+      "title": "Daftar lengkap harga emas di Pegadaian pada Rabu ini",
+      "link": "https://kepri.antaranews.com/berita/262600/daftar-lengkap-harga-emas-di-pegadaian-pada-rabu-ini",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2024/05/24/antarafoto-harga-emas-cetak-rekor-tertinggi-200524-riv-5.jpg\" />Harga emas di laman Pegadaian dikutip dari Jakarta, Rabu, pukul 10.40 WIB, menunjukkan harga emas jenama Galeri24 dan UBS kompak naik menjadi Rp2.608.",
+      "published": "2026-07-15T04:24:09+00:00",
+      "source": "Antara Kepri Ekonomi & FTZ",
+      "color": "#e85d04"
+    },
+    {
+      "title": "SPPG Batam mulai salurkan MBG pada pekan depan",
+      "link": "https://kepri.antaranews.com/berita/262599/sppg-batam-mulai-salurkan-mbg-pada-pekan-depan",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/IMG_7187.jpeg\" />Koordinator Wilayah Satuan Pelayanan Pemenuhan Gizi (SPPG) Kota Batam, Kepulauan Riau (Kepri) menyebut bahwa Program Makan Bergizi Gratis (MBG) di kota itu akan kembali mulai 20 Juli 2026 setelah m",
+      "published": "2026-07-15T03:50:17+00:00",
+      "source": "Antara Kepri Kesra",
+      "color": "#2d6a4f"
+    },
+    {
+      "title": "Harga emas Antam hari ini naik lagi",
+      "link": "https://kepri.antaranews.com/berita/262595/harga-emas-antam-hari-ini-naik-lagi",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/04/20/harga-emas-antam-turun-2762214.jpg\" />Harga emas Antam terbaru, yang dipantau dari laman Logam Mulia, di Jakarta, Rabu pukul 09.41 WIB mengalami kenaikan yakni Rp20.000, dari semula Rp2.615.000 menjadi Rp2.635.000",
+      "published": "2026-07-15T03:18:30+00:00",
+      "source": "Antara Kepri Ekonomi & FTZ",
+      "color": "#e85d04"
+    },
+    {
+      "title": "KPK: Penggeledahan rumah anggota BPK Bobby Rizaldi",
+      "link": "https://kepri.antaranews.com/berita/262592/kpk-penggeledahan-rumah-anggota-bpk-bobby-rizaldi",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/06/17/IMG_7011.jpg\" />Komisi Pemberantasan Korupsi (KPK) menyatakan penggeledahan terhadap rumah anggota V Badan Pemeriksa Keuangan (BPK) RI Bobby Adhityo Rizaldi dilakukan berbasis petunjuk.&quot;Penggeledahan yang dila",
+      "published": "2026-07-15T02:25:21+00:00",
+      "source": "Antara Kepri Hukum",
+      "color": "#6a0572"
+    },
+    {
+      "title": "Inggris vs Argentina: Madueke tegaskan skuad pede",
+      "link": "https://kepri.antaranews.com/berita/262589/inggris-vs-argentina-madueke-tegaskan-skuad-pede",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/01/18/20260118_131650.jpg\" />Penyerang sayap Timnas Inggris, Noni Madueke, menegaskan bahwa skuad The Three Lions berada dalam tingkat kepercayaan diri yang sangat tinggi menjelang laga krusial babak semifinal Piala Duni",
+      "published": "2026-07-15T01:58:17+00:00",
+      "source": "Antara Kepri Olahraga",
+      "color": "#f77f00"
     },
     {
       "title": "Spanyol vs Prancis: De la Fuente puji mentalitas Matador",
@@ -51,148 +635,12 @@
       "color": "#f77f00"
     },
     {
-      "title": "Humaniora kemarin, teror bom SD hingga ASN Jabar terindikasi judol",
-      "link": "https://www.antaranews.com/berita/5649763/humaniora-kemarin-teror-bom-sd-hingga-asn-jabar-terindikasi-judol",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/13/Dugaan-teror-bom-di-sekolah-130726-fzn-10A.jpg\" />Sejumlah berita humaniora kemarin yang masih menarik untuk dibaca, mulai dari Mendikdasmen cegah &quot;bullying&quot; ...",
-      "published": "2026-07-15T00:32:53+00:00",
-      "source": "Antara Nasional",
-      "color": "#457b9d"
-    },
-    {
-      "title": "Banjir Aceh tak memupus mimpi Zilqueensa sebagai paskibraka nasional",
-      "link": "https://www.antaranews.com/video/5649689/banjir-aceh-tak-memupus-mimpi-zilqueensa-sebagai-paskibraka-nasional",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/ChatGPT-Image-Jul-15-2026-03_32_21-AM.jpg\" />ANTARA - Banjir bandang yang menerjang&nbsp;Aceh Tamiang, akhir November 2025 lalu, tak memupus mimpi Zilqueensa ...",
-      "published": "2026-07-15T00:32:24+00:00",
-      "source": "Antara Nasional",
-      "color": "#457b9d"
-    },
-    {
-      "title": "Iran dan AS saling baku tembak di Selat Hormuz",
-      "link": "https://www.antaranews.com/berita/5649761/iran-dan-as-saling-baku-tembak-di-selat-hormuz",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/01/HormuzXinhuaWangQiang_aa.jpg\" />Angkatan Laut Korps Garda Revolusi Iran (IRGC) dilaporkan saling baku tembak dengan pasukan Amerika Serikat di Selat ...",
-      "published": "2026-07-15T00:23:38+00:00",
-      "source": "Antara Nasional",
-      "color": "#457b9d"
-    },
-    {
-      "title": "Indonesia bebaskan visa kunjungan untuk warga Kazakhstan",
-      "link": "https://www.antaranews.com/berita/5649760/indonesia-bebaskan-visa-kunjungan-untuk-warga-kazakhstan",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2025/08/07/IMG_202508219_114414392.jpg\" />Pemerintah Indonesia secara resmi memberikan fasilitas bebas visa kunjungan untuk warga Kazakhstan, mulai 9 Juli ...",
-      "published": "2026-07-15T00:20:19+00:00",
-      "source": "Antara Nasional",
-      "color": "#457b9d"
-    },
-    {
-      "title": "Spanyol ke final Piala Dunia 2026 setelah gasak Prancis 2-0",
-      "link": "https://www.antaranews.com/foto/5649756/spanyol-ke-final-piala-dunia-2026-setelah-gasak-prancis-2-0",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/Spanyol-vs-Prancis-15072026-1.jpg\" />Para pemain Timnas Spanyol merayakan kemenangan usai mengalahkan Timnas Prancis pada pertandingan semifinal Piala Dunia ...",
-      "published": "2026-07-15T00:10:43+00:00",
-      "source": "Antara Nasional",
-      "color": "#457b9d"
-    },
-    {
-      "title": "Pengamat: Kunjungan Kapolri utamakan stabilitas di atas ego sektoral",
-      "link": "https://www.antaranews.com/berita/5649755/pengamat-kunjungan-kapolri-utamakan-stabilitas-di-atas-ego-sektoral",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/13/kapolri-bertemu-jaksa-agung-2821184.jpg\" />Pengamat politik senior Boni Hargens mengemukakan&nbsp;kunjungan Kapolri Jenderal Polisi Listyo Sigit Prabowo ke ...",
-      "published": "2026-07-15T00:10:03+00:00",
-      "source": "Antara Nasional",
-      "color": "#457b9d"
-    },
-    {
-      "title": "Amankan unjuk rasa di Jakpus, ratusan personel gabungan disiagakan",
-      "link": "https://www.antaranews.com/berita/5649752/amankan-unjuk-rasa-di-jakpus-ratusan-personel-gabungan-disiagakan",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/06/15/aksi-unjuk-rasa-mahasiswa-di-jakarta-2805891.jpg\" />Sebanyak 418 personel gabungan dari Polda Metro Jaya, Polres Metro Jakarta Pusat, dan Polsek jajaran disiagakan untuk ...",
-      "published": "2026-07-15T00:09:36+00:00",
-      "source": "Antara Nasional",
-      "color": "#457b9d"
-    },
-    {
-      "title": "Argentina vs Inggris, Montiel: Tango berupaya kendalikan permainan",
-      "link": "https://kepri.antaranews.com/berita/262580/argentina-vs-inggris-montiel-tango-berupaya-kendalikan-permainan",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/IMG_20260714_150640.jpg\" />Bek kanan tim nasional Argentina, Gonzalo Montiel, menegaskan bahwa skuadnya akan berupaya keras untuk mengendalikan jalannya pertandingan saat berhadapan&nbsp;dengan Inggris pada semifin",
-      "published": "2026-07-15T00:06:40+00:00",
-      "source": "Antara Kepri",
-      "color": "#e63946"
-    },
-    {
-      "title": "Argentina vs Inggris, Montiel: Tango berupaya kendalikan permainan",
-      "link": "https://kepri.antaranews.com/berita/262580/argentina-vs-inggris-montiel-tango-berupaya-kendalikan-permainan",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/IMG_20260714_150640.jpg\" />Bek kanan tim nasional Argentina, Gonzalo Montiel, menegaskan bahwa skuadnya akan berupaya keras untuk mengendalikan jalannya pertandingan saat berhadapan&nbsp;dengan Inggris pada semifin",
-      "published": "2026-07-15T00:06:40+00:00",
-      "source": "Antara Kepri Top News",
-      "color": "#c1121f"
-    },
-    {
       "title": "Argentina vs Inggris, Montiel: Tango berupaya kendalikan permainan",
       "link": "https://kepri.antaranews.com/berita/262580/argentina-vs-inggris-montiel-tango-berupaya-kendalikan-permainan",
       "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/IMG_20260714_150640.jpg\" />Bek kanan tim nasional Argentina, Gonzalo Montiel, menegaskan bahwa skuadnya akan berupaya keras untuk mengendalikan jalannya pertandingan saat berhadapan&nbsp;dengan Inggris pada semifin",
       "published": "2026-07-15T00:06:40+00:00",
       "source": "Antara Kepri Olahraga",
       "color": "#f77f00"
-    },
-    {
-      "title": "Koalisi buruh kedepankan dialog kawal revisi UU Ketenagakerjaan",
-      "link": "https://www.antaranews.com/berita/5649751/koalisi-buruh-kedepankan-dialog-kawal-revisi-uu-ketenagakerjaan",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/WhatsApp-Image-2026-07-14-at-8.48.58-PM.jpeg\" />Koalisi Besar Perjuangan Buruh Indonesia memastikan tetap mengedepankan dialog dalam mengawal revisi ...",
-      "published": "2026-07-15T00:03:55+00:00",
-      "source": "Antara Nasional",
-      "color": "#457b9d"
-    },
-    {
-      "title": "Rabu, gerai Samsat Keliling tersedia di 14 lokasi Jadetabek",
-      "link": "https://www.antaranews.com/berita/5649747/rabu-gerai-samsat-keliling-tersedia-di-14-lokasi-jadetabek",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/06/09/1000841589.jpg\" />Polda Metro Jaya menyediakan layanan Sistem Administrasi Manunggal Satu Atap (Samsat) Keliling untuk membantu para ...",
-      "published": "2026-07-15T00:03:39+00:00",
-      "source": "Antara Nasional",
-      "color": "#457b9d"
-    },
-    {
-      "title": "Politik kemarin, undangan Iran buat Prabowo hingga RUU Perampasan Aset",
-      "link": "https://www.antaranews.com/berita/5649743/politik-kemarin-undangan-iran-buat-prabowo-hingga-ruu-perampasan-aset",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/14/tempImageLV3u1t.jpg\" />Beragam peristiwa politik telah kami beritakan pada Selasa (14/7) dan berikut lima berita pilihan untuk dapat Anda baca ...",
-      "published": "2026-07-14T23:57:47+00:00",
-      "source": "Antara Nasional",
-      "color": "#457b9d"
-    },
-    {
-      "title": "Harga cabai rawit Rp58.400/kg, telur ayam Rp29.000/kg pada Rabu pagi",
-      "link": "https://www.antaranews.com/berita/5649741/harga-cabai-rawit-rp58400-kg-telur-ayam-rp29000-kg-pada-rabu-pagi",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/A4ADB48B-6427-4A21-90F6-DD1F236C8FBD.jpeg\" />Pusat Informasi Harga Pangan Strategis (PIHPS) Nasional, yang dikelola Bank Indonesia, mencatat harga komoditas cabai ...",
-      "published": "2026-07-14T23:57:34+00:00",
-      "source": "Antara Nasional",
-      "color": "#457b9d"
-    },
-    {
-      "title": "Antiklimaks untuk Prancis, landasan kuat untuk Spanyol",
-      "link": "https://www.antaranews.com/berita/5649739/antiklimaks-untuk-prancis-landasan-kuat-untuk-spanyol",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/AFP_20260714_C27U63Z_v2_MidRes_TopshotFblWc2026Match101FraEsp.jpg\" />Realitas yang muncul dari pertandingan semifinal Piala Dunia 2026 di Dallas Stadium, Rexas, Amerika Serikat, pada Rabu ...",
-      "published": "2026-07-14T23:55:48+00:00",
-      "source": "Antara Nasional",
-      "color": "#457b9d"
-    },
-    {
-      "title": "Hukum kemarin, KPK soal Gus Miftah hingga geledah rumah anggota BPK",
-      "link": "https://www.antaranews.com/berita/5649736/hukum-kemarin-kpk-soal-gus-miftah-hingga-geledah-rumah-anggota-bpk",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2024/12/06/Gus-Miftah-mengundurkan-diri-dari-jabatan-Utusan-Khusus-Presiden-061224-afa-4.jpg\" />Beragam peristiwa hukum telah kami beritakan pada Selasa (14/7) dan berikut lima berita pilihan untuk dapat Anda baca ...",
-      "published": "2026-07-14T23:54:40+00:00",
-      "source": "Antara Nasional",
-      "color": "#457b9d"
-    },
-    {
-      "title": "Cuaca Kepri hari ini 15 Juli dominan berawan",
-      "link": "https://kepri.antaranews.com/berita/262576/cuaca-kepri-hari-ini-15-juli-dominan-berawan",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/11/IMG_20260711_214746.jpg\" />Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) Stasiun Meteorologi Kelas I Hang Nadim Batam memprakirakan kondisi cuaca di wilayah Kepulauan Riau (Kepri) secara umum akan didominasi",
-      "published": "2026-07-14T23:46:41+00:00",
-      "source": "Antara Kepri",
-      "color": "#e63946"
-    },
-    {
-      "title": "Cuaca Kepri hari ini 15 Juli dominan berawan",
-      "link": "https://kepri.antaranews.com/berita/262576/cuaca-kepri-hari-ini-15-juli-dominan-berawan",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/11/IMG_20260711_214746.jpg\" />Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) Stasiun Meteorologi Kelas I Hang Nadim Batam memprakirakan kondisi cuaca di wilayah Kepulauan Riau (Kepri) secara umum akan didominasi",
-      "published": "2026-07-14T23:46:41+00:00",
-      "source": "Antara Kepri Top News",
-      "color": "#c1121f"
     },
     {
       "title": "Cuaca Kepri hari ini 15 Juli dominan berawan",
@@ -201,30 +649,6 @@
       "published": "2026-07-14T23:46:41+00:00",
       "source": "Antara Kepri Kesra",
       "color": "#2d6a4f"
-    },
-    {
-      "title": "Kemarin, blokir konten judi online hingga event musik global di RI",
-      "link": "https://www.antaranews.com/berita/5649733/kemarin-blokir-konten-judi-online-hingga-event-musik-global-di-ri",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/14/1000136815.jpg\" />Kanal lifestyle, tekno, otomotif, dan hiburan pada Selasa (14/7) menyajikan beragam berita menarik di antaranya ...",
-      "published": "2026-07-14T23:46:26+00:00",
-      "source": "Antara Nasional",
-      "color": "#457b9d"
-    },
-    {
-      "title": "Spanyol vs Prancis: Deschamps akui performa Les Bleus tak maksimal",
-      "link": "https://kepri.antaranews.com/berita/262572/spanyol-vs-prancis-deschamps-akui-performa-les-bleus-tak-maksimal",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/14/XxjpbeE000056_20260714_PEPFN0A001.jpg\" />Pelatih tim nasional Prancis, Didier Deschamps, secara terbuka mengakui anak-anak asuhnya tampil di bawah performa terbaik saat ditaklukkan Spanyol 0-2 pada babak semifinal",
-      "published": "2026-07-14T23:37:15+00:00",
-      "source": "Antara Kepri",
-      "color": "#e63946"
-    },
-    {
-      "title": "Spanyol vs Prancis: Deschamps akui performa Les Bleus tak maksimal",
-      "link": "https://kepri.antaranews.com/berita/262572/spanyol-vs-prancis-deschamps-akui-performa-les-bleus-tak-maksimal",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/14/XxjpbeE000056_20260714_PEPFN0A001.jpg\" />Pelatih tim nasional Prancis, Didier Deschamps, secara terbuka mengakui anak-anak asuhnya tampil di bawah performa terbaik saat ditaklukkan Spanyol 0-2 pada babak semifinal",
-      "published": "2026-07-14T23:37:15+00:00",
-      "source": "Antara Kepri Top News",
-      "color": "#c1121f"
     },
     {
       "title": "Spanyol vs Prancis: Deschamps akui performa Les Bleus tak maksimal",
@@ -239,40 +663,8 @@
       "link": "https://kepri.antaranews.com/berita/262568/argentina-vs-inggris-mac-allister-tegaskan-timnya-tak-tertekan",
       "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/IMG_20260714_155632.jpg\" />Gelandang tim nasional Argentina, Alexis Mac Allister, menegaskan bahwa skuad Albiceleste tidak merasakan tekanan menjelang laga krusial babak semifinal Piala Dunia 2026 melawan Inggris&n",
       "published": "2026-07-14T23:24:46+00:00",
-      "source": "Antara Kepri",
-      "color": "#e63946"
-    },
-    {
-      "title": "Argentina vs Inggris, Mac Allister tegaskan timnya tak tertekan",
-      "link": "https://kepri.antaranews.com/berita/262568/argentina-vs-inggris-mac-allister-tegaskan-timnya-tak-tertekan",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/IMG_20260714_155632.jpg\" />Gelandang tim nasional Argentina, Alexis Mac Allister, menegaskan bahwa skuad Albiceleste tidak merasakan tekanan menjelang laga krusial babak semifinal Piala Dunia 2026 melawan Inggris&n",
-      "published": "2026-07-14T23:24:46+00:00",
-      "source": "Antara Kepri Top News",
-      "color": "#c1121f"
-    },
-    {
-      "title": "Argentina vs Inggris, Mac Allister tegaskan timnya tak tertekan",
-      "link": "https://kepri.antaranews.com/berita/262568/argentina-vs-inggris-mac-allister-tegaskan-timnya-tak-tertekan",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/IMG_20260714_155632.jpg\" />Gelandang tim nasional Argentina, Alexis Mac Allister, menegaskan bahwa skuad Albiceleste tidak merasakan tekanan menjelang laga krusial babak semifinal Piala Dunia 2026 melawan Inggris&n",
-      "published": "2026-07-14T23:24:46+00:00",
       "source": "Antara Kepri Olahraga",
       "color": "#f77f00"
-    },
-    {
-      "title": "Pedro Porro: Spanyol ke final Piala Dunia bagai mimpi",
-      "link": "https://kepri.antaranews.com/berita/262565/pedro-porro-spanyol-ke-final-piala-dunia-bagai-mimpi",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/Spanyol-vs-Prancis-15072026-1.jpg\" />Bek sayap tim nasional Spanyol, Pedro Porro, mengungkapkan rasa haru dan bahagianya setelah berhasil membawa La Roja melenggang ke babak final Piala Dunia 2026. Ia menyebut penc",
-      "published": "2026-07-14T23:05:26+00:00",
-      "source": "Antara Kepri",
-      "color": "#e63946"
-    },
-    {
-      "title": "Pedro Porro: Spanyol ke final Piala Dunia bagai mimpi",
-      "link": "https://kepri.antaranews.com/berita/262565/pedro-porro-spanyol-ke-final-piala-dunia-bagai-mimpi",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/Spanyol-vs-Prancis-15072026-1.jpg\" />Bek sayap tim nasional Spanyol, Pedro Porro, mengungkapkan rasa haru dan bahagianya setelah berhasil membawa La Roja melenggang ke babak final Piala Dunia 2026. Ia menyebut penc",
-      "published": "2026-07-14T23:05:26+00:00",
-      "source": "Antara Kepri Top News",
-      "color": "#c1121f"
     },
     {
       "title": "Pedro Porro: Spanyol ke final Piala Dunia bagai mimpi",
@@ -287,22 +679,6 @@
       "link": "https://kepri.antaranews.com/berita/262564/spanyol-vs-prancis-2-0-la-furia-rojo-ke-final-piala-dunia",
       "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/Spanyol-vs-Prancis-15072026-3.jpg\" />Tim nasional Spanyol sukses melangkah ke babak final Piala Dunia 2026 setelah membekuk Prancis dengan skor meyakinkan 2-0 pada laga semifinal yang berlangsung ketat di Stadion A",
       "published": "2026-07-14T22:45:42+00:00",
-      "source": "Antara Kepri",
-      "color": "#e63946"
-    },
-    {
-      "title": "Spanyol vs Prancis 2-0: La Furia Rojo ke final Piala Dunia",
-      "link": "https://kepri.antaranews.com/berita/262564/spanyol-vs-prancis-2-0-la-furia-rojo-ke-final-piala-dunia",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/Spanyol-vs-Prancis-15072026-3.jpg\" />Tim nasional Spanyol sukses melangkah ke babak final Piala Dunia 2026 setelah membekuk Prancis dengan skor meyakinkan 2-0 pada laga semifinal yang berlangsung ketat di Stadion A",
-      "published": "2026-07-14T22:45:42+00:00",
-      "source": "Antara Kepri Top News",
-      "color": "#c1121f"
-    },
-    {
-      "title": "Spanyol vs Prancis 2-0: La Furia Rojo ke final Piala Dunia",
-      "link": "https://kepri.antaranews.com/berita/262564/spanyol-vs-prancis-2-0-la-furia-rojo-ke-final-piala-dunia",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/15/Spanyol-vs-Prancis-15072026-3.jpg\" />Tim nasional Spanyol sukses melangkah ke babak final Piala Dunia 2026 setelah membekuk Prancis dengan skor meyakinkan 2-0 pada laga semifinal yang berlangsung ketat di Stadion A",
-      "published": "2026-07-14T22:45:42+00:00",
       "source": "Antara Kepri Olahraga",
       "color": "#f77f00"
     },
@@ -311,40 +687,8 @@
       "link": "https://kepri.antaranews.com/berita/262561/pemkot-tanjungpinang-perluas-peran-posyandu-pantau-masalah-sosial",
       "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/14/inbound3899106745550934416.jpg\" />Pemkot Tanjungpinang, Kepulauan Riau (Kepri) memperluas peran pos layanan terpadu (Posyandu) dari yang semula berfokus pada pelayanan kesehatan ibu dan anak, kini ikut memantau per",
       "published": "2026-07-14T15:36:36+00:00",
-      "source": "Antara Kepri",
-      "color": "#e63946"
-    },
-    {
-      "title": "Pemkot Tanjungpinang perluas peran posyandu pantau masalah sosial",
-      "link": "https://kepri.antaranews.com/berita/262561/pemkot-tanjungpinang-perluas-peran-posyandu-pantau-masalah-sosial",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/14/inbound3899106745550934416.jpg\" />Pemkot Tanjungpinang, Kepulauan Riau (Kepri) memperluas peran pos layanan terpadu (Posyandu) dari yang semula berfokus pada pelayanan kesehatan ibu dan anak, kini ikut memantau per",
-      "published": "2026-07-14T15:36:36+00:00",
-      "source": "Antara Kepri Top News",
-      "color": "#c1121f"
-    },
-    {
-      "title": "Pemkot Tanjungpinang perluas peran posyandu pantau masalah sosial",
-      "link": "https://kepri.antaranews.com/berita/262561/pemkot-tanjungpinang-perluas-peran-posyandu-pantau-masalah-sosial",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/14/inbound3899106745550934416.jpg\" />Pemkot Tanjungpinang, Kepulauan Riau (Kepri) memperluas peran pos layanan terpadu (Posyandu) dari yang semula berfokus pada pelayanan kesehatan ibu dan anak, kini ikut memantau per",
-      "published": "2026-07-14T15:36:36+00:00",
       "source": "Antara Kepri Kesra",
       "color": "#2d6a4f"
-    },
-    {
-      "title": "Pemprov Kepri bangun 2 SMKN baru di Batam",
-      "link": "https://kepri.antaranews.com/berita/262557/pemprov-kepri-bangun-2-smkn-baru-di-batam",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/14/3a5e21a5-7971-4e9e-b655-ad9b3b4f6a1c.jpeg\" />Pemerintah Provinsi Kepulauan Riau (Kepri) mulai membangun dua Sekolah Menengah Kejuruan Negeri (SMKN) baru di Kota Batam pada 2026 sebagai upaya memperluas akses pendid",
-      "published": "2026-07-14T14:40:35+00:00",
-      "source": "Antara Kepri",
-      "color": "#e63946"
-    },
-    {
-      "title": "Pemprov Kepri bangun 2 SMKN baru di Batam",
-      "link": "https://kepri.antaranews.com/berita/262557/pemprov-kepri-bangun-2-smkn-baru-di-batam",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/14/3a5e21a5-7971-4e9e-b655-ad9b3b4f6a1c.jpeg\" />Pemerintah Provinsi Kepulauan Riau (Kepri) mulai membangun dua Sekolah Menengah Kejuruan Negeri (SMKN) baru di Kota Batam pada 2026 sebagai upaya memperluas akses pendid",
-      "published": "2026-07-14T14:40:35+00:00",
-      "source": "Antara Kepri Top News",
-      "color": "#c1121f"
     },
     {
       "title": "Pemprov Kepri bangun 2 SMKN baru di Batam",
@@ -359,22 +703,6 @@
       "link": "https://kepri.antaranews.com/berita/262556/sar-natuna-bekali-siswa-teknik-pertolongan-medis-saat-mpls",
       "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/14/WhatsApp-Image-2026-07-14-at-18.11.42.jpeg\" />Kantor Pencarian dan Pertolongan (KPP/SAR) Natuna, Provinsi Kepulauan Riau&nbsp;membekali siswa di dua sekolah menengah pertama (SMP) dengan keterampilan pertolongan pe",
       "published": "2026-07-14T12:46:14+00:00",
-      "source": "Antara Kepri",
-      "color": "#e63946"
-    },
-    {
-      "title": "SAR Natuna bekali siswa teknik pertolongan medis saat MPLS",
-      "link": "https://kepri.antaranews.com/berita/262556/sar-natuna-bekali-siswa-teknik-pertolongan-medis-saat-mpls",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/14/WhatsApp-Image-2026-07-14-at-18.11.42.jpeg\" />Kantor Pencarian dan Pertolongan (KPP/SAR) Natuna, Provinsi Kepulauan Riau&nbsp;membekali siswa di dua sekolah menengah pertama (SMP) dengan keterampilan pertolongan pe",
-      "published": "2026-07-14T12:46:14+00:00",
-      "source": "Antara Kepri Top News",
-      "color": "#c1121f"
-    },
-    {
-      "title": "SAR Natuna bekali siswa teknik pertolongan medis saat MPLS",
-      "link": "https://kepri.antaranews.com/berita/262556/sar-natuna-bekali-siswa-teknik-pertolongan-medis-saat-mpls",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/14/WhatsApp-Image-2026-07-14-at-18.11.42.jpeg\" />Kantor Pencarian dan Pertolongan (KPP/SAR) Natuna, Provinsi Kepulauan Riau&nbsp;membekali siswa di dua sekolah menengah pertama (SMP) dengan keterampilan pertolongan pe",
-      "published": "2026-07-14T12:46:14+00:00",
       "source": "Antara Kepri Kesra",
       "color": "#2d6a4f"
     },
@@ -383,40 +711,8 @@
       "link": "https://kepri.antaranews.com/berita/262555/bp3mi-kepri-cegah-keberangkatan-689-pmi-ilegal-selama-januari-juni",
       "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/14/IMG_0267.jpeg\" />Badan Pelindungan Pekerja Migran Indonesia Kepulauan Riau (BP3MI Kepri) mencatat sebanyak 689 calon pekerja migran Indonesia (PMI) nonprosedural berhasil dicegah untuk berangkat ke luar negeri sepa",
       "published": "2026-07-14T12:28:25+00:00",
-      "source": "Antara Kepri",
-      "color": "#e63946"
-    },
-    {
-      "title": "BP3MI Kepri cegah keberangkatan 689 PMI ilegal selama Januari-Juni",
-      "link": "https://kepri.antaranews.com/berita/262555/bp3mi-kepri-cegah-keberangkatan-689-pmi-ilegal-selama-januari-juni",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/14/IMG_0267.jpeg\" />Badan Pelindungan Pekerja Migran Indonesia Kepulauan Riau (BP3MI Kepri) mencatat sebanyak 689 calon pekerja migran Indonesia (PMI) nonprosedural berhasil dicegah untuk berangkat ke luar negeri sepa",
-      "published": "2026-07-14T12:28:25+00:00",
-      "source": "Antara Kepri Top News",
-      "color": "#c1121f"
-    },
-    {
-      "title": "BP3MI Kepri cegah keberangkatan 689 PMI ilegal selama Januari-Juni",
-      "link": "https://kepri.antaranews.com/berita/262555/bp3mi-kepri-cegah-keberangkatan-689-pmi-ilegal-selama-januari-juni",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/14/IMG_0267.jpeg\" />Badan Pelindungan Pekerja Migran Indonesia Kepulauan Riau (BP3MI Kepri) mencatat sebanyak 689 calon pekerja migran Indonesia (PMI) nonprosedural berhasil dicegah untuk berangkat ke luar negeri sepa",
-      "published": "2026-07-14T12:28:25+00:00",
       "source": "Antara Kepri Hukum",
       "color": "#6a0572"
-    },
-    {
-      "title": "Pemprov Kepri tidak beri bantuan hukum ASN tersangka penggelapan tiket Pesparawi",
-      "link": "https://kepri.antaranews.com/berita/262553/pemprov-kepri-tidak-beri-bantuan-hukum-asn-tersangka-penggelapan-tiket-pesparawi",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/14/Facebook_creation_14976B9D-58BA-48F1-828D-D8A92F3328AA.jpeg\" />Pemerintah Provinsi Kepulauan Riau menyatakan tidak akan memberikan bantuan hukum kepada aparatur sipil negara (ASN) berinisial HE yang menjadi tersang",
-      "published": "2026-07-14T12:03:35+00:00",
-      "source": "Antara Kepri",
-      "color": "#e63946"
-    },
-    {
-      "title": "Pemprov Kepri tidak beri bantuan hukum ASN tersangka penggelapan tiket Pesparawi",
-      "link": "https://kepri.antaranews.com/berita/262553/pemprov-kepri-tidak-beri-bantuan-hukum-asn-tersangka-penggelapan-tiket-pesparawi",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/14/Facebook_creation_14976B9D-58BA-48F1-828D-D8A92F3328AA.jpeg\" />Pemerintah Provinsi Kepulauan Riau menyatakan tidak akan memberikan bantuan hukum kepada aparatur sipil negara (ASN) berinisial HE yang menjadi tersang",
-      "published": "2026-07-14T12:03:35+00:00",
-      "source": "Antara Kepri Top News",
-      "color": "#c1121f"
     },
     {
       "title": "Pemprov Kepri tidak beri bantuan hukum ASN tersangka penggelapan tiket Pesparawi",
@@ -431,40 +727,8 @@
       "link": "https://kepri.antaranews.com/berita/262551/kpk-dan-yaqut-cholil-siap-buka-bukaan-dalam-sidang-kasus-dugaan-korupsi-kuota-haji",
       "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/06/19/pemeriksaan-yaqut-cholil-qoumas-2808231.jpg\" />Komisi Pemberantasan Korupsi (KPK) dan mantan Menteri Agama Yaqut Cholil Qoumas menyatakan siap buka-bukaan dalam persidangan kasus dugaan korupsi kuota haji.&quot;Pad",
       "published": "2026-07-14T09:29:39+00:00",
-      "source": "Antara Kepri",
-      "color": "#e63946"
-    },
-    {
-      "title": "KPK dan Yaqut Cholil siap buka-bukaan dalam sidang kasus dugaan korupsi kuota haji",
-      "link": "https://kepri.antaranews.com/berita/262551/kpk-dan-yaqut-cholil-siap-buka-bukaan-dalam-sidang-kasus-dugaan-korupsi-kuota-haji",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/06/19/pemeriksaan-yaqut-cholil-qoumas-2808231.jpg\" />Komisi Pemberantasan Korupsi (KPK) dan mantan Menteri Agama Yaqut Cholil Qoumas menyatakan siap buka-bukaan dalam persidangan kasus dugaan korupsi kuota haji.&quot;Pad",
-      "published": "2026-07-14T09:29:39+00:00",
-      "source": "Antara Kepri Top News",
-      "color": "#c1121f"
-    },
-    {
-      "title": "KPK dan Yaqut Cholil siap buka-bukaan dalam sidang kasus dugaan korupsi kuota haji",
-      "link": "https://kepri.antaranews.com/berita/262551/kpk-dan-yaqut-cholil-siap-buka-bukaan-dalam-sidang-kasus-dugaan-korupsi-kuota-haji",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/06/19/pemeriksaan-yaqut-cholil-qoumas-2808231.jpg\" />Komisi Pemberantasan Korupsi (KPK) dan mantan Menteri Agama Yaqut Cholil Qoumas menyatakan siap buka-bukaan dalam persidangan kasus dugaan korupsi kuota haji.&quot;Pad",
-      "published": "2026-07-14T09:29:39+00:00",
       "source": "Antara Kepri Hukum",
       "color": "#6a0572"
-    },
-    {
-      "title": "Diskan Natuna gelar konsultasi publik untuk tingkatkan kualitas layanan",
-      "link": "https://kepri.antaranews.com/berita/262548/diskan-natuna-gelar-konsultasi-publik-untuk-tingkatkan-kualitas-layanan",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/14/20260714_112905_0000.jpg\" />Dinas Perikanan (Diskan) Kabupaten Natuna, Provinsi Kepulauan Riau, menggelar konsultasi publik sebagai upaya meningkatkan kualitas pelayanan kepada masyarakat.Sekretaris Dinas Perikanan",
-      "published": "2026-07-14T09:12:59+00:00",
-      "source": "Antara Kepri",
-      "color": "#e63946"
-    },
-    {
-      "title": "Diskan Natuna gelar konsultasi publik untuk tingkatkan kualitas layanan",
-      "link": "https://kepri.antaranews.com/berita/262548/diskan-natuna-gelar-konsultasi-publik-untuk-tingkatkan-kualitas-layanan",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/14/20260714_112905_0000.jpg\" />Dinas Perikanan (Diskan) Kabupaten Natuna, Provinsi Kepulauan Riau, menggelar konsultasi publik sebagai upaya meningkatkan kualitas pelayanan kepada masyarakat.Sekretaris Dinas Perikanan",
-      "published": "2026-07-14T09:12:59+00:00",
-      "source": "Antara Kepri Top News",
-      "color": "#c1121f"
     },
     {
       "title": "Diskan Natuna gelar konsultasi publik untuk tingkatkan kualitas layanan",
@@ -473,14 +737,6 @@
       "published": "2026-07-14T09:12:59+00:00",
       "source": "Antara Kepri Kesra",
       "color": "#2d6a4f"
-    },
-    {
-      "title": "Spanyol vs Prancis: Lamine Yamal sebut tak ada tekanan",
-      "link": "https://kepri.antaranews.com/berita/262544/spanyol-vs-prancis-lamine-yamal-sebut-tak-ada-tekanan",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/14/XxjpbeE000053_20260714_PEPFN0A001.jpg\" />Bintang muda tim nasional Spanyol, Lamine Yamal, menegaskan bahwa dirinya sama sekali tidak merasakan tekanan mental menjelang laga hidup mati babak semifinal Piala Dunia 20",
-      "published": "2026-07-14T08:58:19+00:00",
-      "source": "Antara Kepri Olahraga",
-      "color": "#f77f00"
     },
     {
       "title": "Batam sumbang 26,5% tambahan investasi nasional",
@@ -491,36 +747,12 @@
       "color": "#e85d04"
     },
     {
-      "title": "Spanyol vs Prancis, De la Fuente: Seperti final Piala Dunia",
-      "link": "https://kepri.antaranews.com/berita/262539/spanyol-vs-prancis-de-la-fuente-seperti-final-piala-dunia",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/14/XxjpbeE000042_20260714_PEPFN0A001.jpg\" />Pelatih tim nasional Spanyol, Luis de la Fuente, menilai pertemuan timnya dengan Prancis pada babak semifinal Piala Dunia 2026 di Stadion Dallas, Amerika Serikat, memiliki a",
-      "published": "2026-07-14T08:36:04+00:00",
-      "source": "Antara Kepri Olahraga",
-      "color": "#f77f00"
-    },
-    {
       "title": "KPK dalami dugaan pemberian Rp100 juta ke Gus Miftah",
       "link": "https://kepri.antaranews.com/berita/262535/kpk-dalami-dugaan-pemberian-rp100-juta-ke-gus-miftah",
       "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2024/12/06/Gus-Miftah-mengundurkan-diri-dari-jabatan-Utusan-Khusus-Presiden-061224-afa-4.jpg\" />Komisi Pemberantasan Korupsi (KPK) mendalami dugaan pemberian uang Rp100 juta kepada pendakwah Miftah Maulana Habiburrohman atau",
       "published": "2026-07-14T08:27:51+00:00",
       "source": "Antara Kepri Hukum",
       "color": "#6a0572"
-    },
-    {
-      "title": "Semifinal Piala Dunia, Prancis incar revans dan tiket final",
-      "link": "https://kepri.antaranews.com/berita/262532/semifinal-piala-dunia-prancis-incar-revans-dan-tiket-final",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/14/XxjpbeE000042_20260714_PEPFN0A001.jpg\" />Timnas Prancis akan menghadapi Spanyol pada semifinal Piala Dunia FIFA 2026 di Dallas Stadium, Rabu (15/7) pukul 02.00 WIB, dalam laga yang mempertemukan dua tim pusat kekua",
-      "published": "2026-07-14T08:03:34+00:00",
-      "source": "Antara Kepri Olahraga",
-      "color": "#f77f00"
-    },
-    {
-      "title": "KPP Natuna perkuat kapasitas dan kesiapsiagaan personel di wilayah perbatasan",
-      "link": "https://kepri.antaranews.com/berita/262531/kpp-natuna-perkuat-kapasitas-dan-kesiapsiagaan-personel-di-wilayah-perbatasan",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/14/IMG-20260714-WA0082.jpg\" />Kantor Pencarian dan Pertolongan (KPP) Natuna, Kepulauan Riau, menggelar latihan SAR di air sebagai upaya meningkatkan kapasitas dan kesiapsiagaan personel dalam menghadapi dinamika opera",
-      "published": "2026-07-14T08:02:55+00:00",
-      "source": "Antara Kepri Kesra",
-      "color": "#2d6a4f"
     },
     {
       "title": "Diskum Batam ingatkan pelaku UMKM pertahankan kualitas produk",
@@ -555,38 +787,6 @@
       "color": "#e85d04"
     },
     {
-      "title": "Pemprov Kepri urus pemberhentian 13 PPPK",
-      "link": "https://kepri.antaranews.com/berita/262515/pemprov-kepri-urus-pemberhentian-13-pppk",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/14/inbound201443174715139077.jpg\" />Pemerintah Provinsi Kepulauan Riau memproses pemberhentian 13 Pegawai Pemerintah dengan Perjanjian Kerja (PPPK) yang mengundurkan diri maupun melanggar disiplin.Kepala Badan Kepegaw",
-      "published": "2026-07-14T06:38:08+00:00",
-      "source": "Antara Kepri Kesra",
-      "color": "#2d6a4f"
-    },
-    {
-      "title": "Bali United datangkan gelandang baru dari Brasil",
-      "link": "https://kepri.antaranews.com/berita/262513/bali-united-datangkan-gelandang-baru-dari-brasil",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/14/IMG_20260714_120444.jpg\" />Bali United mendatangkan gelandang&nbsp;Queven da Silva Inacio dari Brasil sebagai amunisi baru menyongsong Super League 2026/2027.&quot;Kami menyiapkan komposisi terbaik jelang musim kom",
-      "published": "2026-07-14T05:59:37+00:00",
-      "source": "Antara Kepri Olahraga",
-      "color": "#f77f00"
-    },
-    {
-      "title": "Pemkab Natuna bayar iuran BPJS Ketenagakerjaan bagi 257 petani",
-      "link": "https://kepri.antaranews.com/berita/262512/pemkab-natuna-bayar-iuran-bpjs-ketenagakerjaan-bagi-257-petani",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/14/20260714_121533_0000.jpg\" />Pemerintah Kabupaten (Pemkab) Natuna, Provinsi Kepulauan Riau, membayarkan iuran kepesertaan BPJS Ketenagakerjaan bagi 257 petani, sebagai upaya perlindungan terhadap risiko yang dapat t",
-      "published": "2026-07-14T05:51:03+00:00",
-      "source": "Antara Kepri Kesra",
-      "color": "#2d6a4f"
-    },
-    {
-      "title": "Pemkab Natuna gandeng aparat penegak hukum awasi pupuk dan pestisida bantuan",
-      "link": "https://kepri.antaranews.com/berita/262507/pemkab-natuna-gandeng-aparat-penegak-hukum-awasi-pupuk-dan-pestisida-bantuan",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/14/Untitled-design_20260714_114403_0000.jpg\" />Pemerintah Kabupaten Natuna, Kepulauan Riau, menggandeng aparat penegak hukum (APH) untuk mengawasi penyaluran pupuk dan pestisida bantuan agar tepat sasaran serta tidak",
-      "published": "2026-07-14T05:07:00+00:00",
-      "source": "Antara Kepri Kesra",
-      "color": "#2d6a4f"
-    },
-    {
       "title": "BJB gandeng Whuush Ojol,  Kadin dan MUJ dukung ekonomi Jawa Barat",
       "link": "https://kepri.antaranews.com/berita/262503/bjb-gandeng-whuush-ojol-kadin-dan-muj-dukung-ekonomi-jawa-barat",
       "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/13/447314.jpg\" />Bank BJB menggandeng tiga mitra strategis yakni PT Trans Galaxy Orbit Indonesia (Whuush Ojol), Kamar Dagang dan Industri (Kadin) Jawa Barat, serta PT Migas Utama Jabar (MUJ) sebagai upaya memperkuat k",
@@ -611,14 +811,6 @@
       "color": "#e85d04"
     },
     {
-      "title": "Bupati Natuna salurkan santunan BPJS Ketenagakerjaan kepada petani",
-      "link": "https://kepri.antaranews.com/berita/262487/bupati-natuna-salurkan-santunan-bpjs-ketenagakerjaan-kepada-petani",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/13/20260713_170925_0000.jpg\" />Bupati Natuna, Provinsi Kepulauan Riau Cen Sui Lan menyerahkan santunan Jaminan Kematian (JKM) BPJS Ketenagakerjaan kepada dua ahli waris petani, sebagai bentuk perlindungan sosial bagi",
-      "published": "2026-07-14T01:48:33+00:00",
-      "source": "Antara Kepri Kesra",
-      "color": "#2d6a4f"
-    },
-    {
       "title": "Bjb perkuat literasi keuangan dan kewirausahaan calon pensiunan Kemenag",
       "link": "https://kepri.antaranews.com/berita/262485/bjb-perkuat-literasi-keuangan-dan-kewirausahaan-calon-pensiunan-kemenag",
       "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/03/1001849601.jpg\" />&nbsp;Kementerian Agama Kabupaten Semarang, Jawa Tengah, bersama bank bjb menggelar Workshop Kewirausahaan melalui Program bjb Pra-Purnapreneurship pada Kamis (2/7).Kegiatan diikuti oleh Pegawai N",
@@ -627,68 +819,12 @@
       "color": "#e85d04"
     },
     {
-      "title": "Iraola bertekad bangun Liverpool yang dibanggakan suporter",
-      "link": "https://kepri.antaranews.com/berita/262481/iraola-bertekad-bangun-liverpool-yang-dibanggakan-suporter",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/06/05/Andoni.jpg\" />Manajer anyar Liverpool, Andoni Iraola, menegaskan komitmen besarnya untuk membangun skuad The Reds menjadi tim yang tangguh dan mampu membuat para suporter merasa bangga.&quot;Saya ingin memberikan k",
-      "published": "2026-07-14T00:53:56+00:00",
-      "source": "Antara Kepri Olahraga",
-      "color": "#f77f00"
-    },
-    {
-      "title": "Nomor 7 dipakai Beckham Putra, Notsuda pilih angka 17 di Persib",
-      "link": "https://kepri.antaranews.com/berita/262479/nomor-7-dipakai-beckham-putra-notsuda-pilih-angka-17-di-persib",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/04/Persib-Bandung-umumkan-pemain-baru-040726-NA-6.jpg\" />Gelandang anyar asal Jepang, Gakuto Notsuda, resmi memilih nomor punggung 17 sebagai identitas barunya bersama Persib Bandung untuk mengarungi kompetisi musim&n",
-      "published": "2026-07-14T00:19:01+00:00",
-      "source": "Antara Kepri Olahraga",
-      "color": "#f77f00"
-    },
-    {
-      "title": "BMKG: Kepri cerah berawan, dengan potensi hujan lokal siang",
-      "link": "https://kepri.antaranews.com/berita/262475/bmkg-kepri-cerah-berawan-dengan-potensi-hujan-lokal-siang",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/03/20/IMG-20260320-WA0022.jpg\" />Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) Stasiun Meteorologi Kelas I Hang Nadim Batam memprakirakan cuaca di wilayah Provinsi Kepulauan Riau (Kepri) secara umum berada dalam k",
-      "published": "2026-07-13T23:42:39+00:00",
-      "source": "Antara Kepri Kesra",
-      "color": "#2d6a4f"
-    },
-    {
       "title": "KPK respons Mahfud MD soal kasus Febrie Adriansyah",
       "link": "https://kepri.antaranews.com/berita/262472/kpk-respons-mahfud-md-soal-kasus-febrie-adriansyah",
       "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/13/IMG_7501.jpg\" />Komisi Pemberantasan Korupsi (KPK) memberikan respons&nbsp;terkait pernyataan mantan Menteri Koordinator Bidang Politik, Hukum, dan Keamanan, Mahfud MD, mengenai pelimpahan kasus dugaan korupsi mant",
       "published": "2026-07-13T23:31:14+00:00",
       "source": "Antara Kepri Hukum",
       "color": "#6a0572"
-    },
-    {
-      "title": "Inggris vs Argentina: O'Reilly tidak sabar hadapi tantangan Messi",
-      "link": "https://kepri.antaranews.com/berita/262471/inggris-vs-argentina-oreilly-tidak-sabar-hadapi-tantangan-messi",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/14/riley.jpg\" />Laga semifinal Piala Dunia 2026 tidak hanya menjadi panggung perebutan tiket final, tetapi juga panggung impian bagi para pemain muda. Bek kiri tim nasional Inggris, Nico O'Reilly, menyebut kesempatan",
-      "published": "2026-07-13T23:14:05+00:00",
-      "source": "Antara Kepri Olahraga",
-      "color": "#f77f00"
-    },
-    {
-      "title": "Pembangunan GOR di Tanjungpinang butuh anggaran Rp55 miliar",
-      "link": "https://kepri.antaranews.com/berita/262468/pembangunan-gor-di-tanjungpinang-butuh-anggaran-rp55-miliar",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/13/inbound5309839472980028962.jpg\" />Dinas Kepemudaan dan Olahraga (Dispora) Kota Tanjungpinang, Kepulauan Riau (Kepri) menyebutkan rencana pembangunan fasilitas gelanggang olahraga (GOR) di daerah itu membutuhkan ang",
-      "published": "2026-07-13T16:17:58+00:00",
-      "source": "Antara Kepri Olahraga",
-      "color": "#f77f00"
-    },
-    {
-      "title": "Mitchell perkuat lini depan timnas Indonesia",
-      "link": "https://kepri.antaranews.com/berita/262464/mitchell-perkuat-lini-depan-timnas-indonesia",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/13/WhatsApp-Image-2026-07-13-at-17.58.00.jpeg\" />Ketua Umum Persatuan Sepak Bola Seluruh Indonesia (PSSI) Erick Thohir mengatakan kehadiran Mitchell Baker yang resmi menjadi Warga Negara Indonesia (WNI) menjadi tambah",
-      "published": "2026-07-13T12:54:45+00:00",
-      "source": "Antara Kepri Olahraga",
-      "color": "#f77f00"
-    },
-    {
-      "title": "Pemda Natuna terbitkan kalender pendidikan untuk panduan sekolah",
-      "link": "https://kepri.antaranews.com/berita/262463/pemda-natuna-terbitkan-kalender-pendidikan-untuk-panduan-sekolah",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/13/WhatsApp-Image-2025-05-16-at-20.15.48.jpeg\" />Pemerintah Kabupaten (Pemkab) Natuna, Provinsi Kepulauan Riau menerbitkan kalender pendidikan sebagai acuan bagi seluruh sekolah dalam mengatur proses pembelajaran, jad",
-      "published": "2026-07-13T12:07:41+00:00",
-      "source": "Antara Kepri Kesra",
-      "color": "#2d6a4f"
     },
     {
       "title": "Bank BJB perkuat tata kelola layanan publik di sektor ketenagakerjaan",
@@ -723,76 +859,12 @@
       "color": "#e85d04"
     },
     {
-      "title": "BPJS Kesehatan Batam beri layanan jemput bola urus kepesertaan JKN",
-      "link": "https://kepri.antaranews.com/berita/262452/bpjs-kesehatan-batam-beri-layanan-jemput-bola-urus-kepesertaan-jkn",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/13/6255850e-00ea-465d-b5f5-2ccdc0d6c96e.jpeg\" />BPJS Kesehatan Cabang Batam, Kepulauan Riau (Kepri) memberi layanan jemput bola dengan BPJS Keliling di kawasan Batalyon Infanteri 136 Tuah Sakti Barelang untuk memberi",
-      "published": "2026-07-13T09:32:42+00:00",
-      "source": "Antara Kepri Kesra",
-      "color": "#2d6a4f"
-    },
-    {
-      "title": "Cen Sui Lan ajak ASN Pemkab Natuna berinfak lewat Baznas",
-      "link": "https://kepri.antaranews.com/berita/262448/cen-sui-lan-ajak-asn-pemkab-natuna-berinfak-lewat-baznas",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/13/20260713_154649_0000.jpg\" />Bupati Natuna, Provinsi Kepulauan Riau, Cen Sui Lan mengajak Aparatur Sipil Negara (ASN) di bawah kepemimpinannya untuk berinfak melalui Badan Amil Zakat Nasional (Baznas) setempat, untu",
-      "published": "2026-07-13T09:22:16+00:00",
-      "source": "Antara Kepri Kesra",
-      "color": "#2d6a4f"
-    },
-    {
-      "title": "PLN Batam lakukan pemeliharaan preventif untuk jaga keandalan listrik",
-      "link": "https://kepri.antaranews.com/berita/262444/pln-batam-lakukan-pemeliharaan-preventif-untuk-jaga-keandalan-listrik",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/13/IMG_0256.jpeg\" />PT PLN Batam, Kepulauan Riau (Kepri) terus melakukan pemeliharaan preventif jaringan listrik guna menjaga keandalan pasokan listrik, sekaligus mencegah terjadinya gangguan yang berpotensi menyebabk",
-      "published": "2026-07-13T09:08:28+00:00",
-      "source": "Antara Kepri Ekonomi & FTZ",
-      "color": "#e85d04"
-    },
-    {
-      "title": "Natuna perkuat sistem perlindungan perempuan dan anak",
-      "link": "https://kepri.antaranews.com/berita/262439/natuna-perkuat-sistem-perlindungan-perempuan-dan-anak",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/13/Untitled-design_20260713_133928_0000.jpg\" />Pemerintah Kabupaten (Pemkab) Natuna, Provinsi Kepulauan Riau, memperkuat sistem perlindungan perempuan dan anak melalui pelatihan manajemen dan penanganan kasus.Wakil Bu",
-      "published": "2026-07-13T08:44:37+00:00",
-      "source": "Antara Kepri Kesra",
-      "color": "#2d6a4f"
-    },
-    {
       "title": "Pemkot Batam pastikan anggaran gaji PPPK aman sampai 2027",
       "link": "https://kepri.antaranews.com/berita/262424/pemkot-batam-pastikan-anggaran-gaji-pppk-aman-sampai-2027",
       "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/13/IMG_6627.jpeg\" />Pemerintah Kota (Pemkot) Batam, Kepulauan Riau (Kepri), memastikan kemampuan keuangan daerah untuk membayar gaji Aparatur Sipil Negara (ASN), termasuk Pegawai Pemerintah dengan Perjanjian Kerja (PP",
       "published": "2026-07-13T07:44:05+00:00",
       "source": "Antara Kepri Politik",
       "color": "#023e8a"
-    },
-    {
-      "title": "BP Batam wajibkan perizinan dan pembagunan lahan di LMS guna cegah lahan tidur",
-      "link": "https://kepri.antaranews.com/berita/262420/bp-batam-wajibkan-perizinan-dan-pembagunan-lahan-di-lms-guna-cegah-lahan-tidur",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/13/c7fdbdf3-b2f3-41bc-a9b9-55c1053eff1e.jpeg\" />Badan Pengusahaan (BP) Batam, Kepulauan Riau (Kepri) mewajibkan seluruh pemegang alokasi lahan melaporkan perkembangan perizinan dan pembangunan melalui Land Management",
-      "published": "2026-07-13T07:33:20+00:00",
-      "source": "Antara Kepri Ekonomi & FTZ",
-      "color": "#e85d04"
-    },
-    {
-      "title": "Disperindag Kepri perketat pengawasan penyaluran MinyaKita di pasaran sesuai HET",
-      "link": "https://kepri.antaranews.com/berita/262415/disperindag-kepri-perketat-pengawasan-penyaluran-minyakita-di-pasaran-sesuai-het",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/13/20260713_130204.jpg\" />Dinas Perindustrian dan Perdagangan (Disperindag) Provinsi Kepulauan Riau (Kepri) memperketat pengawasan penyaluran minyak goreng MinyaKita&nbsp;di pasaran agar dijual sesuai harga eceran ter",
-      "published": "2026-07-13T06:41:18+00:00",
-      "source": "Antara Kepri Ekonomi & FTZ",
-      "color": "#e85d04"
-    },
-    {
-      "title": "Pemkab Natuna distribusikan pupuk subsidi pada 733 petani",
-      "link": "https://kepri.antaranews.com/berita/262412/pemkab-natuna-distribusikan-pupuk-subsidi-pada-733-petani",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/13/20260713_123902_0000.jpg\" />Pemerintah Kabupaten (Pemkab) Natuna, Provinsi Kepulauan Riau, mendistribusikan pupuk subsidi kepada 733 petani sebagai upaya meningkatkan produksi pertanian di daerah perbatasan itu.Bup",
-      "published": "2026-07-13T06:13:13+00:00",
-      "source": "Antara Kepri Ekonomi & FTZ",
-      "color": "#e85d04"
-    },
-    {
-      "title": "KPK panggil 2 pegawai PT PPA dan mantan komisaris PT PAP dalam kasus Rita",
-      "link": "https://kepri.antaranews.com/berita/262401/kpk-panggil-2-pegawai-pt-ppa-dan-mantan-komisaris-pt-pap-dalam-kasus-rita",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/03/kpk-tangkap-bupati-langkat-2816045.jpg\" />Komisi Pemberantasan Korupsi memanggil dua pegawai PT Putra Perkasa Abadi&nbsp;dan mantan komisaris pada PT Pratama Andalan Persada untuk diperiksa sebagai saksi kasus duga",
-      "published": "2026-07-13T05:00:49+00:00",
-      "source": "Antara Kepri Hukum",
-      "color": "#6a0572"
     },
     {
       "title": "Perkuat ekosistem komunikasi, ANTARA dan Perhumas teken MoU",
@@ -803,68 +875,12 @@
       "color": "#023e8a"
     },
     {
-      "title": "Jamwas pastikan mantan Jampidsus Febrie jalani sidang etik",
-      "link": "https://kepri.antaranews.com/berita/262336/jamwas-pastikan-mantan-jampidsus-febrie-jalani-sidang-etik",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/11/rudi-margono-ditunjuk-plt-jampidsus-kejagung-2820293.jpg\" />Jaksa Agung Muda Bidang Pengawasan (Jamwas) Kejaksaan Agung, Rudi Margono, memastikan mantan Jaksa Agung Muda Bidang Tindak Pidana Khusus (Jampidsus) Febr",
-      "published": "2026-07-12T00:12:24+00:00",
-      "source": "Antara Kepri Hukum",
-      "color": "#6a0572"
-    },
-    {
-      "title": "KPK tetapkan 2 anak buah Bupati Sukoharjo jadi tersangka kasus dugaan pemerasan",
-      "link": "https://kepri.antaranews.com/berita/262312/kpk-tetapkan-2-anak-buah-bupati-sukoharjo-jadi-tersangka-kasus-dugaan-pemerasan",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/11/kpk-ungkap-ott-bupati-sukoharjo-2820104.jpg\" />Komisi Pemberantasan Korupsi (KPK) menetapkan dua anak buah Bupati Sukoharjo Etik Suryani (ETS) sebagai tersangka dugaan tindak pidana korupsi terkait pemerasan di Pem",
-      "published": "2026-07-11T07:51:21+00:00",
-      "source": "Antara Kepri Hukum",
-      "color": "#6a0572"
-    },
-    {
-      "title": "KPK sita barang bukti Rp21,2 M terkait kasus OTT Bupati Sukoharjo",
-      "link": "https://kepri.antaranews.com/berita/262304/kpk-sita-barang-bukti-rp212-m-terkait-kasus-ott-bupati-sukoharjo",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/11/kpk-ungkap-ott-bupati-sukoharjo-2820112.jpg\" />Komisi Pemberantasan Korupsi (KPK) menyita barang bukti senilai Rp21,2 miliar berupa uang tunai hingga logam mulia dari operasi tangkap tangan (OTT) terhadap Bupati Su",
-      "published": "2026-07-11T06:38:28+00:00",
-      "source": "Antara Kepri Hukum",
-      "color": "#6a0572"
-    },
-    {
-      "title": "Jampidsus Febrie Adriansyah mundur seusai rumah Sentul digeledah",
-      "link": "https://kepri.antaranews.com/berita/262287/jampidsus-febrie-adriansyah-mundur-seusai-rumah-sentul-digeledah",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/11/1001786980.jpg\" />Jaksa Agung Muda Tindak Pidana Khusus (Jampidsus) Febrie Adriansyah resmi mengajukan pengunduran diri dari jabatannya, setelah rumah pribadi miliknya di kawasan Sentul digeledah oleh tim gabungan",
-      "published": "2026-07-11T00:32:55+00:00",
-      "source": "Antara Kepri Hukum",
-      "color": "#6a0572"
-    },
-    {
       "title": "BSSN dan Pemprov Kepri kerjasama pemanfaatan sertifikat elektronik",
       "link": "https://kepri.antaranews.com/berita/262271/bssn-dan-pemprov-kepri-kerjasama-pemanfaatan-sertifikat-elektronik",
       "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/10/bddf1096-4855-4b08-9d29-b64595a94d8e.jpeg\" />Badan Siber dan Sandi Negara (BSSN) dan Pemerintah Provinsi Kepulauan Riau (Pemprov Kepri) bekerja sama terkait pemanfaatan sertifikat elektronik sebagai upaya mempercep",
       "published": "2026-07-10T14:18:35+00:00",
       "source": "Antara Kepri Politik",
       "color": "#023e8a"
-    },
-    {
-      "title": "KPK akui punya kewenangan panggil Menhut",
-      "link": "https://kepri.antaranews.com/berita/262257/kpk-akui-punya-kewenangan-panggil-menhut",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/07/IMG-20260707-WA0003.jpg\" />Komisi Pemberantasan Korupsi (KPK) mengakui mempunyai kewenangan untuk memanggil Raja Juli Antoni seusai menerima laporan penolakan gratifikasi dari Menteri Kehutanan (Menhut)&nbsp;terseb",
-      "published": "2026-07-10T08:44:22+00:00",
-      "source": "Antara Kepri Hukum",
-      "color": "#6a0572"
-    },
-    {
-      "title": "Kemenkum Kepri pantau potensi paten sistem robotik di Kota Batam",
-      "link": "https://kepri.antaranews.com/berita/262248/kemenkum-kepri-pantau-potensi-paten-sistem-robotik-di-kota-batam",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/10/perkuat_potensi_paten_2.jpg\" />Kantor Wilayah Kementerian Hukum Kepulauan Riau (Kanwil Kemenkum Kepri) memantau potensi paten sistem robotik di salah satu perusahaan manufaktur elektronik terbesar di Indonesia, yan",
-      "published": "2026-07-10T07:32:07+00:00",
-      "source": "Antara Kepri Hukum",
-      "color": "#6a0572"
-    },
-    {
-      "title": "Jampidsus mengaku tak paham hubungan dirinya dengan kasus blackout PLN",
-      "link": "https://kepri.antaranews.com/berita/262239/jampidsus-mengaku-tak-paham-hubungan-dirinya-dengan-kasus-blackout-pln",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/10/1000085135.jpg\" />Jaksa Agung Muda Bidang Tindak Pidana Khusus (Jampidsus) Febrie Adriansyah mengaku tidak memahami mengapa ada hubungan antara dirinya dengan kasus dugaan korupsi pasokan batu bara yang menjadi pem",
-      "published": "2026-07-10T07:00:56+00:00",
-      "source": "Antara Kepri Hukum",
-      "color": "#6a0572"
     },
     {
       "title": "Rachmat Gobel meninggal dunia",
@@ -943,22 +959,6 @@
       "link": "https://kepri.antaranews.com/berita/261848/indonesia-dan-singapura-sepakat-jaga-selat-malaka-bebas-dilintasi",
       "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/06/bdfda3fc-02a4-4fd7-a2c4-ab994e7e2ee2.jpeg\" />Pemerintah Indonesia dan Singapura sepakat untuk menjaga Selat Malaka sebagai jalur yang bebas dilalui semua pihak dan memastikan keamanannya dari kecelakaan dan perompa",
       "published": "2026-07-06T09:08:45+00:00",
-      "source": "Antara Kepri Politik",
-      "color": "#023e8a"
-    },
-    {
-      "title": "Pemprov Kepri pastikan tak ada pengurangan PPPK",
-      "link": "https://kepri.antaranews.com/berita/261655/pemprov-kepri-pastikan-tak-ada-pengurangan-pppk",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/03/Facebook_creation_ED2A100A-97BE-437B-B6C4-BE7E75354D56.jpeg\" />Pemerintah Provinsi Kepulauan Riau (Pemprov Kepri) memastikan tak ada pengurangan ribuan pegawai pemerintah dengan perjanjian kerja (PPPK), meskipun sa",
-      "published": "2026-07-03T09:45:07+00:00",
-      "source": "Antara Kepri Politik",
-      "color": "#023e8a"
-    },
-    {
-      "title": "Sekretariat DPRD Batam optimalkan layanan administrasi melalui digitalisasi",
-      "link": "https://kepri.antaranews.com/berita/261628/sekretariat-dprd-batam-optimalkan-layanan-administrasi-melalui-digitalisasi",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/07/03/IMG_0862.jpeg\" />Sekretariat DPRD Kota Batam terus mengoptimalkan tata kelola administrasi melalui penerapan sistem berbasis teknologi informasi guna meningkatkan efektivitas pelayanan sekaligus meminimalkan kesala",
-      "published": "2026-07-03T06:28:20+00:00",
       "source": "Antara Kepri Politik",
       "color": "#023e8a"
     },
