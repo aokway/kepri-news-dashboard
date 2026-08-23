@@ -1,78 +1,486 @@
 {
-  "last_updated": "2026-08-22T00:32:46.808864+00:00",
+  "last_updated": "2026-08-23T00:35:04.257484+00:00",
   "total": 135,
   "articles": [
     {
-      "title": "Kemarin, perubahan status guru PPPK hingga modifikasi cuaca Kalimantan",
-      "link": "https://www.antaranews.com/berita/5706189/kemarin-perubahan-status-guru-pppk-hingga-modifikasi-cuaca-kalimantan",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://cdn.antaranews.com/cache/800x533/2026/08/21/FotoGrid_20260821_141755842.jpg\" />Sejumlah peristiwa humaniora terjadi di Indonesia, Jumat (21/8), mulai dari penegasan soal perubahan status guru PPPK ...",
-      "published": "2026-08-22T00:30:55+00:00",
-      "source": "Antara Nasional",
-      "color": "#457b9d"
-    },
-    {
-      "title": "BMKG prakirakan sejumlah wilayah diguyur hujan ringan pada Sabtu",
-      "link": "https://www.antaranews.com/berita/5706188/bmkg-prakirakan-sejumlah-wilayah-diguyur-hujan-ringan-pada-sabtu",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://cdn.antaranews.com/cache/800x533/2026/03/15/1000819759.jpg\" />Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memprakirakan sejumlah wilayah Indonesia akan mengalami hujan ...",
-      "published": "2026-08-22T00:22:43+00:00",
-      "source": "Antara Nasional",
-      "color": "#457b9d"
-    },
-    {
-      "title": "Kemarin, Dave Bautista jadi Kratos hingga Redmi Watch 6 Active dirilis",
-      "link": "https://www.antaranews.com/berita/5706184/kemarin-dave-bautista-jadi-kratos-hingga-redmi-watch-6-active-dirilis",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://cdn.antaranews.com/cache/800x533/2026/08/21/InShot_20260821_163705499.jpg\" />Sejumlah berita di kanal hiburan, gaya hidup, otomotif, dan teknologi, tayang pada Jumat (21/8) masih menarik dibaca ...",
-      "published": "2026-08-22T00:18:34+00:00",
-      "source": "Antara Nasional",
-      "color": "#457b9d"
-    },
-    {
-      "title": "Kenapa Indonesia sering gempa? Ini penyebab dan penjelasan megathrust",
-      "link": "https://www.antaranews.com/berita/5706183/kenapa-indonesia-sering-gempa-ini-penyebab-dan-penjelasan-megathrust",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://cdn.antaranews.com/cache/800x533/2026/08/21/1000088700.jpg\" />Gempa bumi kembali menjadi perhatian setelah sejumlah wilayah Indonesia diguncang gempa dalam beberapa waktu terakhir. ...",
-      "published": "2026-08-22T00:09:40+00:00",
-      "source": "Antara Nasional",
-      "color": "#457b9d"
-    },
-    {
-      "title": "Anak tak boleh kehilangan ruang aman",
-      "link": "https://www.antaranews.com/berita/5706179/anak-tak-boleh-kehilangan-ruang-aman",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://cdn.antaranews.com/cache/800x533/2026/08/22/kekerasan-anak.jpg\" />Ada ruang yang seharusnya menjadi tempat paling aman bagi seorang anak. Rumah, keluarga, panti asuhan, sekolah, bahkan ...",
-      "published": "2026-08-22T00:07:57+00:00",
-      "source": "Antara Nasional",
-      "color": "#457b9d"
-    },
-    {
-      "title": "20 ucapan Maulid Nabi Muhammad SAW untuk WhatsApp, penuh makna",
-      "link": "https://www.antaranews.com/berita/5706175/20-ucapan-maulid-nabi-muhammad-saw-untuk-whatsapp-penuh-makna",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://cdn.antaranews.com/cache/800x533/2026/08/19/kirab-gamelan-sekaten-di-solo-2845339.jpg\" />Peringatan Maulid Nabi Muhammad SAW dapat menjadi momentum untuk memperkuat kecintaan kepada Rasulullah sekaligus ...",
-      "published": "2026-08-22T00:03:53+00:00",
-      "source": "Antara Nasional",
-      "color": "#457b9d"
-    },
-    {
-      "title": "Wamenko Pangan tinjau karhutla Kalteng tegaskan kehadiran pemerintah",
-      "link": "https://www.antaranews.com/berita/5706172/wamenko-pangan-tinjau-karhutla-kalteng-tegaskan-kehadiran-pemerintah",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://cdn.antaranews.com/cache/800x533/2026/08/22/1001772921.jpg\" />Wakil Menteri Koordinator&nbsp;(Wamenko) Bidang Pangan Hanif Faisol Nurofiq meninjau langsung penanganan kebakaran ...",
-      "published": "2026-08-22T00:01:26+00:00",
-      "source": "Antara Nasional",
-      "color": "#457b9d"
-    },
-    {
-      "title": "Cuaca Kepri hari ini terik, suhu mencapai 35Celcius",
-      "link": "https://kepri.antaranews.com/berita/265703/cuaca-kepri-hari-ini-terik-suhu-mencapai-35celcius",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/03/29/WhatsApp-Image-2026-03-28-at-07.08.58.jpeg\" />Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) Hang Nadim Batam memprakirakan cuaca di wilayah Provinsi Kepulauan Riau (Kepri) pada akhir pekan ini, Sabtu (22/8),",
-      "published": "2026-08-22T00:01:04+00:00",
+      "title": "Bayern Muenchen juara Piala Super Jerman seusai tekuk Dortmund 2-1",
+      "link": "https://kepri.antaranews.com/berita/265753/bayern-muenchen-juara-piala-super-jerman-seusai-tekuk-dortmund-2-1",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/23/1000049038.jpg\" />Bayern Muenchen resmi merengkuh gelar juara Piala Super Jerman 2026 usai membekuk Borussia Dortmund 2-1 dalam duel Der Klassiker di Signal Iduna Park, Minggu (23/8) dini hari WIB.Kemenangan ini me",
+      "published": "2026-08-23T00:26:52+00:00",
       "source": "Antara Kepri",
       "color": "#e63946"
     },
     {
-      "title": "Cuaca Kepri hari ini terik, suhu mencapai 35Celcius",
-      "link": "https://kepri.antaranews.com/berita/265703/cuaca-kepri-hari-ini-terik-suhu-mencapai-35celcius",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/03/29/WhatsApp-Image-2026-03-28-at-07.08.58.jpeg\" />Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) Hang Nadim Batam memprakirakan cuaca di wilayah Provinsi Kepulauan Riau (Kepri) pada akhir pekan ini, Sabtu (22/8),",
-      "published": "2026-08-22T00:01:04+00:00",
+      "title": "Bayern Muenchen juara Piala Super Jerman seusai tekuk Dortmund 2-1",
+      "link": "https://kepri.antaranews.com/berita/265753/bayern-muenchen-juara-piala-super-jerman-seusai-tekuk-dortmund-2-1",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/23/1000049038.jpg\" />Bayern Muenchen resmi merengkuh gelar juara Piala Super Jerman 2026 usai membekuk Borussia Dortmund 2-1 dalam duel Der Klassiker di Signal Iduna Park, Minggu (23/8) dini hari WIB.Kemenangan ini me",
+      "published": "2026-08-23T00:26:52+00:00",
       "source": "Antara Kepri Top News",
       "color": "#c1121f"
+    },
+    {
+      "title": "Bayern Muenchen juara Piala Super Jerman seusai tekuk Dortmund 2-1",
+      "link": "https://kepri.antaranews.com/berita/265753/bayern-muenchen-juara-piala-super-jerman-seusai-tekuk-dortmund-2-1",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/23/1000049038.jpg\" />Bayern Muenchen resmi merengkuh gelar juara Piala Super Jerman 2026 usai membekuk Borussia Dortmund 2-1 dalam duel Der Klassiker di Signal Iduna Park, Minggu (23/8) dini hari WIB.Kemenangan ini me",
+      "published": "2026-08-23T00:26:52+00:00",
+      "source": "Antara Kepri Olahraga",
+      "color": "#f77f00"
+    },
+    {
+      "title": "Diikuti 6 negara, Panglima TNI Cup 2026 sukses digelar di Wonogiri",
+      "link": "https://www.antaranews.com/berita/5707283/diikuti-6-negara-panglima-tni-cup-2026-sukses-digelar-di-wonogiri",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://cdn.antaranews.com/cache/800x533/2026/08/23/1000049045.jpg\" />Task 2 International Paragliding Cross Country Championship (IPXC) 2nd Series Panglima TNI Cup dan Kejuaraan Nasional ...",
+      "published": "2026-08-23T00:26:37+00:00",
+      "source": "Antara Nasional",
+      "color": "#457b9d"
+    },
+    {
+      "title": "Kemenkes masifkan deteksi dini tuberkulosis lewat CKG khusus",
+      "link": "https://www.antaranews.com/video/5707277/kemenkes-masifkan-deteksi-dini-tuberkulosis-lewat-ckg-khusus",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://cdn.antaranews.com/cache/800x533/2026/08/SANS_KEMENKES-MASIFKAN-DETEKSI-DINI-TUBERKULOSIS-LEWAT-CKG-KHUSUS.jpg\" />ANTARA - Kementerian Kesehatan memasifkan deteksi dini tuberkulosis (TB) melalui Cek Kesehatan Gratis (CKG) khusus TB. ...",
+      "published": "2026-08-23T00:25:08+00:00",
+      "source": "Antara Nasional",
+      "color": "#457b9d"
+    },
+    {
+      "title": "BMKG: Mayoritas wilayah RI diprakirakan cerah berawan pada Minggu",
+      "link": "https://www.antaranews.com/berita/5707280/bmkg-mayoritas-wilayah-ri-diprakirakan-cerah-berawan-pada-minggu",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://cdn.antaranews.com/cache/800x533/2023/09/01/Waspada-Cuaca-Ekstrem-Ntb-140223-AS.jpg\" />Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memprakirakan, sebagian besar wilayah Indonesia cerah berawan ...",
+      "published": "2026-08-23T00:22:22+00:00",
+      "source": "Antara Nasional",
+      "color": "#457b9d"
+    },
+    {
+      "title": "Sepekan, bayi lahir 17 Agustus hingga dapur umum pascagempa NTT",
+      "link": "https://www.antaranews.com/berita/5707273/sepekan-bayi-lahir-17-agustus-hingga-dapur-umum-pascagempa-ntt",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://cdn.antaranews.com/cache/800x533/2026/08/20/1000178761.jpg\" />Sejumlah berita menarik dalam sepekan disajikan kembali untuk Anda, mulai dari bayi yang lahir pada 17 Agustus diberi ...",
+      "published": "2026-08-23T00:12:36+00:00",
+      "source": "Antara Nasional",
+      "color": "#457b9d"
+    },
+    {
+      "title": "BPJN Aceh bangun fondasi \"bored pile\" cegah jalan Gayo Lues longsor",
+      "link": "https://www.antaranews.com/video/5707269/bpjn-aceh-bangun-fondasi-bored-pile-cegah-jalan-gayo-lues-longsor",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://cdn.antaranews.com/cache/800x533/2026/08/SANS_BPJN-ACEH-BANGUN-FONDASI-22BORED-PILE-22-CEGAH-JALAN-GAYO-LUES-LONGSOR.jpg\" />ANTARA - BPJN Aceh mencegah lereng sungai longsor kembali akibat curah hujan tinggi dengan membangun fondasi jenis ...",
+      "published": "2026-08-23T00:07:25+00:00",
+      "source": "Antara Nasional",
+      "color": "#457b9d"
+    },
+    {
+      "title": "Arema FC menang 2-0 atas Rans Nusantara FC di laga uji coba",
+      "link": "https://www.antaranews.com/video/5707265/arema-fc-menang-2-0-atas-rans-nusantara-fc-di-laga-uji-coba",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://cdn.antaranews.com/cache/800x533/2026/08/SANS_AREMA-FC-MENANG-2-0-ATAS-RANS-NUSANTARA-FC-DI-LAGA-UJI-COBA.jpg\" />ANTARA - &lrm;Arema FC mengamankan kemenangan 2-0 atas Rans Nusantara FC dalam laga uji coba di Stadion Kanjuruhan, ...",
+      "published": "2026-08-23T00:03:48+00:00",
+      "source": "Antara Nasional",
+      "color": "#457b9d"
+    },
+    {
+      "title": "Minggu, SIM Keliling tersedia di dua lokasi Jakarta",
+      "link": "https://www.antaranews.com/berita/5707271/minggu-sim-keliling-tersedia-di-dua-lokasi-jakarta",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://cdn.antaranews.com/cache/800x533/2024/07/10/IMG_20240710_063125.jpg\" />Direktorat Lalu Lintas (Ditlantas) Polda Metro Jaya membuka dua lokasi layanan Surat Izin Mengemudi (SIM) Keliling bagi ...",
+      "published": "2026-08-22T23:57:55+00:00",
+      "source": "Antara Nasional",
+      "color": "#457b9d"
+    },
+    {
+      "title": "Cuaca Kepri hari ini masih dominan berawan, suhu capai 32 derajat",
+      "link": "https://kepri.antaranews.com/berita/265749/cuaca-kepri-hari-ini-masih-dominan-berawan-suhu-capai-32-derajat",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2025/06/07/Batam.jpg\" />Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) Hang Nadim Batam memprakirakan cuaca di wilayah Provinsi Kepulauan Riau (Kepri) pada hari ini, Minggu (23/8), secara umum didominasi kondisi cerah b",
+      "published": "2026-08-22T23:53:24+00:00",
+      "source": "Antara Kepri",
+      "color": "#e63946"
+    },
+    {
+      "title": "Cuaca Kepri hari ini masih dominan berawan, suhu capai 32 derajat",
+      "link": "https://kepri.antaranews.com/berita/265749/cuaca-kepri-hari-ini-masih-dominan-berawan-suhu-capai-32-derajat",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2025/06/07/Batam.jpg\" />Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) Hang Nadim Batam memprakirakan cuaca di wilayah Provinsi Kepulauan Riau (Kepri) pada hari ini, Minggu (23/8), secara umum didominasi kondisi cerah b",
+      "published": "2026-08-22T23:53:24+00:00",
+      "source": "Antara Kepri Top News",
+      "color": "#c1121f"
+    },
+    {
+      "title": "Cuaca Kepri hari ini masih dominan berawan, suhu capai 32 derajat",
+      "link": "https://kepri.antaranews.com/berita/265749/cuaca-kepri-hari-ini-masih-dominan-berawan-suhu-capai-32-derajat",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2025/06/07/Batam.jpg\" />Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) Hang Nadim Batam memprakirakan cuaca di wilayah Provinsi Kepulauan Riau (Kepri) pada hari ini, Minggu (23/8), secara umum didominasi kondisi cerah b",
+      "published": "2026-08-22T23:53:24+00:00",
+      "source": "Antara Kepri Kesra",
+      "color": "#2d6a4f"
+    },
+    {
+      "title": "Gempa M 5,4 guncang Sulteng, getaran terasa hingga Gorontalo",
+      "link": "https://kepri.antaranews.com/berita/265745/gempa-m-54-guncang-sulteng-getaran-terasa-hingga-gorontalo",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/23/WhatsApp-Image-2026-08-23-at-03.55.31.jpeg\" />Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) melaporkan terjadinya gempa bumi tektonik dengan magnitudo 5,4 yang mengguncang wilayah perairan berjarak 57 kilome",
+      "published": "2026-08-22T23:43:14+00:00",
+      "source": "Antara Kepri",
+      "color": "#e63946"
+    },
+    {
+      "title": "Gempa M 5,4 guncang Sulteng, getaran terasa hingga Gorontalo",
+      "link": "https://kepri.antaranews.com/berita/265745/gempa-m-54-guncang-sulteng-getaran-terasa-hingga-gorontalo",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/23/WhatsApp-Image-2026-08-23-at-03.55.31.jpeg\" />Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) melaporkan terjadinya gempa bumi tektonik dengan magnitudo 5,4 yang mengguncang wilayah perairan berjarak 57 kilome",
+      "published": "2026-08-22T23:43:14+00:00",
+      "source": "Antara Kepri Top News",
+      "color": "#c1121f"
+    },
+    {
+      "title": "Gempa M 5,4 guncang Sulteng, getaran terasa hingga Gorontalo",
+      "link": "https://kepri.antaranews.com/berita/265745/gempa-m-54-guncang-sulteng-getaran-terasa-hingga-gorontalo",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/23/WhatsApp-Image-2026-08-23-at-03.55.31.jpeg\" />Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) melaporkan terjadinya gempa bumi tektonik dengan magnitudo 5,4 yang mengguncang wilayah perairan berjarak 57 kilome",
+      "published": "2026-08-22T23:43:14+00:00",
+      "source": "Antara Kepri Kesra",
+      "color": "#2d6a4f"
+    },
+    {
+      "title": "Rektor terkena OTT, Plh Rektor Unsoed tunggu putusan Kemdiktisainitek",
+      "link": "https://www.antaranews.com/video/5707264/rektor-terkena-ott-plh-rektor-unsoed-tunggu-putusan-kemdiktisainitek",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://cdn.antaranews.com/cache/800x533/2026/08/SANS_REKTOR-TERKENA-OTT-PLH-REKTOR-UNSOED-TUNGGU-PUTUSAN-KEMDIKTISAINITEK.jpg\" />ANTARA -Wakil Rektor Bidang Akademik Universitas Jenderal Soedirman (Unsoed), Prof. Noor Farid menyebut, pimpinan ...",
+      "published": "2026-08-22T23:41:38+00:00",
+      "source": "Antara Nasional",
+      "color": "#457b9d"
+    },
+    {
+      "title": "Man United ditekuk Hull City 0-2, Carrick: Satu laga tak ubah arah klub",
+      "link": "https://kepri.antaranews.com/berita/265743/man-united-ditekuk-hull-city-0-2-carrick-satu-laga-tak-ubah-arah-klub",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2016/03/20160310ManUnited-001x.jpg\" />Pelatih Manchester United, Michael Carrick, menegaskan kekalahan 0-2 dari tim promosi Hull City pada pekan perdana Liga Inggris musim 2026/2027 tidak akan mengubah arah proyek jangka panj",
+      "published": "2026-08-22T23:36:04+00:00",
+      "source": "Antara Kepri",
+      "color": "#e63946"
+    },
+    {
+      "title": "Man United ditekuk Hull City 0-2, Carrick: Satu laga tak ubah arah klub",
+      "link": "https://kepri.antaranews.com/berita/265743/man-united-ditekuk-hull-city-0-2-carrick-satu-laga-tak-ubah-arah-klub",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2016/03/20160310ManUnited-001x.jpg\" />Pelatih Manchester United, Michael Carrick, menegaskan kekalahan 0-2 dari tim promosi Hull City pada pekan perdana Liga Inggris musim 2026/2027 tidak akan mengubah arah proyek jangka panj",
+      "published": "2026-08-22T23:36:04+00:00",
+      "source": "Antara Kepri Top News",
+      "color": "#c1121f"
+    },
+    {
+      "title": "Man United ditekuk Hull City 0-2, Carrick: Satu laga tak ubah arah klub",
+      "link": "https://kepri.antaranews.com/berita/265743/man-united-ditekuk-hull-city-0-2-carrick-satu-laga-tak-ubah-arah-klub",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2016/03/20160310ManUnited-001x.jpg\" />Pelatih Manchester United, Michael Carrick, menegaskan kekalahan 0-2 dari tim promosi Hull City pada pekan perdana Liga Inggris musim 2026/2027 tidak akan mengubah arah proyek jangka panj",
+      "published": "2026-08-22T23:36:04+00:00",
+      "source": "Antara Kepri Olahraga",
+      "color": "#f77f00"
+    },
+    {
+      "title": "DKI sepekan, penanganan tawuran hingga PLTU Suralaya penyebab polusi",
+      "link": "https://www.antaranews.com/berita/5707261/dki-sepekan-penanganan-tawuran-hingga-pltu-suralaya-penyebab-polusi",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://cdn.antaranews.com/cache/800x533/2026/08/20/IMG_7688.jpeg\" />Sejumlah peristiwa yang terjadi di DKI Jakarta selama sepekan terakhir mulai dari penanganan tawuran di Jakarta harus ...",
+      "published": "2026-08-22T23:32:30+00:00",
+      "source": "Antara Nasional",
+      "color": "#457b9d"
+    },
+    {
+      "title": "Mekanisme regenerasi kolagen kulit hingga ribuan robot ikut lomba",
+      "link": "https://www.antaranews.com/berita/5707259/mekanisme-regenerasi-kolagen-kulithingga-ribuan-robot-ikut-lomba",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://cdn.antaranews.com/cache/800x533/2026/08/22/1000719238.jpg\" />&nbsp;Kanal lifestyle, tekno, otomotif, dan hiburan pada Sabtu (22/8) menyajikan beragam berita menarik di antaranya ...",
+      "published": "2026-08-22T23:31:44+00:00",
+      "source": "Antara Nasional",
+      "color": "#457b9d"
+    },
+    {
+      "title": "Kriminal sepekan, Ruben Onsu tersangka hingga pabrik uang palsu",
+      "link": "https://www.antaranews.com/berita/5707256/kriminal-sepekan-ruben-onsu-tersangka-hingga-pabrik-uang-palsu",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://cdn.antaranews.com/cache/800x533/2026/08/22/penggerebekan-percetakan-uang-palsu-22082026-bal-2.jpg\" />Sejumlah peristiwa kriminal yang terjadi di wilayah hukum Polda Metro Jaya selama sepekan terakhir mulai dari artis ...",
+      "published": "2026-08-22T23:28:49+00:00",
+      "source": "Antara Nasional",
+      "color": "#457b9d"
+    },
+    {
+      "title": "Pakai masker, kualitas udara Jakarta tidak sehat Minggu pagi",
+      "link": "https://www.antaranews.com/berita/5707252/pakai-masker-kualitas-udara-jakarta-tidak-sehat-minggu-pagi",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://cdn.antaranews.com/cache/800x533/2026/07/06/Kualitas-udara-di-Jakarta-060726-MRH-6A.jpg\" />Kualitas udara di Jakarta pada Minggu pagi masuk kategori tidak sehat dan menduduki peringkat lima sebagai kota dengan ...",
+      "published": "2026-08-22T23:24:35+00:00",
+      "source": "Antara Nasional",
+      "color": "#457b9d"
+    },
+    {
+      "title": "Espanyol vs Real Madrid 1-2, Debut Manis Jose Mourinho",
+      "link": "https://kepri.antaranews.com/berita/265739/espanyol-vs-real-madrid-1-2-debut-manis-jose-mourinho",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/23/1000049044.jpg\" />Jose Mourinho mengawali periode keduanya sebagai pelatih Real Madrid dengan catatan manis usai memetik kemenangan tipis 2-1 atas Espanyol pada pekan kedua Liga Spanyol (La Liga) di RCDE Stadium, M",
+      "published": "2026-08-22T23:18:48+00:00",
+      "source": "Antara Kepri",
+      "color": "#e63946"
+    },
+    {
+      "title": "Espanyol vs Real Madrid 1-2, Debut Manis Jose Mourinho",
+      "link": "https://kepri.antaranews.com/berita/265739/espanyol-vs-real-madrid-1-2-debut-manis-jose-mourinho",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/23/1000049044.jpg\" />Jose Mourinho mengawali periode keduanya sebagai pelatih Real Madrid dengan catatan manis usai memetik kemenangan tipis 2-1 atas Espanyol pada pekan kedua Liga Spanyol (La Liga) di RCDE Stadium, M",
+      "published": "2026-08-22T23:18:48+00:00",
+      "source": "Antara Kepri Top News",
+      "color": "#c1121f"
+    },
+    {
+      "title": "Espanyol vs Real Madrid 1-2, Debut Manis Jose Mourinho",
+      "link": "https://kepri.antaranews.com/berita/265739/espanyol-vs-real-madrid-1-2-debut-manis-jose-mourinho",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/23/1000049044.jpg\" />Jose Mourinho mengawali periode keduanya sebagai pelatih Real Madrid dengan catatan manis usai memetik kemenangan tipis 2-1 atas Espanyol pada pekan kedua Liga Spanyol (La Liga) di RCDE Stadium, M",
+      "published": "2026-08-22T23:18:48+00:00",
+      "source": "Antara Kepri Olahraga",
+      "color": "#f77f00"
+    },
+    {
+      "title": "Forum ulama satukan komitmen tolak politik uang di Muktamar ke-35 NU",
+      "link": "https://www.antaranews.com/berita/5707249/forum-ulama-satukan-komitmen-tolak-politik-uang-di-muktamar-ke-35-nu",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://cdn.antaranews.com/cache/800x533/2026/08/23/PhotoCollage_20260822_222159561.jpg\" />Forum Ulama Nahdliyyin (FUN) bersama sejumlah pengurus syuriyah dan tanfidziyah serta pengasuh pesantren menyerukan ...",
+      "published": "2026-08-22T23:11:38+00:00",
+      "source": "Antara Nasional",
+      "color": "#457b9d"
+    },
+    {
+      "title": "KASAL dan Gubernur Kalsel tinjau karhutla di Bandara Syamsudin Noor",
+      "link": "https://www.antaranews.com/video/5707240/kasal-dan-gubernur-kalsel-tinjau-karhutla-di-bandara-syamsudin-noor",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://cdn.antaranews.com/cache/800x533/2026/08/SANS_KASAL-DAN-GUBERNUR-KALSEL-TINJAU-KARHUTLA-DI-BANDARA-SYAMSUDIN-NOOR.jpg\" />ANTARA - Kepala Staf TNI Angkatan Laut (Kasal), Laksamana TNI Muhammad Ali, bersama Gubernur Kalimantan Selatan, ...",
+      "published": "2026-08-22T23:05:30+00:00",
+      "source": "Antara Nasional",
+      "color": "#457b9d"
+    },
+    {
+      "title": "Manchester United keok 0-2 lawan Hull City",
+      "link": "https://kepri.antaranews.com/berita/265736/manchester-united-keok-0-2-lawan-hull-city",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/22/1000048877.jpg\" />Manchester United mengawali Liga Inggris (Premier League) musim 2026/2027 dengan hasil mengecewakan usai tumbang 0-2 dari tim promosi Hull City pada laga pekan pertama di MKM Stadium, Sabtu (22/8)",
+      "published": "2026-08-22T23:04:45+00:00",
+      "source": "Antara Kepri",
+      "color": "#e63946"
+    },
+    {
+      "title": "Manchester United keok 0-2 lawan Hull City",
+      "link": "https://kepri.antaranews.com/berita/265736/manchester-united-keok-0-2-lawan-hull-city",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/22/1000048877.jpg\" />Manchester United mengawali Liga Inggris (Premier League) musim 2026/2027 dengan hasil mengecewakan usai tumbang 0-2 dari tim promosi Hull City pada laga pekan pertama di MKM Stadium, Sabtu (22/8)",
+      "published": "2026-08-22T23:04:45+00:00",
+      "source": "Antara Kepri Top News",
+      "color": "#c1121f"
+    },
+    {
+      "title": "Manchester United keok 0-2 lawan Hull City",
+      "link": "https://kepri.antaranews.com/berita/265736/manchester-united-keok-0-2-lawan-hull-city",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/22/1000048877.jpg\" />Manchester United mengawali Liga Inggris (Premier League) musim 2026/2027 dengan hasil mengecewakan usai tumbang 0-2 dari tim promosi Hull City pada laga pekan pertama di MKM Stadium, Sabtu (22/8)",
+      "published": "2026-08-22T23:04:45+00:00",
+      "source": "Antara Kepri Olahraga",
+      "color": "#f77f00"
+    },
+    {
+      "title": "Kisah GM Pelindo Maumere selamatkan korban gempa jatuh ke laut.",
+      "link": "https://www.antaranews.com/berita/5707245/kisah-gm-pelindo-maumere-selamatkan-korban-gempa-jatuh-ke-laut",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://cdn.antaranews.com/cache/800x533/2026/08/22/WhatsApp-Image-2569-08-22-at-19.19.44.jpeg\" />Gempa bumi magnitudo 7,7 yang berpusat di Mbay, Kabupaten Nagekeo, pada Sabtu (15/8) menjadi peristiwa kelam yang sulit ...",
+      "published": "2026-08-22T23:00:20+00:00",
+      "source": "Antara Nasional",
+      "color": "#457b9d"
+    },
+    {
+      "title": "Pemkab Natuna tingkatkan literasi warga melalui 192 perpustakaan",
+      "link": "https://kepri.antaranews.com/berita/265735/pemkab-natuna-tingkatkan-literasi-warga-melalui-192-perpustakaan",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/22/20260818_130710.jpg\" />Pemerintah Kabupaten (Pemkab) Natuna, Provinsi Kepulauan Riau, berupaya meningkatkan budaya literasi masyarakat di wilayah perbatasan tersebut melalui 192 perpustakaan.Sekretaris Daerah (Sekd",
+      "published": "2026-08-22T13:21:28+00:00",
+      "source": "Antara Kepri",
+      "color": "#e63946"
+    },
+    {
+      "title": "Pemkab Natuna tingkatkan literasi warga melalui 192 perpustakaan",
+      "link": "https://kepri.antaranews.com/berita/265735/pemkab-natuna-tingkatkan-literasi-warga-melalui-192-perpustakaan",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/22/20260818_130710.jpg\" />Pemerintah Kabupaten (Pemkab) Natuna, Provinsi Kepulauan Riau, berupaya meningkatkan budaya literasi masyarakat di wilayah perbatasan tersebut melalui 192 perpustakaan.Sekretaris Daerah (Sekd",
+      "published": "2026-08-22T13:21:28+00:00",
+      "source": "Antara Kepri Top News",
+      "color": "#c1121f"
+    },
+    {
+      "title": "Pemkab Natuna tingkatkan literasi warga melalui 192 perpustakaan",
+      "link": "https://kepri.antaranews.com/berita/265735/pemkab-natuna-tingkatkan-literasi-warga-melalui-192-perpustakaan",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/22/20260818_130710.jpg\" />Pemerintah Kabupaten (Pemkab) Natuna, Provinsi Kepulauan Riau, berupaya meningkatkan budaya literasi masyarakat di wilayah perbatasan tersebut melalui 192 perpustakaan.Sekretaris Daerah (Sekd",
+      "published": "2026-08-22T13:21:28+00:00",
+      "source": "Antara Kepri Kesra",
+      "color": "#2d6a4f"
+    },
+    {
+      "title": "Kementan beri bantuan 38.500 bibit kelapa untuk petani Natuna",
+      "link": "https://kepri.antaranews.com/berita/265733/kementan-beri-bantuan-38500-bibit-kelapa-untuk-petani-natuna",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/22/20260822_153510_0000.jpg\" />Kementerian Pertanian (Kementan) memberikan bantuan bibit kelapa dalam sebanyak 38.500 pohon bagi&nbsp; 497 petani untuk ditanam di lahan seluas 350 hektare di Kabupaten Natuna, Kepulaua",
+      "published": "2026-08-22T11:05:57+00:00",
+      "source": "Antara Kepri",
+      "color": "#e63946"
+    },
+    {
+      "title": "Kementan beri bantuan 38.500 bibit kelapa untuk petani Natuna",
+      "link": "https://kepri.antaranews.com/berita/265733/kementan-beri-bantuan-38500-bibit-kelapa-untuk-petani-natuna",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/22/20260822_153510_0000.jpg\" />Kementerian Pertanian (Kementan) memberikan bantuan bibit kelapa dalam sebanyak 38.500 pohon bagi&nbsp; 497 petani untuk ditanam di lahan seluas 350 hektare di Kabupaten Natuna, Kepulaua",
+      "published": "2026-08-22T11:05:57+00:00",
+      "source": "Antara Kepri Top News",
+      "color": "#c1121f"
+    },
+    {
+      "title": "Kementan beri bantuan 38.500 bibit kelapa untuk petani Natuna",
+      "link": "https://kepri.antaranews.com/berita/265733/kementan-beri-bantuan-38500-bibit-kelapa-untuk-petani-natuna",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/22/20260822_153510_0000.jpg\" />Kementerian Pertanian (Kementan) memberikan bantuan bibit kelapa dalam sebanyak 38.500 pohon bagi&nbsp; 497 petani untuk ditanam di lahan seluas 350 hektare di Kabupaten Natuna, Kepulaua",
+      "published": "2026-08-22T11:05:57+00:00",
+      "source": "Antara Kepri Ekonomi & FTZ",
+      "color": "#e85d04"
+    },
+    {
+      "title": "BI catat 54 UMKM Papua berhasil masuk Platform E-Commerce",
+      "link": "https://kepri.antaranews.com/berita/265729/bi-catat-54-umkm-papua-berhasil-masuk-platform-e-commerce",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/22/1002130061.jpg\" />Kantor Perwakilan Bank Indonesia Provinsi Papua mencatat sebanyak 54 Usaha Mikro, Kecil, dan Menengah (UMKM) Papua telah berhasil masuk atau onboarding ke berbagai platform e-commerce selama perio",
+      "published": "2026-08-22T10:44:12+00:00",
+      "source": "Antara Kepri",
+      "color": "#e63946"
+    },
+    {
+      "title": "BI catat 54 UMKM Papua berhasil masuk Platform E-Commerce",
+      "link": "https://kepri.antaranews.com/berita/265729/bi-catat-54-umkm-papua-berhasil-masuk-platform-e-commerce",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/22/1002130061.jpg\" />Kantor Perwakilan Bank Indonesia Provinsi Papua mencatat sebanyak 54 Usaha Mikro, Kecil, dan Menengah (UMKM) Papua telah berhasil masuk atau onboarding ke berbagai platform e-commerce selama perio",
+      "published": "2026-08-22T10:44:12+00:00",
+      "source": "Antara Kepri Top News",
+      "color": "#c1121f"
+    },
+    {
+      "title": "BI catat 54 UMKM Papua berhasil masuk Platform E-Commerce",
+      "link": "https://kepri.antaranews.com/berita/265729/bi-catat-54-umkm-papua-berhasil-masuk-platform-e-commerce",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/22/1002130061.jpg\" />Kantor Perwakilan Bank Indonesia Provinsi Papua mencatat sebanyak 54 Usaha Mikro, Kecil, dan Menengah (UMKM) Papua telah berhasil masuk atau onboarding ke berbagai platform e-commerce selama perio",
+      "published": "2026-08-22T10:44:12+00:00",
+      "source": "Antara Kepri Ekonomi & FTZ",
+      "color": "#e85d04"
+    },
+    {
+      "title": "Polisi ungkap 2 residivis terlibat sindikat uang palsu",
+      "link": "https://kepri.antaranews.com/berita/265727/polisi-ungkap-2-residivis-terlibat-sindikat-uang-palsu",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/22/1000927415.jpg\" />Polda Metro Jaya mengungkap keterlibatan dua orang residivis dalam sindikat kasus pemalsuan uang yang kembali&nbsp;memproduksi uang kertas palsu senilai Rp36 miliar di Ruko Taman Tekno, Kecamatan",
+      "published": "2026-08-22T09:13:44+00:00",
+      "source": "Antara Kepri",
+      "color": "#e63946"
+    },
+    {
+      "title": "Polisi ungkap 2 residivis terlibat sindikat uang palsu",
+      "link": "https://kepri.antaranews.com/berita/265727/polisi-ungkap-2-residivis-terlibat-sindikat-uang-palsu",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/22/1000927415.jpg\" />Polda Metro Jaya mengungkap keterlibatan dua orang residivis dalam sindikat kasus pemalsuan uang yang kembali&nbsp;memproduksi uang kertas palsu senilai Rp36 miliar di Ruko Taman Tekno, Kecamatan",
+      "published": "2026-08-22T09:13:44+00:00",
+      "source": "Antara Kepri Top News",
+      "color": "#c1121f"
+    },
+    {
+      "title": "Kebakaran hutan kepung perumahan dekat Bandara Internasional Syamsudin Noor",
+      "link": "https://kepri.antaranews.com/berita/265723/kebakaran-hutan-kepung-perumahan-dekat-bandara-internasional-syamsudin-noor",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/22/IMG_20260822_161428.jpg\" />Kebakaran hutan dan lahan (karhutla) mengepung kawasan perumahan dekat Bandara Internasional Syamsudin Noor, tepatnya di Jalan Usaha Tani dan Jalan Sempati, Kelurahan Syamsudin Noor, Banj",
+      "published": "2026-08-22T09:01:37+00:00",
+      "source": "Antara Kepri",
+      "color": "#e63946"
+    },
+    {
+      "title": "Kebakaran hutan kepung perumahan dekat Bandara Internasional Syamsudin Noor",
+      "link": "https://kepri.antaranews.com/berita/265723/kebakaran-hutan-kepung-perumahan-dekat-bandara-internasional-syamsudin-noor",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/22/IMG_20260822_161428.jpg\" />Kebakaran hutan dan lahan (karhutla) mengepung kawasan perumahan dekat Bandara Internasional Syamsudin Noor, tepatnya di Jalan Usaha Tani dan Jalan Sempati, Kelurahan Syamsudin Noor, Banj",
+      "published": "2026-08-22T09:01:37+00:00",
+      "source": "Antara Kepri Top News",
+      "color": "#c1121f"
+    },
+    {
+      "title": "Iran sebut sanksi ekonomi baru AS langgar kedaulatan",
+      "link": "https://kepri.antaranews.com/berita/265721/iran-sebut-sanksi-ekonomi-baru-as-langgar-kedaulatan",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/21/IranBenderadiMabesPBBXinhua_LiMuzi_am.jpg\" />Iran mengecam sanksi ekonomi baru Amerika Serikat&nbsp;terhadap Iran karena&nbsp;penerapan sanksi sekunder oleh AS melanggar kedaulatan negara-negara lain dan hukum inte",
+      "published": "2026-08-22T08:22:53+00:00",
+      "source": "Antara Kepri",
+      "color": "#e63946"
+    },
+    {
+      "title": "Iran sebut sanksi ekonomi baru AS langgar kedaulatan",
+      "link": "https://kepri.antaranews.com/berita/265721/iran-sebut-sanksi-ekonomi-baru-as-langgar-kedaulatan",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/21/IranBenderadiMabesPBBXinhua_LiMuzi_am.jpg\" />Iran mengecam sanksi ekonomi baru Amerika Serikat&nbsp;terhadap Iran karena&nbsp;penerapan sanksi sekunder oleh AS melanggar kedaulatan negara-negara lain dan hukum inte",
+      "published": "2026-08-22T08:22:53+00:00",
+      "source": "Antara Kepri Top News",
+      "color": "#c1121f"
+    },
+    {
+      "title": "Polda Metro bongkar pabrik uang palsu",
+      "link": "https://kepri.antaranews.com/berita/265720/polda-metro-bongkar-pabrik-uang-palsu",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/22/1000474371.jpg\" />Jajaran Direktorat Reserse Kriminal Khusus Polda Metro Jaya&nbsp;membongkar&nbsp;produksi uang palsu berskala besar pecahan Rp100.000 dengan total nilai konversi Rp36 miliar di kawasan Ruko Taman",
+      "published": "2026-08-22T08:04:41+00:00",
+      "source": "Antara Kepri",
+      "color": "#e63946"
+    },
+    {
+      "title": "Polda Metro bongkar pabrik uang palsu",
+      "link": "https://kepri.antaranews.com/berita/265720/polda-metro-bongkar-pabrik-uang-palsu",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/22/1000474371.jpg\" />Jajaran Direktorat Reserse Kriminal Khusus Polda Metro Jaya&nbsp;membongkar&nbsp;produksi uang palsu berskala besar pecahan Rp100.000 dengan total nilai konversi Rp36 miliar di kawasan Ruko Taman",
+      "published": "2026-08-22T08:04:41+00:00",
+      "source": "Antara Kepri Top News",
+      "color": "#c1121f"
+    },
+    {
+      "title": "Polda Metro bongkar pabrik uang palsu",
+      "link": "https://kepri.antaranews.com/berita/265720/polda-metro-bongkar-pabrik-uang-palsu",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/22/1000474371.jpg\" />Jajaran Direktorat Reserse Kriminal Khusus Polda Metro Jaya&nbsp;membongkar&nbsp;produksi uang palsu berskala besar pecahan Rp100.000 dengan total nilai konversi Rp36 miliar di kawasan Ruko Taman",
+      "published": "2026-08-22T08:04:41+00:00",
+      "source": "Antara Kepri Hukum",
+      "color": "#6a0572"
+    },
+    {
+      "title": "Prabowo tinjau langsung kebakaran hutan dan lahan di Kalimatan Barat",
+      "link": "https://kepri.antaranews.com/berita/265716/prabowo-tinjau-langsung-kebakaran-hutan-dan-lahan-di-kalimatan-barat",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/22/IMG_3818.jpeg\" />Presiden Prabowo Subianto meninjau langsung lokasi kebakaran hutan dan lahan di Desa Limbung, Kecamatan Sungai Raya, Kabupaten Kubu Raya, Kalimantan Barat, Sabtu.Peninjauan dilakukan setelah Presid",
+      "published": "2026-08-22T07:31:45+00:00",
+      "source": "Antara Kepri",
+      "color": "#e63946"
+    },
+    {
+      "title": "Prabowo tinjau langsung kebakaran hutan dan lahan di Kalimatan Barat",
+      "link": "https://kepri.antaranews.com/berita/265716/prabowo-tinjau-langsung-kebakaran-hutan-dan-lahan-di-kalimatan-barat",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/22/IMG_3818.jpeg\" />Presiden Prabowo Subianto meninjau langsung lokasi kebakaran hutan dan lahan di Desa Limbung, Kecamatan Sungai Raya, Kabupaten Kubu Raya, Kalimantan Barat, Sabtu.Peninjauan dilakukan setelah Presid",
+      "published": "2026-08-22T07:31:45+00:00",
+      "source": "Antara Kepri Top News",
+      "color": "#c1121f"
+    },
+    {
+      "title": "Harga emas di Pegadaian pada Sabtu ini",
+      "link": "https://kepri.antaranews.com/berita/265715/harga-emas-di-pegadaian-pada-sabtu-ini",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2025/11/04/UBS.jpg\" />Harga emas di laman Pegadaian dikutip dari Jakarta, Sabtu, pukul 10.39 WIB, menunjukkan harga emas jenama Galeri24, Antam, dan UBS masing-masing di angka Rp2.710.000, Rp2.782.000, dan Rp2.774.000 per gra",
+      "published": "2026-08-22T05:51:01+00:00",
+      "source": "Antara Kepri",
+      "color": "#e63946"
+    },
+    {
+      "title": "Harga emas di Pegadaian pada Sabtu ini",
+      "link": "https://kepri.antaranews.com/berita/265715/harga-emas-di-pegadaian-pada-sabtu-ini",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2025/11/04/UBS.jpg\" />Harga emas di laman Pegadaian dikutip dari Jakarta, Sabtu, pukul 10.39 WIB, menunjukkan harga emas jenama Galeri24, Antam, dan UBS masing-masing di angka Rp2.710.000, Rp2.782.000, dan Rp2.774.000 per gra",
+      "published": "2026-08-22T05:51:01+00:00",
+      "source": "Antara Kepri Top News",
+      "color": "#c1121f"
+    },
+    {
+      "title": "Harga emas di Pegadaian pada Sabtu ini",
+      "link": "https://kepri.antaranews.com/berita/265715/harga-emas-di-pegadaian-pada-sabtu-ini",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2025/11/04/UBS.jpg\" />Harga emas di laman Pegadaian dikutip dari Jakarta, Sabtu, pukul 10.39 WIB, menunjukkan harga emas jenama Galeri24, Antam, dan UBS masing-masing di angka Rp2.710.000, Rp2.782.000, dan Rp2.774.000 per gra",
+      "published": "2026-08-22T05:51:01+00:00",
+      "source": "Antara Kepri Ekonomi & FTZ",
+      "color": "#e85d04"
+    },
+    {
+      "title": "Bupati Natuna pastikan 3 gudang Bulog segera dibangun",
+      "link": "https://kepri.antaranews.com/berita/265711/bupati-natuna-pastikan-3-gudang-bulog-segera-dibangun",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/21/20260821_161247.jpg\" />Bupati Natuna, Kepulauan Riau,&nbsp;Cen Sui Lan memastikan sebanyak tiga gudang Perum Bulog segera dibangun, karena seluruh proses administrasi telah rampung.Cen, di Natuna, Jumat, mengatakan",
+      "published": "2026-08-22T04:04:09+00:00",
+      "source": "Antara Kepri Kesra",
+      "color": "#2d6a4f"
+    },
+    {
+      "title": "Harga emas Antam Sabtu ini naik",
+      "link": "https://kepri.antaranews.com/berita/265709/harga-emas-antam-sabtu-ini-naik",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/03/27/harga-emas-antam-turun-2762214.jpg\" />Harga emas Antam yang dipantau dari laman Logam Mulia, di Jakarta, Sabtu pukul 9.00 WIB mengalami kenaikan Rp15.000 dari semula Rp2.725.000 menjadi Rp2.740.000 per gram.Berikut",
+      "published": "2026-08-22T02:31:55+00:00",
+      "source": "Antara Kepri Ekonomi & FTZ",
+      "color": "#e85d04"
+    },
+    {
+      "title": "Pemkot Tanjungpinang tetapkan sejumlah produk unggulan untuk pasar nasional",
+      "link": "https://kepri.antaranews.com/berita/265705/pemkot-tanjungpinang-tetapkan-sejumlah-produk-unggulan-untuk-pasar-nasional",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/21/inbound5246862333587095588.jpg\" />Pemerintah Kota (Pemkot) Tanjungpinang, Kepulauan Riau (Kepri), telah menetapkan sejumlah produk unggulan UMKM daerah setempat untuk didorong masuk ke pasar atau go nasional.&quot;",
+      "published": "2026-08-22T02:12:02+00:00",
+      "source": "Antara Kepri Ekonomi & FTZ",
+      "color": "#e85d04"
+    },
+    {
+      "title": "Kebakaran di Kalimantan, Wamenko Pangan tinjau lokasi di Kalteng",
+      "link": "https://kepri.antaranews.com/berita/265704/kebakaran-di-kalimantan-wamenko-pangan-tinjau-lokasi-di-kalteng",
+      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/22/1001772921.jpg\" />Wakil Menteri Koordinator&nbsp;(Wamenko) Bidang Pangan Hanif Faisol Nurofiq meninjau langsung penanganan kebakaran hutan dan lahan (karhutla) di Kota Palangka Raya, Kalimantan Tengah (Kalteng) seb",
+      "published": "2026-08-22T00:46:19+00:00",
+      "source": "Antara Kepri Kesra",
+      "color": "#2d6a4f"
     },
     {
       "title": "Cuaca Kepri hari ini terik, suhu mencapai 35Celcius",
@@ -83,92 +491,12 @@
       "color": "#2d6a4f"
     },
     {
-      "title": "7 hikmah memperingati Maulid Nabi Muhammad SAW, bukan sekadar seremoni",
-      "link": "https://www.antaranews.com/berita/5706168/7-hikmah-memperingati-maulid-nabi-muhammad-saw-bukan-sekadar-seremoni",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://cdn.antaranews.com/cache/800x533/2026/08/20/1000654558.jpg\" />Peringatan Maulid Nabi Muhammad SAW menjadi momentum bagi umat Islam untuk mengenang kelahiran Rasulullah sekaligus ...",
-      "published": "2026-08-21T23:58:36+00:00",
-      "source": "Antara Nasional",
-      "color": "#457b9d"
-    },
-    {
-      "title": "Maulid Nabi: Sejarah, makna, dan alasan peringatannya",
-      "link": "https://www.antaranews.com/berita/5706164/maulid-nabi-sejarah-makna-dan-alasan-peringatannya",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://cdn.antaranews.com/cache/800x533/2026/08/20/tradisi-miyos-gongso-awal-sekaten-yogyakarta-2845969.jpg\" />Maulid Nabi Muhammad SAW menjadi salah satu tradisi keagamaan yang terus diperingati umat Islam. Peringatan ini menjadi ...",
-      "published": "2026-08-21T23:51:50+00:00",
-      "source": "Antara Nasional",
-      "color": "#457b9d"
-    },
-    {
-      "title": "SIM Keliling Sabtu di Jakarta dan sekitarnya tersedia di lokasi ini",
-      "link": "https://www.antaranews.com/berita/5706163/sim-keliling-sabtu-di-jakarta-dan-sekitarnya-tersedia-di-lokasi-ini",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://cdn.antaranews.com/cache/800x533/2026/08/13/Pelayanan-SIM-Keliling-sambut-HUT-Bhayangkara-ke-80-di-Ternate-028062026-ans-1.jpg\" />Direktorat Lalu Lintas Polda Metro Jaya pada Sabtu menyediakan layanan surat izin mengemudi (SIM Keliling) di tiga ...",
-      "published": "2026-08-21T23:43:16+00:00",
-      "source": "Antara Nasional",
-      "color": "#457b9d"
-    },
-    {
-      "title": "OTT di Unsoed,  KPK sita Rp764 juta",
-      "link": "https://kepri.antaranews.com/berita/265699/ott-di-unsoed-kpk-sita-rp764-juta",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/22/IMG_8621.jpg\" />Komisi Pemberantasan Korupsi (KPK) menyita barang bukti sejumlah Rp764 juta terkait kasus dugaan korupsi dalam penerimaan mahasiswa baru Universitas Jenderal Soedirman (Unsoed).&ldquo;Tim KPK mengam",
-      "published": "2026-08-21T23:34:44+00:00",
-      "source": "Antara Kepri",
-      "color": "#e63946"
-    },
-    {
-      "title": "OTT di Unsoed,  KPK sita Rp764 juta",
-      "link": "https://kepri.antaranews.com/berita/265699/ott-di-unsoed-kpk-sita-rp764-juta",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/22/IMG_8621.jpg\" />Komisi Pemberantasan Korupsi (KPK) menyita barang bukti sejumlah Rp764 juta terkait kasus dugaan korupsi dalam penerimaan mahasiswa baru Universitas Jenderal Soedirman (Unsoed).&ldquo;Tim KPK mengam",
-      "published": "2026-08-21T23:34:44+00:00",
-      "source": "Antara Kepri Top News",
-      "color": "#c1121f"
-    },
-    {
       "title": "OTT di Unsoed,  KPK sita Rp764 juta",
       "link": "https://kepri.antaranews.com/berita/265699/ott-di-unsoed-kpk-sita-rp764-juta",
       "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/22/IMG_8621.jpg\" />Komisi Pemberantasan Korupsi (KPK) menyita barang bukti sejumlah Rp764 juta terkait kasus dugaan korupsi dalam penerimaan mahasiswa baru Universitas Jenderal Soedirman (Unsoed).&ldquo;Tim KPK mengam",
       "published": "2026-08-21T23:34:44+00:00",
       "source": "Antara Kepri Hukum",
       "color": "#6a0572"
-    },
-    {
-      "title": "DKI kemarin, waspada kebakaran hingga teknologi olah sampah anorganik",
-      "link": "https://www.antaranews.com/berita/5706160/dki-kemarin-waspada-kebakaran-hingga-teknologi-olah-sampah-anorganik",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://cdn.antaranews.com/cache/800x533/2026/08/21/1000843854.jpg\" />Peristiwa penting dan menarik terjadi di Jakarta selama Jumat (21/8) mulai dari Wali Kota Jakpus mengingatkan warga ...",
-      "published": "2026-08-21T23:34:13+00:00",
-      "source": "Antara Nasional",
-      "color": "#457b9d"
-    },
-    {
-      "title": "Kriminal kemarin, tembakau sintetis hingga Ruben Onsu jadi tersangka",
-      "link": "https://www.antaranews.com/berita/5706159/kriminal-kemarin-tembakau-sintetis-hingga-ruben-onsu-jadi-tersangka",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://cdn.antaranews.com/cache/800x533/2026/04/17/IMG_20260417_155724.jpg\" />Sejumlah peristiwa kriminal terjadi di wilayah DKI Jakarta pada Jumat (21/8), mulai dari Polda Metro gagalkan peredaran ...",
-      "published": "2026-08-21T23:33:58+00:00",
-      "source": "Antara Nasional",
-      "color": "#457b9d"
-    },
-    {
-      "title": "Lima rekomendasi berkegiatan akhir pekan di Jakarta, banyak pameran",
-      "link": "https://www.antaranews.com/berita/5706155/lima-rekomendasi-berkegiatan-akhir-pekan-di-jakarta-banyak-pameran",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://cdn.antaranews.com/cache/800x533/2026/08/19/pameran-lukisan-art-for-peace-and-a-better-future-collaboration-2845175.jpg\" />Ibu kota Jakarta seolah tak pernah berhenti menyuguhkan berbagai pilihan kegiatan seru untuk dinikmati bersama keluarga ...",
-      "published": "2026-08-21T23:26:02+00:00",
-      "source": "Antara Nasional",
-      "color": "#457b9d"
-    },
-    {
-      "title": "Real Betis vs Real Sociedad 1-0, Gol Riquelme jadi penentu",
-      "link": "https://kepri.antaranews.com/berita/265695/real-betis-vs-real-sociedad-1-0-gol-riquelme-jadi-penentu",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/22/image-50.jpg\" />Real Betis mengamankan poin penuh usai memetik kemenangan tipis 1-0 atas Real Sociedad pada pertandingan pekan kedua Liga Spanyol (La Liga) di Stadion de La Cartuja, Sevilla, Jumat (21/8) malam wakt",
-      "published": "2026-08-21T23:17:27+00:00",
-      "source": "Antara Kepri",
-      "color": "#e63946"
-    },
-    {
-      "title": "Real Betis vs Real Sociedad 1-0, Gol Riquelme jadi penentu",
-      "link": "https://kepri.antaranews.com/berita/265695/real-betis-vs-real-sociedad-1-0-gol-riquelme-jadi-penentu",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/22/image-50.jpg\" />Real Betis mengamankan poin penuh usai memetik kemenangan tipis 1-0 atas Real Sociedad pada pertandingan pekan kedua Liga Spanyol (La Liga) di Stadion de La Cartuja, Sevilla, Jumat (21/8) malam wakt",
-      "published": "2026-08-21T23:17:27+00:00",
-      "source": "Antara Kepri Top News",
-      "color": "#c1121f"
     },
     {
       "title": "Real Betis vs Real Sociedad 1-0, Gol Riquelme jadi penentu",
@@ -179,60 +507,12 @@
       "color": "#f77f00"
     },
     {
-      "title": "Kementerian PU: Sungai Barito masih bisa dilalui kapal",
-      "link": "https://www.antaranews.com/berita/5706153/kementerian-pu-sungai-barito-masih-bisa-dilalui-kapal",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://cdn.antaranews.com/cache/800x533/2026/08/21/WhatsApp-Image-2026-08-21-at-18.53.33.jpg\" />Kementerian Pekerjaan Umum (PU) memastikan alur utama Sungai Barito di sekitar wilayah Kalahien, Kecamatan Dusun ...",
-      "published": "2026-08-21T23:12:58+00:00",
-      "source": "Antara Nasional",
-      "color": "#457b9d"
-    },
-    {
-      "title": "OTT di Unsoed, KPK ungkap peran guru  tawarkan kursi mahasiswa Rp50-500 juta",
-      "link": "https://kepri.antaranews.com/berita/265692/ott-di-unsoed-kpk-ungkap-peran-guru-tawarkan-kursi-mahasiswa-rp50-500-juta",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/22/IMG_8632.jpg\" />Komisi Pemberantasan Korupsi (KPK) mengungkapkan peran guru sebagai&nbsp;koordinator dalam proses penawaran &quot;kursi&quot;&nbsp;mahasiswa baru jalur mandiri Universitas Jenderal Soedirman (Unsoed",
-      "published": "2026-08-21T23:11:13+00:00",
-      "source": "Antara Kepri",
-      "color": "#e63946"
-    },
-    {
-      "title": "OTT di Unsoed, KPK ungkap peran guru  tawarkan kursi mahasiswa Rp50-500 juta",
-      "link": "https://kepri.antaranews.com/berita/265692/ott-di-unsoed-kpk-ungkap-peran-guru-tawarkan-kursi-mahasiswa-rp50-500-juta",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/22/IMG_8632.jpg\" />Komisi Pemberantasan Korupsi (KPK) mengungkapkan peran guru sebagai&nbsp;koordinator dalam proses penawaran &quot;kursi&quot;&nbsp;mahasiswa baru jalur mandiri Universitas Jenderal Soedirman (Unsoed",
-      "published": "2026-08-21T23:11:13+00:00",
-      "source": "Antara Kepri Top News",
-      "color": "#c1121f"
-    },
-    {
       "title": "OTT di Unsoed, KPK ungkap peran guru  tawarkan kursi mahasiswa Rp50-500 juta",
       "link": "https://kepri.antaranews.com/berita/265692/ott-di-unsoed-kpk-ungkap-peran-guru-tawarkan-kursi-mahasiswa-rp50-500-juta",
       "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/22/IMG_8632.jpg\" />Komisi Pemberantasan Korupsi (KPK) mengungkapkan peran guru sebagai&nbsp;koordinator dalam proses penawaran &quot;kursi&quot;&nbsp;mahasiswa baru jalur mandiri Universitas Jenderal Soedirman (Unsoed",
       "published": "2026-08-21T23:11:13+00:00",
       "source": "Antara Kepri Hukum",
       "color": "#6a0572"
-    },
-    {
-      "title": "DPRD DKI dan TAPD sepakati APBD Perubahan 2026 sebesar Rp79,59 triliun",
-      "link": "https://www.antaranews.com/berita/5706152/dprd-dki-dan-tapd-sepakati-apbd-perubahan-2026-sebesar-rp7959-triliun",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://cdn.antaranews.com/cache/800x533/2026/08/22/1000327534.jpg\" />Badan Anggaran DPRD DKI Jakarta bersama Tim Anggaran Pemerintah Daerah (TAPD) menyepakati Rancangan Perubahan Kebijakan ...",
-      "published": "2026-08-21T23:06:27+00:00",
-      "source": "Antara Nasional",
-      "color": "#457b9d"
-    },
-    {
-      "title": "Arsenal vs Coventry City 3-0, The Gunners Puncaki Klasemen Liga Inggris",
-      "link": "https://kepri.antaranews.com/berita/265691/arsenal-vs-coventry-city-3-0-the-gunners-puncaki-klasemen-liga-inggris",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/22/2291453850.jpg\" />Sang juara bertahan Arsenal sukses membuka pekan pertama Liga Inggris (Premier League) musim 2026/2027 dengan kemenangan telak 3-0 atas tim promosi Coventry City di Stadion Emirates, London, Jumat",
-      "published": "2026-08-21T23:03:12+00:00",
-      "source": "Antara Kepri",
-      "color": "#e63946"
-    },
-    {
-      "title": "Arsenal vs Coventry City 3-0, The Gunners Puncaki Klasemen Liga Inggris",
-      "link": "https://kepri.antaranews.com/berita/265691/arsenal-vs-coventry-city-3-0-the-gunners-puncaki-klasemen-liga-inggris",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/22/2291453850.jpg\" />Sang juara bertahan Arsenal sukses membuka pekan pertama Liga Inggris (Premier League) musim 2026/2027 dengan kemenangan telak 3-0 atas tim promosi Coventry City di Stadion Emirates, London, Jumat",
-      "published": "2026-08-21T23:03:12+00:00",
-      "source": "Antara Kepri Top News",
-      "color": "#c1121f"
     },
     {
       "title": "Arsenal vs Coventry City 3-0, The Gunners Puncaki Klasemen Liga Inggris",
@@ -247,22 +527,6 @@
       "link": "https://kepri.antaranews.com/berita/265689/menko-polkam-pencegahan-kejahatan-transnasional-perlu-libatkan-seluruh-aph",
       "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/21/IMG_2302.jpeg\" />Menteri Koordinator Bidang Politik dan Keamanan (Menko Polkam) Djamari Chaniago menegaskan upaya pencegahan dan pemberantasan kejahatan transnasional membutuhkan keterlibatan seluruh aparat penegak",
       "published": "2026-08-21T14:43:16+00:00",
-      "source": "Antara Kepri",
-      "color": "#e63946"
-    },
-    {
-      "title": "Menko Polkam: Pencegahan kejahatan transnasional perlu libatkan seluruh APH",
-      "link": "https://kepri.antaranews.com/berita/265689/menko-polkam-pencegahan-kejahatan-transnasional-perlu-libatkan-seluruh-aph",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/21/IMG_2302.jpeg\" />Menteri Koordinator Bidang Politik dan Keamanan (Menko Polkam) Djamari Chaniago menegaskan upaya pencegahan dan pemberantasan kejahatan transnasional membutuhkan keterlibatan seluruh aparat penegak",
-      "published": "2026-08-21T14:43:16+00:00",
-      "source": "Antara Kepri Top News",
-      "color": "#c1121f"
-    },
-    {
-      "title": "Menko Polkam: Pencegahan kejahatan transnasional perlu libatkan seluruh APH",
-      "link": "https://kepri.antaranews.com/berita/265689/menko-polkam-pencegahan-kejahatan-transnasional-perlu-libatkan-seluruh-aph",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/21/IMG_2302.jpeg\" />Menteri Koordinator Bidang Politik dan Keamanan (Menko Polkam) Djamari Chaniago menegaskan upaya pencegahan dan pemberantasan kejahatan transnasional membutuhkan keterlibatan seluruh aparat penegak",
-      "published": "2026-08-21T14:43:16+00:00",
       "source": "Antara Kepri Hukum",
       "color": "#6a0572"
     },
@@ -271,40 +535,8 @@
       "link": "https://kepri.antaranews.com/berita/265688/bnn-ri-penyelundupan-sabu-cair-dan-ketamin-di-kepri-berkaitan",
       "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/21/6d771c2f-0f30-4737-8a72-749072fe1be3.jpeg\" />Badan Narkotika Nasional (BNN) RI menyebut kasus penyelundupan 2,6 ton methamphetamine atau sabu cair yang diungkap di perairan Kepulauan Riau (Kepri) memiliki kaitan de",
       "published": "2026-08-21T13:28:35+00:00",
-      "source": "Antara Kepri",
-      "color": "#e63946"
-    },
-    {
-      "title": "BNN RI: Penyelundupan sabu cair dan ketamin di Kepri berkaitan",
-      "link": "https://kepri.antaranews.com/berita/265688/bnn-ri-penyelundupan-sabu-cair-dan-ketamin-di-kepri-berkaitan",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/21/6d771c2f-0f30-4737-8a72-749072fe1be3.jpeg\" />Badan Narkotika Nasional (BNN) RI menyebut kasus penyelundupan 2,6 ton methamphetamine atau sabu cair yang diungkap di perairan Kepulauan Riau (Kepri) memiliki kaitan de",
-      "published": "2026-08-21T13:28:35+00:00",
-      "source": "Antara Kepri Top News",
-      "color": "#c1121f"
-    },
-    {
-      "title": "BNN RI: Penyelundupan sabu cair dan ketamin di Kepri berkaitan",
-      "link": "https://kepri.antaranews.com/berita/265688/bnn-ri-penyelundupan-sabu-cair-dan-ketamin-di-kepri-berkaitan",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/21/6d771c2f-0f30-4737-8a72-749072fe1be3.jpeg\" />Badan Narkotika Nasional (BNN) RI menyebut kasus penyelundupan 2,6 ton methamphetamine atau sabu cair yang diungkap di perairan Kepulauan Riau (Kepri) memiliki kaitan de",
-      "published": "2026-08-21T13:28:35+00:00",
       "source": "Antara Kepri Hukum",
       "color": "#6a0572"
-    },
-    {
-      "title": "Bulog Natuna tambah pasokan 400 ton beras",
-      "link": "https://kepri.antaranews.com/berita/265684/bulog-natuna-tambah-pasokan-400-ton-beras",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/21/IMG-20260821-WA0203.jpg\" />Perum Bulog Cabang Natuna, Kepulauan Riau, menambah pasokan beras sebanyak 400 ton untuk memperkuat Cadangan Beras Pemerintah (CBP) serta mendukung penyaluran bantuan pangan kepada masyar",
-      "published": "2026-08-21T13:27:52+00:00",
-      "source": "Antara Kepri",
-      "color": "#e63946"
-    },
-    {
-      "title": "Bulog Natuna tambah pasokan 400 ton beras",
-      "link": "https://kepri.antaranews.com/berita/265684/bulog-natuna-tambah-pasokan-400-ton-beras",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/21/IMG-20260821-WA0203.jpg\" />Perum Bulog Cabang Natuna, Kepulauan Riau, menambah pasokan beras sebanyak 400 ton untuk memperkuat Cadangan Beras Pemerintah (CBP) serta mendukung penyaluran bantuan pangan kepada masyar",
-      "published": "2026-08-21T13:27:52+00:00",
-      "source": "Antara Kepri Top News",
-      "color": "#c1121f"
     },
     {
       "title": "Bulog Natuna tambah pasokan 400 ton beras",
@@ -319,40 +551,8 @@
       "link": "https://kepri.antaranews.com/berita/265681/bp-batam-polri-kerja-sama-perluas-pengamanan-di-22-pulau",
       "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/21/IMG_2250.jpeg\" />Badan Pengusahaan (BP) Batam, Kepulauan Riau (Kepri) bersama Kepolisian Negara Republik Indonesia (Polri) memperkuat kerja sama pengamanan wilayah kerja menyusul perluasan cakupan kawasan yang menj",
       "published": "2026-08-21T11:21:12+00:00",
-      "source": "Antara Kepri",
-      "color": "#e63946"
-    },
-    {
-      "title": "BP Batam-Polri kerja sama perluas pengamanan di 22 pulau",
-      "link": "https://kepri.antaranews.com/berita/265681/bp-batam-polri-kerja-sama-perluas-pengamanan-di-22-pulau",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/21/IMG_2250.jpeg\" />Badan Pengusahaan (BP) Batam, Kepulauan Riau (Kepri) bersama Kepolisian Negara Republik Indonesia (Polri) memperkuat kerja sama pengamanan wilayah kerja menyusul perluasan cakupan kawasan yang menj",
-      "published": "2026-08-21T11:21:12+00:00",
-      "source": "Antara Kepri Top News",
-      "color": "#c1121f"
-    },
-    {
-      "title": "BP Batam-Polri kerja sama perluas pengamanan di 22 pulau",
-      "link": "https://kepri.antaranews.com/berita/265681/bp-batam-polri-kerja-sama-perluas-pengamanan-di-22-pulau",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/21/IMG_2250.jpeg\" />Badan Pengusahaan (BP) Batam, Kepulauan Riau (Kepri) bersama Kepolisian Negara Republik Indonesia (Polri) memperkuat kerja sama pengamanan wilayah kerja menyusul perluasan cakupan kawasan yang menj",
-      "published": "2026-08-21T11:21:12+00:00",
       "source": "Antara Kepri Hukum",
       "color": "#6a0572"
-    },
-    {
-      "title": "Natuna dapat tambahan dua titik pembangunan KNMP",
-      "link": "https://kepri.antaranews.com/berita/265677/natuna-dapat-tambahan-dua-titik-pembangunan-knmp",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/21/20260821_162442.jpg\" />Kabupaten Natuna, Kepulauan Riau, mendapat tambahan dua titik pembangunan Koperasi Nelayan Merah Putih (KNMP) sebagai upaya memperkuat perekonomian masyarakat pesisir dan meningkatkan kesejah",
-      "published": "2026-08-21T11:01:16+00:00",
-      "source": "Antara Kepri",
-      "color": "#e63946"
-    },
-    {
-      "title": "Natuna dapat tambahan dua titik pembangunan KNMP",
-      "link": "https://kepri.antaranews.com/berita/265677/natuna-dapat-tambahan-dua-titik-pembangunan-knmp",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/21/20260821_162442.jpg\" />Kabupaten Natuna, Kepulauan Riau, mendapat tambahan dua titik pembangunan Koperasi Nelayan Merah Putih (KNMP) sebagai upaya memperkuat perekonomian masyarakat pesisir dan meningkatkan kesejah",
-      "published": "2026-08-21T11:01:16+00:00",
-      "source": "Antara Kepri Top News",
-      "color": "#c1121f"
     },
     {
       "title": "Natuna dapat tambahan dua titik pembangunan KNMP",
@@ -367,40 +567,8 @@
       "link": "https://kepri.antaranews.com/berita/265673/bnn-pengungkapan-26-ton-sabu-cair-selamatkan-141-juta-jiwa",
       "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/21/IMG_2279.jpeg\" />Badan Narkotika Nasional (BNN) RI memperkirakan penggagalan penyelundupan 2,6 ton methamphetamine atau sabu cair dari kapal MV Ocean Porter berpotensi menyelamatkan sekitar 14,1 juta jiwa dari peny",
       "published": "2026-08-21T10:55:29+00:00",
-      "source": "Antara Kepri",
-      "color": "#e63946"
-    },
-    {
-      "title": "BNN: Pengungkapan 2,6 ton sabu cair selamatkan 14,1 juta jiwa",
-      "link": "https://kepri.antaranews.com/berita/265673/bnn-pengungkapan-26-ton-sabu-cair-selamatkan-141-juta-jiwa",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/21/IMG_2279.jpeg\" />Badan Narkotika Nasional (BNN) RI memperkirakan penggagalan penyelundupan 2,6 ton methamphetamine atau sabu cair dari kapal MV Ocean Porter berpotensi menyelamatkan sekitar 14,1 juta jiwa dari peny",
-      "published": "2026-08-21T10:55:29+00:00",
-      "source": "Antara Kepri Top News",
-      "color": "#c1121f"
-    },
-    {
-      "title": "BNN: Pengungkapan 2,6 ton sabu cair selamatkan 14,1 juta jiwa",
-      "link": "https://kepri.antaranews.com/berita/265673/bnn-pengungkapan-26-ton-sabu-cair-selamatkan-141-juta-jiwa",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/21/IMG_2279.jpeg\" />Badan Narkotika Nasional (BNN) RI memperkirakan penggagalan penyelundupan 2,6 ton methamphetamine atau sabu cair dari kapal MV Ocean Porter berpotensi menyelamatkan sekitar 14,1 juta jiwa dari peny",
-      "published": "2026-08-21T10:55:29+00:00",
       "source": "Antara Kepri Hukum",
       "color": "#6a0572"
-    },
-    {
-      "title": "Amri/Nita bidik final Kejuaraan Dunia BWF 2026",
-      "link": "https://kepri.antaranews.com/berita/265672/amrinita-bidik-final-kejuaraan-dunia-bwf-2026",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/21/amrii-nitaa.jpeg\" />Ganda campuran Indonesia Amri Syahnawi/Nita Violina Marwah membidik tiket final Kejuaraan Dunia BWF 2026 setelah mencapai target melaju ke empat besar di New Delhi, India, Jumat.Amri/Nita melaju",
-      "published": "2026-08-21T09:54:25+00:00",
-      "source": "Antara Kepri",
-      "color": "#e63946"
-    },
-    {
-      "title": "Amri/Nita bidik final Kejuaraan Dunia BWF 2026",
-      "link": "https://kepri.antaranews.com/berita/265672/amrinita-bidik-final-kejuaraan-dunia-bwf-2026",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/21/amrii-nitaa.jpeg\" />Ganda campuran Indonesia Amri Syahnawi/Nita Violina Marwah membidik tiket final Kejuaraan Dunia BWF 2026 setelah mencapai target melaju ke empat besar di New Delhi, India, Jumat.Amri/Nita melaju",
-      "published": "2026-08-21T09:54:25+00:00",
-      "source": "Antara Kepri Top News",
-      "color": "#c1121f"
     },
     {
       "title": "Amri/Nita bidik final Kejuaraan Dunia BWF 2026",
@@ -415,22 +583,6 @@
       "link": "https://kepri.antaranews.com/berita/265671/kebakaran-di-kalimantan-kotim-hentikan-pembelajaran-tatap-muka",
       "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/21/1001771390.jpg\" />Pemerintah Kabupaten Kotawaringin Timur (Kotim), Kalimantan Tengah menghentikan sementara pembelajaran tatap muka di sekolah dan mengalihkan ke belajar dari rumah (BDR) untuk melindungi peserta di",
       "published": "2026-08-21T09:45:55+00:00",
-      "source": "Antara Kepri",
-      "color": "#e63946"
-    },
-    {
-      "title": "Kebakaran di Kalimantan, Kotim hentikan pembelajaran tatap muka",
-      "link": "https://kepri.antaranews.com/berita/265671/kebakaran-di-kalimantan-kotim-hentikan-pembelajaran-tatap-muka",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/21/1001771390.jpg\" />Pemerintah Kabupaten Kotawaringin Timur (Kotim), Kalimantan Tengah menghentikan sementara pembelajaran tatap muka di sekolah dan mengalihkan ke belajar dari rumah (BDR) untuk melindungi peserta di",
-      "published": "2026-08-21T09:45:55+00:00",
-      "source": "Antara Kepri Top News",
-      "color": "#c1121f"
-    },
-    {
-      "title": "Kebakaran di Kalimantan, Kotim hentikan pembelajaran tatap muka",
-      "link": "https://kepri.antaranews.com/berita/265671/kebakaran-di-kalimantan-kotim-hentikan-pembelajaran-tatap-muka",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/21/1001771390.jpg\" />Pemerintah Kabupaten Kotawaringin Timur (Kotim), Kalimantan Tengah menghentikan sementara pembelajaran tatap muka di sekolah dan mengalihkan ke belajar dari rumah (BDR) untuk melindungi peserta di",
-      "published": "2026-08-21T09:45:55+00:00",
       "source": "Antara Kepri Kesra",
       "color": "#2d6a4f"
     },
@@ -439,40 +591,8 @@
       "link": "https://kepri.antaranews.com/berita/265668/bpbd-natuna-imbau-warga-kurangi-aktivitas-di-luar-ruangan-akibat-kualitas-udara",
       "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/21/20260821_140855.jpg\" />Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Natuna, Provinsi Kepulauan Riau mengimbau warga mengurangi aktivitas di luar ruangan, menyusul turunnya kualitas udara akibat kabut asap.K",
       "published": "2026-08-21T09:24:20+00:00",
-      "source": "Antara Kepri",
-      "color": "#e63946"
-    },
-    {
-      "title": "BPBD Natuna imbau warga kurangi aktivitas di luar ruangan akibat kualitas udara",
-      "link": "https://kepri.antaranews.com/berita/265668/bpbd-natuna-imbau-warga-kurangi-aktivitas-di-luar-ruangan-akibat-kualitas-udara",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/21/20260821_140855.jpg\" />Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Natuna, Provinsi Kepulauan Riau mengimbau warga mengurangi aktivitas di luar ruangan, menyusul turunnya kualitas udara akibat kabut asap.K",
-      "published": "2026-08-21T09:24:20+00:00",
-      "source": "Antara Kepri Top News",
-      "color": "#c1121f"
-    },
-    {
-      "title": "BPBD Natuna imbau warga kurangi aktivitas di luar ruangan akibat kualitas udara",
-      "link": "https://kepri.antaranews.com/berita/265668/bpbd-natuna-imbau-warga-kurangi-aktivitas-di-luar-ruangan-akibat-kualitas-udara",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/21/20260821_140855.jpg\" />Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Natuna, Provinsi Kepulauan Riau mengimbau warga mengurangi aktivitas di luar ruangan, menyusul turunnya kualitas udara akibat kabut asap.K",
-      "published": "2026-08-21T09:24:20+00:00",
       "source": "Antara Kepri Kesra",
       "color": "#2d6a4f"
-    },
-    {
-      "title": "Lanud RSA Natuna perkuat ketahanan pangan keluarga lewat budidaya hidroponik",
-      "link": "https://kepri.antaranews.com/berita/265667/lanud-rsa-natuna-perkuat-ketahanan-pangan-keluarga-lewat-budidaya-hidroponik",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/21/IMG-20260820-WA0200.jpg\" />Pangkalan TNI Angkatan Udara (Lanu Raden Sadjad (RSA) Natuna, Kepulauan Riau, memperkuat ketahanan pangan keluarga melalui budidaya sayuran sistem hidroponik yang memanfaatkan lahan terba",
-      "published": "2026-08-21T09:07:56+00:00",
-      "source": "Antara Kepri",
-      "color": "#e63946"
-    },
-    {
-      "title": "Lanud RSA Natuna perkuat ketahanan pangan keluarga lewat budidaya hidroponik",
-      "link": "https://kepri.antaranews.com/berita/265667/lanud-rsa-natuna-perkuat-ketahanan-pangan-keluarga-lewat-budidaya-hidroponik",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/21/IMG-20260820-WA0200.jpg\" />Pangkalan TNI Angkatan Udara (Lanu Raden Sadjad (RSA) Natuna, Kepulauan Riau, memperkuat ketahanan pangan keluarga melalui budidaya sayuran sistem hidroponik yang memanfaatkan lahan terba",
-      "published": "2026-08-21T09:07:56+00:00",
-      "source": "Antara Kepri Top News",
-      "color": "#c1121f"
     },
     {
       "title": "Lanud RSA Natuna perkuat ketahanan pangan keluarga lewat budidaya hidroponik",
@@ -611,14 +731,6 @@
       "color": "#2d6a4f"
     },
     {
-      "title": "Kebakaran Kalimantan 48 ruko di Kalbar dilalap api",
-      "link": "https://kepri.antaranews.com/berita/265600/kebakaran-kalimantan-48-ruko-di-kalbar-dilalap-api",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/20/IMG-20260820-WA0066.jpg\" />Sebanyak 48 rumah toko (ruko) di kawasan Pasar Sungai Dur, Kabupaten Bengkayang, Kalimantan Barat, terbakar pada Kamis (20/8) malam.Kepala Desa Sungai Duri Heriyanto mengatakan, kebakaran",
-      "published": "2026-08-20T23:15:14+00:00",
-      "source": "Antara Kepri Kesra",
-      "color": "#2d6a4f"
-    },
-    {
       "title": "Ruben Onsu jadi tersangka penipuan investasi, ini kronologinya",
       "link": "https://kepri.antaranews.com/berita/265597/ruben-onsu-jadi-tersangka-penipuan-investasi-ini-kronologinya",
       "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/20/1001039383.jpg\" />Kepolisian mengungkapkan kronologi penetapan presenter dan artis Ruben Samuel Onsu (RSO) alias Ruben Onsu sebagai tersangka dalam kasus dugaan penipuan dan penggelapan investasi di Polres Metro Ja",
@@ -633,38 +745,6 @@
       "published": "2026-08-20T22:49:03+00:00",
       "source": "Antara Kepri Olahraga",
       "color": "#f77f00"
-    },
-    {
-      "title": "Gibran minta kebutuhan dasar warga terdampak gempa jadi prioritas penanganan",
-      "link": "https://kepri.antaranews.com/berita/265593/gibran-minta-kebutuhan-dasar-warga-terdampak-gempa-jadi-prioritas-penanganan",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/20/72edb6b4-f29e-4de2-ab61-f9f42ae430f7.jpeg\" />Wakil Presiden (Wapres) Gibran Rakabuming&nbsp;Raka meminta&nbsp;kebutuhan dasar warga jadi prioritas sebagai bagian dari penanganan pascabencana yang cepat, terpadu, da",
-      "published": "2026-08-20T15:54:48+00:00",
-      "source": "Antara Kepri Kesra",
-      "color": "#2d6a4f"
-    },
-    {
-      "title": "Gempa NTT, Gibran temui ibu dan bayi di ruangan darurat RSUD TC Hillers",
-      "link": "https://kepri.antaranews.com/berita/265589/gempa-ntt-gibran-temui-ibu-dan-bayi-di-ruangan-darurat-rsud-tc-hillers",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/20/IMG_5694.jpeg\" />Wakil Presiden (Wapres) Gibran Rakabuming berdialog dengan sejumlah ibu yang baru saja melahirkan dan dirawat di ruangan darurat Rumah Sakit Umum Daerah TC Hillers Maumere pascagempa di Kabupaten S",
-      "published": "2026-08-20T15:52:48+00:00",
-      "source": "Antara Kepri Kesra",
-      "color": "#2d6a4f"
-    },
-    {
-      "title": "Wapres kunjungi pengungsi, tinjau langsung kerusakan pelabuhan di Sikka",
-      "link": "https://kepri.antaranews.com/berita/265585/wapres-kunjungi-pengungsi-tinjau-langsung-kerusakan-pelabuhan-di-sikka",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/20/wapres-kunjungi-sikka-pascagempa-bumi-2846776.jpg\" />Wakil Presiden Gibran Rakabuming meninjau langsung Pelabuhan Laurentius Say yang rusak akibat gempa bumi dan berdialog dengan pengungsi serta membagikan mainan u",
-      "published": "2026-08-20T15:49:38+00:00",
-      "source": "Antara Kepri Kesra",
-      "color": "#2d6a4f"
-    },
-    {
-      "title": "Pemkab Natuna hadirkan sejumlah dokter layani CKG di Kelarik",
-      "link": "https://kepri.antaranews.com/berita/265583/pemkab-natuna-hadirkan-sejumlah-dokter-layani-ckg-di-kelarik",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/20/20260820_150258.jpg\" />Pemerintah Kabupaten (Pemkab) Natuna, Provinsi Kepulauan Riau, menghadirkan lima dokter dalam pelaksanaan Cek Kesehatan Gratis (CKG) di Kelarik, sebagai upaya memperluas akses layanan kesehat",
-      "published": "2026-08-20T13:54:59+00:00",
-      "source": "Antara Kepri Kesra",
-      "color": "#2d6a4f"
     },
     {
       "title": "Artis Ruben Onsu jadi tersangka kasus penipuan investasi",
@@ -747,30 +827,6 @@
       "color": "#6a0572"
     },
     {
-      "title": "Menteri Purbaya sebut pembatasan subsidi BBM bisa hemat anggaran 10%",
-      "link": "https://kepri.antaranews.com/berita/265549/menteri-purbaya-sebut-pembatasan-subsidi-bbm-bisa-hemat-anggaran-10",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/20/6751bad4-4534-4039-8c03-6497a95b95ed.jpeg\" />Menteri Keuangan (Menkeu) Purbaya Yudhi Sadewa mengatakan&nbsp;rencana pembatasan subsidi bahan bakar minyak (BBM) untuk desil 10 dapat menghemat sekitar 10 persen dari",
-      "published": "2026-08-20T06:30:29+00:00",
-      "source": "Antara Kepri Ekonomi & FTZ",
-      "color": "#e85d04"
-    },
-    {
-      "title": "BP catat realisasi Investasi Batam capai 55,67 persen target Rp70 triliun",
-      "link": "https://kepri.antaranews.com/berita/265548/bp-catat-realisasi-investasi-batam-capai-5567-persen-target-rp70-triliun",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/202608201313BP-catat-realisasi-Investasi-Batam-capai-55-67-target-Rp70-triliun.jpg.jpeg\" />Realisasi investasi di Kota Batam, Kepulauan Riau (Kepri), hingga Semester I 2026 mencapai Rp38,97 triliun atau 55,67 persen d",
-      "published": "2026-08-20T06:05:14+00:00",
-      "source": "Antara Kepri Ekonomi & FTZ",
-      "color": "#e85d04"
-    },
-    {
-      "title": "Mantan Dirut PGN divonis 4 tahun penjara terkait korupsi gas",
-      "link": "https://kepri.antaranews.com/berita/265543/mantan-dirut-pgn-divonis-4-tahun-penjara-terkait-korupsi-gas",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/20/1000497959.jpg\" />Mantan Direktur Utama PT Perusahaan Gas Negara (PGN) Tbk Hendi Prio Santoso divonis empat tahun penjara karena terbukti melakukan korupsi terkait kerja sama jual beli gas di PT PGN.Hakim Ketua Ni",
-      "published": "2026-08-20T05:38:39+00:00",
-      "source": "Antara Kepri Hukum",
-      "color": "#6a0572"
-    },
-    {
       "title": "Bukan emas 74 kg, Febrie Adriansyah minta barang pribadi yang tak berhubungan dikembalikan",
       "link": "https://kepri.antaranews.com/berita/265541/bukan-emas-74-kg-febrie-adriansyah-minta-barang-pribadi-yang-tak-berhubungan-dikembalikan",
       "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/20/1001037104.jpg\" />Advokat eks Jampidsus Febrie Adriansyah, Febri Diansyah menegaskan tidak ada permintaan pengembalian uang hingga 74 kilogram emas yang disita oleh pihak kepolisian dalam sejumlah kegiatan penggele",
@@ -779,66 +835,10 @@
       "color": "#f77f00"
     },
     {
-      "title": "Harga emas di Pegadaian hari ini kompak naik",
-      "link": "https://kepri.antaranews.com/berita/265539/harga-emas-di-pegadaian-hari-ini-kompak-naik",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/03/29/bazar-emas-pegadaian-di-palu-2718734.jpg\" />Harga emas di laman Pegadaian dikutip dari Jakarta, Kamis, pukul 10.40 WIB, menunjukkan harga emas jenama Galeri24, Antam, dan UBS masing-masing di angka Rp2.698.000, Rp2",
-      "published": "2026-08-20T04:14:52+00:00",
-      "source": "Antara Kepri Ekonomi & FTZ",
-      "color": "#e85d04"
-    },
-    {
       "title": "Tour de Bintan kembali digelar, diikuti 800 peserta dari 42 negara",
       "link": "https://kepri.antaranews.com/berita/265535/tour-de-bintan-kembali-digelar-diikuti-800-peserta-dari-42-negara",
       "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/20/Bintan-Marathon.jpg\" />Setelah sempat terhenti selama empat tahun, ajang balap sepeda internasional Tour de Bintan kembali digelar di Kawasan Pariwisata Lagoi Bay, Kabupaten Bintan, Kepulauan Riau, pada 21&ndash;23",
       "published": "2026-08-20T03:53:50+00:00",
-      "source": "Antara Kepri Olahraga",
-      "color": "#f77f00"
-    },
-    {
-      "title": "OJK catat literasi & keuangan masyarakat Kepri di atas rata-rata nasional",
-      "link": "https://kepri.antaranews.com/berita/265529/ojk-catat-literasi--keuangan-masyarakat-kepri-di-atas-rata-rata-nasional",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/20/IMG_2180.jpeg\" />Otoritas Jasa Keuangan (OJK) Provinsi Kepulauan Riau (Kepri) mencatat indeks literasi dan inklusi keuangan daerah berada di atas rata-rata nasional berdasarkan hasil Survei Nasional Literasi dan In",
-      "published": "2026-08-20T03:16:48+00:00",
-      "source": "Antara Kepri Ekonomi & FTZ",
-      "color": "#e85d04"
-    },
-    {
-      "title": "Harga emas Antam Kamis ini meroket",
-      "link": "https://kepri.antaranews.com/berita/265521/harga-emas-antam-kamis-ini-meroket",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/01/29/harga-emas-antam-naik-2717610.jpg\" />Harga emas Antam yang dipantau dari laman Logam Mulia, di Jakarta, Kamis pukul 8.55 WIB mengalami kenaikan Rp80.000 ke angka Rp2.725.000 dari semula Rp2.645.000 per gram.Berikut",
-      "published": "2026-08-20T02:10:12+00:00",
-      "source": "Antara Kepri Ekonomi & FTZ",
-      "color": "#e85d04"
-    },
-    {
-      "title": "Atletico Madrid vs Malaga 2-0, Lee Kang-in cetak gol perdana",
-      "link": "https://kepri.antaranews.com/berita/265516/atletico-madrid-vs-malaga-2-0-lee-kang-in-cetak-gol-perdana",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/20/1000047844.jpg\" />Atletico Madrid sukses mengawali kampanye Liga Spanyol (La Liga) musim 2026/2027 dengan memetik kemenangan 2-0 atas Malaga di Metropolitano Stadium, Kamis (20/8) dini hari WIB.Dua gol kemenangan s",
-      "published": "2026-08-20T00:14:47+00:00",
-      "source": "Antara Kepri Olahraga",
-      "color": "#f77f00"
-    },
-    {
-      "title": "Barcelona vs Al Ahly 2-1, Barca Juara Joan Gamper 2026",
-      "link": "https://kepri.antaranews.com/berita/265507/barcelona-vs-al-ahly-2-1-barca-juara-joan-gamper-2026",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/20/1000047816.jpg\" />Barcelona sukses mengamankan gelar juara Joan Gamper Trophy 2026 usai memetik kemenangan tipis 2-1 atas klub&nbsp;Mesir, Al Ahly, pada laga pramusim di Stadion Camp Nou, Kamis (20/8) dini hari WIB",
-      "published": "2026-08-19T23:15:57+00:00",
-      "source": "Antara Kepri Olahraga",
-      "color": "#f77f00"
-    },
-    {
-      "title": "Vietnam vs Malaysia 2-0, Golden Star tantang Thailand di Final AFF",
-      "link": "https://kepri.antaranews.com/berita/265505/vietnam-vs-malaysia-2-0-golden-star-tantang-thailand-di-final-aff",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/19/4571787153072-asean-hyundai-cup-2026-semi-final-2nd-leg-vietnam-2-0-malaysia-vietnam-win-4-0-on-aggregate.jpg\" />Tim nasional Vietnam memastikan tempat di babak final Piala AFF 2026 usai mengandaskan Malaysia denga",
-      "published": "2026-08-19T22:59:53+00:00",
-      "source": "Antara Kepri Olahraga",
-      "color": "#f77f00"
-    },
-    {
-      "title": "Gagal melaju ke final Piala AFF, Pelatih Gavin Lee sebut sepak bola itu kejam",
-      "link": "https://kepri.antaranews.com/berita/265475/gagal-melaju-ke-final-piala-aff-pelatih-gavin-lee-sebut-sepak-bola-itu-kejam",
-      "summary": "<img align=\"left\" border=\"0\" src=\"https://img.antaranews.com/cache/800x533/2026/08/18/5091786969152-lee-seeks-semi-final-rebound-as-singapore-target-fightback-against-thailand.jpg\" />Pelatih Timnas Singapura Gavin Lee menyebut sepak bola itu kejam setelah tim asuhannya gagal melaju ke final Piala AF",
-      "published": "2026-08-19T08:15:49+00:00",
       "source": "Antara Kepri Olahraga",
       "color": "#f77f00"
     },
